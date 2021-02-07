@@ -6,11 +6,11 @@
 
 ---
 
-## 현재까지 푼 문제 수 (총 33문제)
+## 현재까지 푼 문제 수 (총 34문제)
 
 * `Baekjoon` : **21**문제
 * `Programmers` : **0**문제
-* `SWExpert` : **12**문제
+* `SWExpert` : **13**문제
 
 ---
 
@@ -43,6 +43,7 @@
 - [Baekjoon - 피자 (Small)](https://www.acmicpc.net/problem/14606)
 - [SWExpert - 정사각형 방](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LtJYKDzsDFAXc)
 - [SWExpert - 퍼펙트 셔플](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWGsRbk6AQIDFAVW)
+- [SWExpert - 'S/W 문제해결 기본' 6일차 - 계산기2](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14nnAaAFACFAYD)
 - [Baekjoon - 후위 표기식](https://www.acmicpc.net/problem/1918)
 - [Baekjoon - 후위 표기식2](https://www.acmicpc.net/problem/1935)
 - [Baekjoon - 요세푸스 문제 0](https://www.acmicpc.net/problem/11866)

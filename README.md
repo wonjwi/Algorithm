@@ -6,9 +6,9 @@
 
 ---
 
-## 현재까지 푼 문제 수 (총 40문제)
+## 현재까지 푼 문제 수 (총 41문제)
 
-* `Baekjoon` : **23**문제
+* `Baekjoon` : **24**문제
 * `Programmers` : **0**문제
 * `SWExpert` : **17**문제
 
@@ -60,6 +60,7 @@
 - [SWExpert - 'S/W 문제해결 기본' 8일차 - 암호문1](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14w-rKAHACFAYD)
 - [SWExpert - 가랏! RC카](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PjMgaALgDFAUq)
 - [SWExpert - 한빈이와 Spot Mart](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AW8Wj7cqbY0DFAXN)
+- [Baekjoon - 피보나치 함수](https://www.acmicpc.net/problem/1003)
 - 아래는 푸는 중
 - [Baekjoon - 비밀번호 제작](https://www.acmicpc.net/problem/20304)
 - [Baekjoon - 풍선 터뜨리기](https://www.acmicpc.net/problem/2346)
@@ -82,6 +83,7 @@
 - [SWExpert - 'S/W 문제해결 기본' 8일차 - 암호문1](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14w-rKAHACFAYD)
 - [SWExpert - 가랏! RC카](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PjMgaALgDFAUq)
 - [SWExpert - 한빈이와 Spot Mart](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AW8Wj7cqbY0DFAXN)
+- [Baekjoon - 피보나치 함수](https://www.acmicpc.net/problem/1003)
 - 아래는 푸는 중
 - [Baekjoon - 비밀번호 제작](https://www.acmicpc.net/problem/20304)
 - [Baekjoon - 풍선 터뜨리기](https://www.acmicpc.net/problem/2346)

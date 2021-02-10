@@ -88,11 +88,11 @@
 - [SWExpert - 가랏! RC카](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PjMgaALgDFAUq)
 - [SWExpert - 한빈이와 Spot Mart](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AW8Wj7cqbY0DFAXN)
 - [Baekjoon - 피보나치 함수](https://www.acmicpc.net/problem/1003)
-- 아래는 푸는 중
-- [Baekjoon - 비밀번호 제작](https://www.acmicpc.net/problem/20304)
-- [Baekjoon - 풍선 터뜨리기](https://www.acmicpc.net/problem/2346)
-- [Baekjoon - AC](https://www.acmicpc.net/problem/5430)
 - [Baekjoon - 요세푸스 문제](https://www.acmicpc.net/problem/1158)
 - [SWExpert - 'S/W 문제해결 기본' 9일차 - 사칙연산 유효성 검사](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV141176AIwCFAYD)
 - [SWExpert - 스도쿠 검증](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5Psz16AYEDFAUq)
 - [Baekjoon - 색종이](https://www.acmicpc.net/problem/2563)
+- 아래는 푸는 중
+- [Baekjoon - 비밀번호 제작](https://www.acmicpc.net/problem/20304)
+- [Baekjoon - 풍선 터뜨리기](https://www.acmicpc.net/problem/2346)
+- [Baekjoon - AC](https://www.acmicpc.net/problem/5430)

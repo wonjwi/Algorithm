@@ -14,10 +14,11 @@
 
 ---
 
+### 2021년 2월
+   
 <details>
-    <summary>2021년 2월</summary>
-    
-### 1주차 (2/1~2/7)
+    <summary>1주차 (2/1~2/7)</summary>
+
 - [SWExpert - 원재의 메모리 복구하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV19AcoKI9sCFAZN)
 - [Baekjoon - 재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478)
 - [Baekjoon - 스위치 켜고 끄기](https://www.acmicpc.net/problem/1244)
@@ -52,8 +53,12 @@
 - [Baekjoon - N과 M (10)](https://www.acmicpc.net/problem/15664)
 - [Baekjoon - N과 M (11)](https://www.acmicpc.net/problem/15665)
 - [Baekjoon - N과 M (12)](https://www.acmicpc.net/problem/15666)
+    
+</details>
 
-### 2주차 (2/8~2/14)
+<details>
+    <summary>2주차 (2/8~2/14)</summary>
+
 - [Baekjoon - 일우는 야바위꾼](https://www.acmicpc.net/problem/20361)
 - [Baekjoon - 3대 측정](https://www.acmicpc.net/problem/20299)
 - [SWExpert - 햄버거 다이어트](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWT-lPB6dHUDFAVT)
@@ -70,10 +75,18 @@
 - [Baekjoon - 풍선 터뜨리기](https://www.acmicpc.net/problem/2346)
 - [Baekjoon - AC](https://www.acmicpc.net/problem/5430)
 
-### 3주차 (2/15~2/21)
+</details>
+
+<details>
+    <summary>3주차 (2/15~2/21)</summary>
+
 -
 
-### 4주차 (2/22~2/28)
+</details>
+
+<details>
+    <summary>4주차 (2/22~2/28)</summary>
+
 -
 
 </details>
@@ -92,7 +105,3 @@
 - [SWExpert - 'S/W 문제해결 기본' 9일차 - 사칙연산 유효성 검사](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV141176AIwCFAYD)
 - [SWExpert - 스도쿠 검증](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5Psz16AYEDFAUq)
 - [Baekjoon - 색종이](https://www.acmicpc.net/problem/2563)
-- 아래는 푸는 중
-- [Baekjoon - 비밀번호 제작](https://www.acmicpc.net/problem/20304)
-- [Baekjoon - 풍선 터뜨리기](https://www.acmicpc.net/problem/2346)
-- [Baekjoon - AC](https://www.acmicpc.net/problem/5430)

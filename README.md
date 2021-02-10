@@ -70,6 +70,9 @@
 - [SWExpert - 'S/W 문제해결 기본' 9일차 - 사칙연산 유효성 검사](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV141176AIwCFAYD)
 - [SWExpert - 스도쿠 검증](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5Psz16AYEDFAUq)
 - [Baekjoon - 색종이](https://www.acmicpc.net/problem/2563)
+- [Baekjoon - 배열 돌리기1](https://www.acmicpc.net/problem/16926)
+- [Baekjoon - 배열 돌리기4](https://www.acmicpc.net/problem/17406)
+- [Baekjoon - 배열 돌리기3](https://www.acmicpc.net/problem/16935)
 - 아래는 푸는 중
 - [Baekjoon - 비밀번호 제작](https://www.acmicpc.net/problem/20304)
 - [Baekjoon - 풍선 터뜨리기](https://www.acmicpc.net/problem/2346)
@@ -105,3 +108,6 @@
 - [SWExpert - 'S/W 문제해결 기본' 9일차 - 사칙연산 유효성 검사](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV141176AIwCFAYD)
 - [SWExpert - 스도쿠 검증](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5Psz16AYEDFAUq)
 - [Baekjoon - 색종이](https://www.acmicpc.net/problem/2563)
+- [Baekjoon - 배열 돌리기1](https://www.acmicpc.net/problem/16926)
+- [Baekjoon - 배열 돌리기4](https://www.acmicpc.net/problem/17406)
+- [Baekjoon - 배열 돌리기3](https://www.acmicpc.net/problem/16935)

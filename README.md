@@ -6,9 +6,9 @@
 
 ---
 
-## 현재까지 푼 문제 수 (총 48문제)
+## 현재까지 푼 문제 수 (총 50문제)
 
-* `Baekjoon` : **29**문제
+* `Baekjoon` : **31**문제
 * `Programmers` : **0**문제
 * `SWExpert` : **19**문제
 
@@ -73,8 +73,6 @@
 - [Baekjoon - 배열 돌리기1](https://www.acmicpc.net/problem/16926)
 - [Baekjoon - 배열 돌리기4](https://www.acmicpc.net/problem/17406)
 - [Baekjoon - 배열 돌리기3](https://www.acmicpc.net/problem/16935)
-- 아래는 푸는 중
-- [Baekjoon - 비밀번호 제작](https://www.acmicpc.net/problem/20304)
 - [Baekjoon - 풍선 터뜨리기](https://www.acmicpc.net/problem/2346)
 - [Baekjoon - AC](https://www.acmicpc.net/problem/5430)
 
@@ -82,32 +80,25 @@
 
 <details>
     <summary>3주차 (2/15~2/21)</summary>
-
--
+   
+- [SWExpert - 규영이와 인영이의 카드게임](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWgv9va6HnkDFAW0)
+- [Baekjoon - 도영이가 만든 맛있는 음식](https://www.acmicpc.net/problem/2961)
+- [Baekjoon - 백설 공주와 일곱 난쟁이](https://www.acmicpc.net/problem/3040)
+- 아래는 푸는 중
+- [Baekjoon - 비밀번호 제작](https://www.acmicpc.net/problem/20304)
 
 </details>
 
 <details>
     <summary>4주차 (2/22~2/28)</summary>
-
+   
 -
 
 </details>
 
 ---
 
-### 2주차 (2/8~2/14)
-- [Baekjoon - 일우는 야바위꾼](https://www.acmicpc.net/problem/20361)
-- [Baekjoon - 3대 측정](https://www.acmicpc.net/problem/20299)
-- [SWExpert - 햄버거 다이어트](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWT-lPB6dHUDFAVT)
-- [SWExpert - 'S/W 문제해결 기본' 8일차 - 암호문1](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14w-rKAHACFAYD)
-- [SWExpert - 가랏! RC카](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PjMgaALgDFAUq)
-- [SWExpert - 한빈이와 Spot Mart](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AW8Wj7cqbY0DFAXN)
-- [Baekjoon - 피보나치 함수](https://www.acmicpc.net/problem/1003)
-- [Baekjoon - 요세푸스 문제](https://www.acmicpc.net/problem/1158)
-- [SWExpert - 'S/W 문제해결 기본' 9일차 - 사칙연산 유효성 검사](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV141176AIwCFAYD)
-- [SWExpert - 스도쿠 검증](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5Psz16AYEDFAUq)
-- [Baekjoon - 색종이](https://www.acmicpc.net/problem/2563)
-- [Baekjoon - 배열 돌리기1](https://www.acmicpc.net/problem/16926)
-- [Baekjoon - 배열 돌리기4](https://www.acmicpc.net/problem/17406)
-- [Baekjoon - 배열 돌리기3](https://www.acmicpc.net/problem/16935)
+### 3주차 (2/15~2/21)
+- [SWExpert - 규영이와 인영이의 카드게임](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWgv9va6HnkDFAW0)
+- [Baekjoon - 도영이가 만든 맛있는 음식](https://www.acmicpc.net/problem/2961)
+- [Baekjoon - 백설 공주와 일곱 난쟁이](https://www.acmicpc.net/problem/3040)

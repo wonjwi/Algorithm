@@ -6,9 +6,9 @@
 
 ---
 
-## 현재까지 푼 문제 수 (총 54문제)
+## 현재까지 푼 문제 수 (총 55문제)
 
-* `Baekjoon` : **34**문제
+* `Baekjoon` : **35**문제
 * `JUNGOL` : **0**문제
 * `Programmers` : **0**문제
 * `SWExpert` : **20**문제
@@ -86,9 +86,9 @@
 - [Baekjoon - 도영이가 만든 맛있는 음식](https://www.acmicpc.net/problem/2961)
 - [Baekjoon - 백설 공주와 일곱 난쟁이](https://www.acmicpc.net/problem/3040)
 - [Baekjoon - 설탕 배달](https://www.acmicpc.net/problem/2839)
+- [Baekjoon - Z](https://www.acmicpc.net/problem/1074)
 - 아래는 푸는 중
 - [Baekjoon - 비밀번호 제작](https://www.acmicpc.net/problem/20304) `시험`
-- [Baekjoon - Z](https://www.acmicpc.net/problem/1074) `워크샵`
 - [JUNGOL - 냉장고](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=1101&stx=1828) `홈워크`
 - [Baekjoon - 알파벳](https://www.acmicpc.net/problem/1987) `스터디`
 - [Baekjoon - 로봇 청소기](https://www.acmicpc.net/problem/14503) `스터디`
@@ -109,3 +109,4 @@
 - [Baekjoon - 도영이가 만든 맛있는 음식](https://www.acmicpc.net/problem/2961)
 - [Baekjoon - 백설 공주와 일곱 난쟁이](https://www.acmicpc.net/problem/3040)
 - [Baekjoon - 설탕 배달](https://www.acmicpc.net/problem/2839)
+- [Baekjoon - Z](https://www.acmicpc.net/problem/1074)

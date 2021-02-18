@@ -6,9 +6,9 @@
 
 ---
 
-## 현재까지 푼 문제 수 (총 57문제)
+## 현재까지 푼 문제 수 (총 58문제)
 
-* `Baekjoon` : **36**문제
+* `Baekjoon` : **37**문제
 * `JUNGOL` : **1**문제
 * `Programmers` : **0**문제
 * `SWExpert` : **20**문제
@@ -89,10 +89,7 @@
 - [Baekjoon - Z](https://www.acmicpc.net/problem/1074)
 - [JUNGOL - 냉장고](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=1101&stx=1828)
 - [Baekjoon - 치킨 배달](https://www.acmicpc.net/problem/15686)
-- 아래는 푸는 중
-- [Baekjoon - 비밀번호 제작](https://www.acmicpc.net/problem/20304) `시험`
-- [Baekjoon - 알파벳](https://www.acmicpc.net/problem/1987) `스터디`
-- [Baekjoon - 로봇 청소기](https://www.acmicpc.net/problem/14503) `스터디`
+- [Baekjoon - 빵집](https://www.acmicpc.net/problem/3109)
 
 </details>
 
@@ -113,3 +110,4 @@
 - [Baekjoon - Z](https://www.acmicpc.net/problem/1074)
 - [JUNGOL - 냉장고](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=1101&stx=1828)
 - [Baekjoon - 치킨 배달](https://www.acmicpc.net/problem/15686)
+- [Baekjoon - 빵집](https://www.acmicpc.net/problem/3109)

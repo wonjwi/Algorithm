@@ -6,12 +6,12 @@
 
 ---
 
-## 현재까지 푼 문제 수 (총 62문제)
+## 현재까지 푼 문제 수 (총 64문제)
 
 * `Baekjoon` : **39**문제
 * `JUNGOL` : **2**문제
 * `Programmers` : **0**문제
-* `SWExpert` : **21**문제
+* `SWExpert` : **23**문제
 
 ---
 
@@ -94,6 +94,8 @@
 - [JUNGOL - 오목](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=1006&stx=1733)
 - [Baekjoon - 알파벳](https://www.acmicpc.net/problem/1987)
 - [Baekjoon - 로봇 청소기](https://www.acmicpc.net/problem/14503)
+- [SWExpert - 요리사](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeUtVakTMDFAVH)
+- [SWExpert - 준환이의 양팔저울](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWAe7XSKfUUDFAUw)
 
 </details>
 
@@ -119,3 +121,5 @@
 - [JUNGOL - 오목](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=1006&stx=1733)
 - [Baekjoon - 알파벳](https://www.acmicpc.net/problem/1987)
 - [Baekjoon - 로봇 청소기](https://www.acmicpc.net/problem/14503)
+- [SWExpert - 요리사](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeUtVakTMDFAVH)
+- [SWExpert - 준환이의 양팔저울](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWAe7XSKfUUDFAUw)

@@ -6,9 +6,9 @@
 
 ---
 
-## 현재까지 푼 문제 수 (총 67문제)
+## 현재까지 푼 문제 수 (총 68문제)
 
-* `Baekjoon` : **42**문제
+* `Baekjoon` : **43**문제
 * `JUNGOL` : **2**문제
 * `Programmers` : **0**문제
 * `SWExpert` : **23**문제
@@ -99,6 +99,7 @@
 - [Baekjoon - 봄버맨](https://www.acmicpc.net/problem/16918)
 - [Baekjoon - GCD 합](https://www.acmicpc.net/problem/9613)
 - [Baekjoon - 캐슬 디펜스](https://www.acmicpc.net/problem/17135)
+- [Baekjoon - 일곱 난쟁이](https://www.acmicpc.net/problem/2309)
 
 </details>
 
@@ -129,3 +130,4 @@
 - [Baekjoon - 봄버맨](https://www.acmicpc.net/problem/16918)
 - [Baekjoon - GCD 합](https://www.acmicpc.net/problem/9613)
 - [Baekjoon - 캐슬 디펜스](https://www.acmicpc.net/problem/17135)
+- [Baekjoon - 일곱 난쟁이](https://www.acmicpc.net/problem/2309)

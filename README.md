@@ -6,9 +6,9 @@
 
 ---
 
-## 현재까지 푼 문제 수 (총 68문제)
+## 현재까지 푼 문제 수 (총 69문제)
 
-* `Baekjoon` : **43**문제
+* `Baekjoon` : **44**문제
 * `JUNGOL` : **2**문제
 * `Programmers` : **0**문제
 * `SWExpert` : **23**문제
@@ -100,6 +100,7 @@
 - [Baekjoon - GCD 합](https://www.acmicpc.net/problem/9613)
 - [Baekjoon - 캐슬 디펜스](https://www.acmicpc.net/problem/17135)
 - [Baekjoon - 일곱 난쟁이](https://www.acmicpc.net/problem/2309)
+- [Baekjoon - 거꾸로 구구단](https://www.acmicpc.net/problem/13410)
 
 </details>
 
@@ -112,22 +113,5 @@
 
 ---
 
-### 3주차 (2/15~2/21)
-- [SWExpert - 규영이와 인영이의 카드게임](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWgv9va6HnkDFAW0)
-- [Baekjoon - 도영이가 만든 맛있는 음식](https://www.acmicpc.net/problem/2961)
-- [Baekjoon - 백설 공주와 일곱 난쟁이](https://www.acmicpc.net/problem/3040)
-- [Baekjoon - 설탕 배달](https://www.acmicpc.net/problem/2839)
-- [Baekjoon - Z](https://www.acmicpc.net/problem/1074)
-- [JUNGOL - 냉장고](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=1101&stx=1828)
-- [Baekjoon - 치킨 배달](https://www.acmicpc.net/problem/15686)
-- [Baekjoon - 빵집](https://www.acmicpc.net/problem/3109)
-- [SWExpert - 최적 경로](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15OZ4qAPICFAYD)
-- [JUNGOL - 오목](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=1006&stx=1733)
-- [Baekjoon - 알파벳](https://www.acmicpc.net/problem/1987)
-- [Baekjoon - 로봇 청소기](https://www.acmicpc.net/problem/14503)
-- [SWExpert - 요리사](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeUtVakTMDFAVH)
-- [SWExpert - 준환이의 양팔저울](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWAe7XSKfUUDFAUw)
-- [Baekjoon - 봄버맨](https://www.acmicpc.net/problem/16918)
-- [Baekjoon - GCD 합](https://www.acmicpc.net/problem/9613)
-- [Baekjoon - 캐슬 디펜스](https://www.acmicpc.net/problem/17135)
-- [Baekjoon - 일곱 난쟁이](https://www.acmicpc.net/problem/2309)
+### 4주차 (2/22~2/28)
+- 

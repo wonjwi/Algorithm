@@ -6,12 +6,12 @@
 
 ---
 
-## 현재까지 푼 문제 수 (총 70문제)
+## 현재까지 푼 문제 수 (총 71문제)
 
 * `Baekjoon` : **44**문제
 * `JUNGOL` : **2**문제
 * `Programmers` : **0**문제
-* `SWExpert` : **24**문제
+* `SWExpert` : **25**문제
 
 ---
 
@@ -108,6 +108,7 @@
     <summary>4주차 (2/22~2/28)</summary>
    
 - [SWExpert - 부먹왕국의 차원 관문](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWuSgKpqmooDFASy)
+- [SWExpert - 삼성시의 버스 노선](https://swexpertacademy.com/main/code/problem/problemSubmitHistory.do?contestProbId=AWczm7QaACgDFAWn)
 
 </details>
 
@@ -115,3 +116,4 @@
 
 ### 4주차 (2/22~2/28)
 - [SWExpert - 부먹왕국의 차원 관문](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWuSgKpqmooDFASy)
+- [SWExpert - 삼성시의 버스 노선](https://swexpertacademy.com/main/code/problem/problemSubmitHistory.do?contestProbId=AWczm7QaACgDFAWn)

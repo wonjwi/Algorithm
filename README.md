@@ -115,6 +115,7 @@
 - [SWExpert - 프로세서 연결하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4suNtaXFEDFAUf)
 - [Baekjoon - 줄 세우기](https://www.acmicpc.net/problem/2605)
 - [Baekjoon - 빙고](https://www.acmicpc.net/problem/2578)
+- [Baekjoon - 쿼드트리](https://www.acmicpc.net/problem/1992)
 
 </details>
 
@@ -129,3 +130,4 @@
 - [SWExpert - 프로세서 연결하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4suNtaXFEDFAUf)
 - [Baekjoon - 줄 세우기](https://www.acmicpc.net/problem/2605)
 - [Baekjoon - 빙고](https://www.acmicpc.net/problem/2578)
+- [Baekjoon - 쿼드트리](https://www.acmicpc.net/problem/1992)

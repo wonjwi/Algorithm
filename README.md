@@ -6,12 +6,12 @@
 
 ---
 
-## 현재까지 푼 문제 수 (총 74문제)
+## 현재까지 푼 문제 수 (총 75문제)
 
 * `Baekjoon` : **44**문제
 * `JUNGOL` : **2**문제
 * `Programmers` : **0**문제
-* `SWExpert` : **28**문제
+* `SWExpert` : **29**문제
 
 ---
 
@@ -112,6 +112,7 @@
 - [SWExpert - 의석이의 세로로 말해요](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWVWgkP6sQ0DFAUO)
 - [SWExpert - 성공적인 공연 기획](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWS2dSgKA8MDFAVT)
 - [SWExpert - 테네스의 특별한 소수](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWRuoqCKkE0DFAXt)
+- [SWExpert - 프로세서 연결하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4suNtaXFEDFAUf)
 
 </details>
 
@@ -123,3 +124,4 @@
 - [SWExpert - 의석이의 세로로 말해요](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWVWgkP6sQ0DFAUO)
 - [SWExpert - 성공적인 공연 기획](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWS2dSgKA8MDFAVT)
 - [SWExpert - 테네스의 특별한 소수](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWRuoqCKkE0DFAXt)
+- [SWExpert - 프로세서 연결하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4suNtaXFEDFAUf)

@@ -6,9 +6,9 @@
 
 ---
 
-## 현재까지 푼 문제 수 (총 78문제)
+## 현재까지 푼 문제 수 (총 80문제)
 
-* `Baekjoon` : **47**문제
+* `Baekjoon` : **49**문제
 * `JUNGOL` : **2**문제
 * `Programmers` : **0**문제
 * `SWExpert` : **29**문제
@@ -116,6 +116,8 @@
 - [Baekjoon - 줄 세우기](https://www.acmicpc.net/problem/2605)
 - [Baekjoon - 빙고](https://www.acmicpc.net/problem/2578)
 - [Baekjoon - 쿼드트리](https://www.acmicpc.net/problem/1992)
+- [Baekjoon - 경비원](https://www.acmicpc.net/problem/2564)
+- [Baekjoon - 수열](https://www.acmicpc.net/problem/2491)
 
 </details>
 
@@ -131,3 +133,5 @@
 - [Baekjoon - 줄 세우기](https://www.acmicpc.net/problem/2605)
 - [Baekjoon - 빙고](https://www.acmicpc.net/problem/2578)
 - [Baekjoon - 쿼드트리](https://www.acmicpc.net/problem/1992)
+- [Baekjoon - 경비원](https://www.acmicpc.net/problem/2564)
+- [Baekjoon - 수열](https://www.acmicpc.net/problem/2491)

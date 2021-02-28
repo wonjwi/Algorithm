@@ -6,9 +6,9 @@
 
 ---
 
-## 현재까지 푼 문제 수 (총 83문제)
+## 현재까지 푼 문제 수 (총 84문제)
 
-* `Baekjoon` : **51**문제
+* `Baekjoon` : **52**문제
 * `JUNGOL` : **3**문제
 * `Programmers` : **0**문제
 * `SWExpert` : **29**문제
@@ -124,20 +124,16 @@
 
 </details>
 
+### 2021년 3월
+   
+<details>
+    <summary>1주차 (3/1~3/7)</summary>
+
+- [Baekjoon - 벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)
+    
+</details>
+
 ---
 
-### 4주차 (2/22~2/28)
-- [SWExpert - 부먹왕국의 차원 관문](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWuSgKpqmooDFASy)
-- [SWExpert - 삼성시의 버스 노선](https://swexpertacademy.com/main/code/problem/problemSubmitHistory.do?contestProbId=AWczm7QaACgDFAWn)
-- [SWExpert - 의석이의 세로로 말해요](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWVWgkP6sQ0DFAUO)
-- [SWExpert - 성공적인 공연 기획](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWS2dSgKA8MDFAVT)
-- [SWExpert - 테네스의 특별한 소수](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWRuoqCKkE0DFAXt)
-- [SWExpert - 프로세서 연결하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4suNtaXFEDFAUf)
-- [Baekjoon - 줄 세우기](https://www.acmicpc.net/problem/2605)
-- [Baekjoon - 빙고](https://www.acmicpc.net/problem/2578)
-- [Baekjoon - 쿼드트리](https://www.acmicpc.net/problem/1992)
-- [Baekjoon - 경비원](https://www.acmicpc.net/problem/2564)
-- [Baekjoon - 수열](https://www.acmicpc.net/problem/2491)
-- [Baekjoon - 토마토](https://www.acmicpc.net/problem/7576)
-- [Baekjoon - 토마토](https://www.acmicpc.net/problem/7569)
-- [JUNGOL - 조커](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=488)
+### 1주차 (3/1~3/7)
+- [Baekjoon - 벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)

@@ -6,9 +6,9 @@
 
 ---
 
-## 현재까지 푼 문제 수 (총 84문제)
+## 현재까지 푼 문제 수 (총 86문제)
 
-* `Baekjoon` : **52**문제
+* `Baekjoon` : **54**문제
 * `JUNGOL` : **3**문제
 * `Programmers` : **0**문제
 * `SWExpert` : **29**문제
@@ -132,6 +132,8 @@
 - [Baekjoon - 벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)
 - [Baekjoon - 아기 상어](https://www.acmicpc.net/problem/16236)
 - [Baekjoon - 행복 유치원](https://www.acmicpc.net/problem/13164)
+- [Baekjoon - 청소년 상어](https://www.acmicpc.net/problem/19236)
+- [Baekjoon - 당근 키우기](https://www.acmicpc.net/problem/20363)
     
 </details>
 
@@ -141,3 +143,5 @@
 - [Baekjoon - 벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)
 - [Baekjoon - 아기 상어](https://www.acmicpc.net/problem/16236)
 - [Baekjoon - 행복 유치원](https://www.acmicpc.net/problem/13164)
+- [Baekjoon - 청소년 상어](https://www.acmicpc.net/problem/19236)
+- [Baekjoon - 당근 키우기](https://www.acmicpc.net/problem/20363)

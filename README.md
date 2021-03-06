@@ -134,6 +134,8 @@
 - [Baekjoon - 행복 유치원](https://www.acmicpc.net/problem/13164)
 - [Baekjoon - 청소년 상어](https://www.acmicpc.net/problem/19236)
 - [Baekjoon - 당근 키우기](https://www.acmicpc.net/problem/20363)
+- [Baekjoon - 연구소](https://www.acmicpc.net/problem/14502)
+- [Baekjoon - 미로 탐색](https://www.acmicpc.net/problem/2178)
     
 </details>
 
@@ -145,3 +147,5 @@
 - [Baekjoon - 행복 유치원](https://www.acmicpc.net/problem/13164)
 - [Baekjoon - 청소년 상어](https://www.acmicpc.net/problem/19236)
 - [Baekjoon - 당근 키우기](https://www.acmicpc.net/problem/20363)
+- [Baekjoon - 연구소](https://www.acmicpc.net/problem/14502)
+- [Baekjoon - 미로 탐색](https://www.acmicpc.net/problem/2178)

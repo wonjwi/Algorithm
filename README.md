@@ -6,9 +6,9 @@
 
 ---
 
-## 현재까지 푼 문제 수 (총 88문제)
+## 현재까지 푼 문제 수 (총 89문제)
 
-* `Baekjoon` : **56**문제
+* `Baekjoon` : **57**문제
 * `JUNGOL` : **3**문제
 * `Programmers` : **0**문제
 * `SWExpert` : **29**문제
@@ -139,13 +139,14 @@
     
 </details>
 
+<details>
+    <summary>2주차 (3/8~3/14)</summary>
+
+- [Baekjoon - 퇴사](https://www.acmicpc.net/problem/14501)
+    
+</details>
+
 ---
 
-### 1주차 (3/1~3/7)
-- [Baekjoon - 벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)
-- [Baekjoon - 아기 상어](https://www.acmicpc.net/problem/16236)
-- [Baekjoon - 행복 유치원](https://www.acmicpc.net/problem/13164)
-- [Baekjoon - 청소년 상어](https://www.acmicpc.net/problem/19236)
-- [Baekjoon - 당근 키우기](https://www.acmicpc.net/problem/20363)
-- [Baekjoon - 연구소](https://www.acmicpc.net/problem/14502)
-- [Baekjoon - 미로 탐색](https://www.acmicpc.net/problem/2178)
+### 2주차 (3/8~3/14)
+- [Baekjoon - 퇴사](https://www.acmicpc.net/problem/14501)

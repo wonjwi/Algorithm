@@ -6,9 +6,9 @@
 
 ---
 
-## 현재까지 푼 문제 수 (총 92문제)
+## 현재까지 푼 문제 수 (총 93문제)
 
-* `Baekjoon` : **58**문제
+* `Baekjoon` : **59**문제
 * `JUNGOL` : **3**문제
 * `Programmers` : **2**문제
 * `SWExpert` : **29**문제
@@ -146,6 +146,7 @@
 - [Baekjoon - 움직이는 미로 탈출](https://www.acmicpc.net/problem/16954)
 - [Programmers - 주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584)
 - [Programmers - 크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)
+- [Baekjoon - 명령 프롬프트](https://www.acmicpc.net/problem/1032)
     
 </details>
 
@@ -156,3 +157,4 @@
 - [Baekjoon - 움직이는 미로 탈출](https://www.acmicpc.net/problem/16954)
 - [Programmers - 주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584)
 - [Programmers - 크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)
+- [Baekjoon - 명령 프롬프트](https://www.acmicpc.net/problem/1032)

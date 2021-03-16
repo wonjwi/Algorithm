@@ -34,7 +34,7 @@ public class SW4008_숫자만들기 {
 			// 4. 나눗셈을 할 때 소수점 이하는 버리기
 			max = Integer.MIN_VALUE;
 			min = Integer.MAX_VALUE;
-			permutation(numbers, plus, minus, multi, divi, 0, 0);
+			permutation(numbers, plus, minus, multi, divi, 1, numbers[0]);
 			sb.append("#").append(tc).append(" ").append(max-min).append("\n");
 		}
 		System.out.println(sb.toString());
@@ -45,10 +45,6 @@ public class SW4008_숫자만들기 {
 			max = Math.max(max, sum);
 			min = Math.min(min, sum);
 			return;
-		}
-		// 제일 앞의 숫자는 그냥 넣기!
-		if (cnt == 0) {
-			permutation(numbers, plus, minus, multi, divi, cnt+1, sum+numbers[cnt]);
 		}
 		// 연산자 카드가 남아있으면 계산 시도
 		if (plus > 0) {

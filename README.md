@@ -6,12 +6,12 @@
 
 ---
 
-## 현재까지 푼 문제 수 (총 96문제)
+## 현재까지 푼 문제 수 (총 98문제)
 
 * `Baekjoon` : **62**문제
 * `JUNGOL` : **3**문제
 * `Programmers` : **2**문제
-* `SWExpert` : **29**문제
+* `SWExpert` : **31**문제
 
 ---
 
@@ -150,6 +150,8 @@
 - [Baekjoon - 기차가 어둠을 헤치고 은하수를](https://www.acmicpc.net/problem/15787)
 - [Baekjoon - 공주님을 구해라!](https://www.acmicpc.net/problem/17836)
 - [Baekjoon - 분산처리](https://www.acmicpc.net/problem/1009)
+- [SWExpert - 홈 방범 서비스](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V61LqAf8DFAWu)
+- [SWExpert - 숫자 만들기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeRZV6kBUDFAVH)
     
 </details>
 
@@ -164,3 +166,5 @@
 - [Baekjoon - 기차가 어둠을 헤치고 은하수를](https://www.acmicpc.net/problem/15787)
 - [Baekjoon - 공주님을 구해라!](https://www.acmicpc.net/problem/17836)
 - [Baekjoon - 분산처리](https://www.acmicpc.net/problem/1009)
+- [SWExpert - 홈 방범 서비스](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V61LqAf8DFAWu)
+- [SWExpert - 숫자 만들기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeRZV6kBUDFAVH)

@@ -150,6 +150,12 @@
 - [Baekjoon - 기차가 어둠을 헤치고 은하수를](https://www.acmicpc.net/problem/15787)
 - [Baekjoon - 공주님을 구해라!](https://www.acmicpc.net/problem/17836)
 - [Baekjoon - 분산처리](https://www.acmicpc.net/problem/1009)
+    
+</details>
+
+<details>
+    <summary>3주차 (3/15~3/21)</summary>
+
 - [SWExpert - 홈 방범 서비스](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V61LqAf8DFAWu)
 - [SWExpert - 숫자 만들기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeRZV6kBUDFAVH)
     
@@ -157,14 +163,6 @@
 
 ---
 
-### 2주차 (3/8~3/14)
-- [Baekjoon - 퇴사](https://www.acmicpc.net/problem/14501)
-- [Baekjoon - 움직이는 미로 탈출](https://www.acmicpc.net/problem/16954)
-- [Programmers - 주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584)
-- [Programmers - 크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)
-- [Baekjoon - 명령 프롬프트](https://www.acmicpc.net/problem/1032)
-- [Baekjoon - 기차가 어둠을 헤치고 은하수를](https://www.acmicpc.net/problem/15787)
-- [Baekjoon - 공주님을 구해라!](https://www.acmicpc.net/problem/17836)
-- [Baekjoon - 분산처리](https://www.acmicpc.net/problem/1009)
+### 3주차 (3/15~3/21)
 - [SWExpert - 홈 방범 서비스](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V61LqAf8DFAWu)
 - [SWExpert - 숫자 만들기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeRZV6kBUDFAVH)

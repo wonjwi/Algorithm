@@ -168,6 +168,7 @@
 |SWExpert|[서로소 집합](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWBJKA6qr2oDFAWr)|그래프|D4|
 |SWExpert|[무선 충전](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRDL1aeugDFAUo)|구현, 시뮬레이션|모의 SW 역량테스트|
 |SWExpert|[원자 소멸 시뮬레이션](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRFInKex8DFAUo)|구현, 시뮬레이션|모의 SW 역량테스트|
+|Baekjoon|[친구비](https://www.acmicpc.net/problem/16562)|그래프, 자료 구조, 집합|Gold 3|
     
 </details>
 
@@ -182,3 +183,4 @@
 |SWExpert|[서로소 집합](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWBJKA6qr2oDFAWr)|그래프|D4|
 |SWExpert|[무선 충전](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRDL1aeugDFAUo)|구현, 시뮬레이션|모의 SW 역량테스트|
 |SWExpert|[원자 소멸 시뮬레이션](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRFInKex8DFAUo)|구현, 시뮬레이션|모의 SW 역량테스트|
+|Baekjoon|[친구비](https://www.acmicpc.net/problem/16562)|그래프, 자료 구조, 집합|Gold 3|

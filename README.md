@@ -6,12 +6,12 @@
 
 ---
 
-## 현재까지 푼 문제 수 (총 98문제)
+## 현재까지 푼 문제 수 (총 100문제)
 
-* `Baekjoon` : **62**문제
+* `Baekjoon` : **63**문제
 * `JUNGOL` : **3**문제
 * `Programmers` : **2**문제
-* `SWExpert` : **31**문제
+* `SWExpert` : **32**문제
 
 ---
 
@@ -158,6 +158,7 @@
 
 - [SWExpert - 홈 방범 서비스](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V61LqAf8DFAWu)
 - [SWExpert - 숫자 만들기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeRZV6kBUDFAVH)
+- [Baekjoon - 스타트와 링크](https://www.acmicpc.net/problem/14889)
 - [SWExpert - 서로소 집합](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWBJKA6qr2oDFAWr)
     
 </details>
@@ -167,4 +168,5 @@
 ### 3주차 (3/15~3/21)
 - [SWExpert - 홈 방범 서비스](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V61LqAf8DFAWu)
 - [SWExpert - 숫자 만들기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeRZV6kBUDFAVH)
+- [Baekjoon - 스타트와 링크](https://www.acmicpc.net/problem/14889)
 - [SWExpert - 서로소 집합](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWBJKA6qr2oDFAWr)

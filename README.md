@@ -162,8 +162,8 @@
 
 |사이트|문제|알고리즘|난이도|
 |---|---|---|---|
-|SWExpert|[홈 방범 서비스](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V61LqAf8DFAWu)||모의 SW 역량테스트|
-|SWExpert|[숫자 만들기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeRZV6kBUDFAVH)||모의 SW 역량테스트|
+|SWExpert|[홈 방범 서비스](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V61LqAf8DFAWu)|구현, 시뮬레이션|모의 SW 역량테스트|
+|SWExpert|[숫자 만들기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeRZV6kBUDFAVH)|브루트포스|모의 SW 역량테스트|
 |Baekjoon|[스타트와 링크](https://www.acmicpc.net/problem/14889)|브루트포스, 백트래킹|Silver 3|
 |SWExpert|[서로소 집합](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWBJKA6qr2oDFAWr)|그래프|D4|
 |SWExpert|[무선 충전](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRDL1aeugDFAUo)|구현, 시뮬레이션|모의 SW 역량테스트|
@@ -177,8 +177,8 @@
 ### 3주차 (3/15~3/21)
 |사이트|문제|알고리즘|난이도|
 |---|---|---|---|
-|SWExpert|[홈 방범 서비스](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V61LqAf8DFAWu)||모의 SW 역량테스트|
-|SWExpert|[숫자 만들기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeRZV6kBUDFAVH)||모의 SW 역량테스트|
+|SWExpert|[홈 방범 서비스](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V61LqAf8DFAWu)|구현, 시뮬레이션|모의 SW 역량테스트|
+|SWExpert|[숫자 만들기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeRZV6kBUDFAVH)|브루트포스|모의 SW 역량테스트|
 |Baekjoon|[스타트와 링크](https://www.acmicpc.net/problem/14889)|브루트포스, 백트래킹|Silver 3|
 |SWExpert|[서로소 집합](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWBJKA6qr2oDFAWr)|그래프|D4|
 |SWExpert|[무선 충전](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRDL1aeugDFAUo)|구현, 시뮬레이션|모의 SW 역량테스트|

@@ -129,44 +129,52 @@
 <details>
     <summary>1주차 (3/1~3/7)</summary>
 
-- [Baekjoon - 벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)
-- [Baekjoon - 아기 상어](https://www.acmicpc.net/problem/16236)
-- [Baekjoon - 행복 유치원](https://www.acmicpc.net/problem/13164)
-- [Baekjoon - 청소년 상어](https://www.acmicpc.net/problem/19236)
-- [Baekjoon - 당근 키우기](https://www.acmicpc.net/problem/20363)
-- [Baekjoon - 연구소](https://www.acmicpc.net/problem/14502)
-- [Baekjoon - 미로 탐색](https://www.acmicpc.net/problem/2178)
+|사이트|문제|알고리즘|난이도|
+|---|---|---|---|
+|Baekjoon|[벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)|그래프, BFS|Gold 4|
+|Baekjoon|[아기 상어](https://www.acmicpc.net/problem/16236)|구현, 그래프, BFS|Gold 4|
+|Baekjoon|[행복 유치원](https://www.acmicpc.net/problem/13164)|그리디, 정렬|Silver 1|
+|Baekjoon|[청소년 상어](https://www.acmicpc.net/problem/19236)|구현, 백트래킹|Gold 2|
+|Baekjoon|[당근 키우기](https://www.acmicpc.net/problem/20363)|수학, 그리디|Silver 5|
+|Baekjoon|[연구소](https://www.acmicpc.net/problem/14502)|그래프, 브루트포스, BFS|Gold 5|
+|Baekjoon|[미로 탐색](https://www.acmicpc.net/problem/2178)|그래프, BFS|Silver 1|
     
 </details>
 
 <details>
     <summary>2주차 (3/8~3/14)</summary>
 
-- [Baekjoon - 퇴사](https://www.acmicpc.net/problem/14501)
-- [Baekjoon - 움직이는 미로 탈출](https://www.acmicpc.net/problem/16954)
-- [Programmers - 주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584)
-- [Programmers - 크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)
-- [Baekjoon - 명령 프롬프트](https://www.acmicpc.net/problem/1032)
-- [Baekjoon - 기차가 어둠을 헤치고 은하수를](https://www.acmicpc.net/problem/15787)
-- [Baekjoon - 공주님을 구해라!](https://www.acmicpc.net/problem/17836)
-- [Baekjoon - 분산처리](https://www.acmicpc.net/problem/1009)
+|사이트|문제|알고리즘|난이도|
+|---|---|---|---|
+|Baekjoon|[퇴사](https://www.acmicpc.net/problem/14501)|DP, 브루트포스|Silver 4|
+|Baekjoon|[움직이는 미로 탈출](https://www.acmicpc.net/problem/16954)|그래프, BFS|Gold 4|
+|Programmers|[주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584)|스택, 큐|Level 2|
+|Programmers|[크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)|스택, 큐|Level 1|
+|Baekjoon|[명령 프롬프트](https://www.acmicpc.net/problem/1032)|구현, 문자열|Bronze 1|
+|Baekjoon|[기차가 어둠을 헤치고 은하수를](https://www.acmicpc.net/problem/15787)|구현, 비트마스킹|Silver 2|
+|Baekjoon|[공주님을 구해라!](https://www.acmicpc.net/problem/17836)|그래프, BFS|Gold 5|
+|Baekjoon|[분산처리](https://www.acmicpc.net/problem/1009)|수학, 구현|Bronze 3|
     
 </details>
 
 <details>
     <summary>3주차 (3/15~3/21)</summary>
 
-- [SWExpert - 홈 방범 서비스](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V61LqAf8DFAWu)
-- [SWExpert - 숫자 만들기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeRZV6kBUDFAVH)
-- [Baekjoon - 스타트와 링크](https://www.acmicpc.net/problem/14889)
-- [SWExpert - 서로소 집합](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWBJKA6qr2oDFAWr)
+|사이트|문제|알고리즘|난이도|
+|---|---|---|---|
+|SWExpert|[홈 방범 서비스](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V61LqAf8DFAWu)||모의 SW 역량테스트|
+|SWExpert|[숫자 만들기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeRZV6kBUDFAVH)||모의 SW 역량테스트|
+|Baekjoon|[스타트와 링크](https://www.acmicpc.net/problem/14889)|브루트포스, 백트래킹|Silver 3|
+|SWExpert|[서로소 집합](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWBJKA6qr2oDFAWr)|그래프|D4|
     
 </details>
 
 ---
 
 ### 3주차 (3/15~3/21)
-- [SWExpert - 홈 방범 서비스](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V61LqAf8DFAWu)
-- [SWExpert - 숫자 만들기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeRZV6kBUDFAVH)
-- [Baekjoon - 스타트와 링크](https://www.acmicpc.net/problem/14889)
-- [SWExpert - 서로소 집합](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWBJKA6qr2oDFAWr)
+|사이트|문제|알고리즘|난이도|
+|---|---|---|---|
+|SWExpert|[홈 방범 서비스](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V61LqAf8DFAWu)||모의 SW 역량테스트|
+|SWExpert|[숫자 만들기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeRZV6kBUDFAVH)||모의 SW 역량테스트|
+|Baekjoon|[스타트와 링크](https://www.acmicpc.net/problem/14889)|브루트포스, 백트래킹|Silver 3|
+|SWExpert|[서로소 집합](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWBJKA6qr2oDFAWr)|그래프|D4|

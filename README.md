@@ -166,6 +166,8 @@
 |SWExpert|[숫자 만들기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeRZV6kBUDFAVH)||모의 SW 역량테스트|
 |Baekjoon|[스타트와 링크](https://www.acmicpc.net/problem/14889)|브루트포스, 백트래킹|Silver 3|
 |SWExpert|[서로소 집합](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWBJKA6qr2oDFAWr)|그래프|D4|
+|SWExpert|[무선 충전](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRDL1aeugDFAUo)|구현, 시뮬레이션|모의 SW 역량테스트|
+|SWExpert|[원자 소멸 시뮬레이션](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRFInKex8DFAUo)|구현, 시뮬레이션|모의 SW 역량테스트|
     
 </details>
 
@@ -178,3 +180,5 @@
 |SWExpert|[숫자 만들기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeRZV6kBUDFAVH)||모의 SW 역량테스트|
 |Baekjoon|[스타트와 링크](https://www.acmicpc.net/problem/14889)|브루트포스, 백트래킹|Silver 3|
 |SWExpert|[서로소 집합](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWBJKA6qr2oDFAWr)|그래프|D4|
+|SWExpert|[무선 충전](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRDL1aeugDFAUo)|구현, 시뮬레이션|모의 SW 역량테스트|
+|SWExpert|[원자 소멸 시뮬레이션](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRFInKex8DFAUo)|구현, 시뮬레이션|모의 SW 역량테스트|

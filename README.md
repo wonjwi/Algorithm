@@ -6,9 +6,9 @@
 
 ---
 
-## 현재까지 푼 문제 수 (총 106문제)
+## 현재까지 푼 문제 수 (총 109문제)
 
-* `Baekjoon` : **66**문제
+* `Baekjoon` : **69**문제
 * `JUNGOL` : **3**문제
 * `Programmers` : **2**문제
 * `SWExpert` : **35**문제
@@ -178,6 +178,8 @@
 
 |사이트|문제|알고리즘|난이도|
 |---|---|---|---|
+|Baekjoon|[도시 분할 계획](https://www.acmicpc.net/problem/1647)|그래프, 최소 스패닝 트리|Gold 4|
+|Baekjoon|[팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)|수학, 큰 수 연산|Silver 3|
     
 </details>
 
@@ -186,3 +188,6 @@
 ### 4주차 (3/22~3/28)
 |사이트|문제|알고리즘|난이도|
 |---|---|---|---|
+|Baekjoon|[팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)|수학, 큰 수 연산|Silver 3|
+|Baekjoon|[1로 만들기](https://www.acmicpc.net/problem/1463)|다이나믹 프로그래밍|Silver 3|
+|Baekjoon|[RGB거리](https://www.acmicpc.net/problem/1149)|다이나믹 프로그래밍|Silver 1|

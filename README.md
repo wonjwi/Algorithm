@@ -191,3 +191,4 @@
 |Baekjoon|[팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)|수학, 큰 수 연산|Silver 3|
 |Baekjoon|[1로 만들기](https://www.acmicpc.net/problem/1463)|다이나믹 프로그래밍|Silver 3|
 |Baekjoon|[RGB거리](https://www.acmicpc.net/problem/1149)|다이나믹 프로그래밍|Silver 1|
+|[Baekjoon](https://www.acmicpc.net/problem/2636)|[치즈]()|구현, 시뮬레이션, BFS|Gold 5|

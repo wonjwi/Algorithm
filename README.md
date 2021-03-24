@@ -6,9 +6,9 @@
 
 ---
 
-## 현재까지 푼 문제 수 (총 109문제)
+## 현재까지 푼 문제 수 (총 110문제)
 
-* `Baekjoon` : **69**문제
+* `Baekjoon` : **70**문제
 * `JUNGOL` : **3**문제
 * `Programmers` : **2**문제
 * `SWExpert` : **35**문제
@@ -191,4 +191,4 @@
 |Baekjoon|[팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)|수학, 큰 수 연산|Silver 3|
 |Baekjoon|[1로 만들기](https://www.acmicpc.net/problem/1463)|다이나믹 프로그래밍|Silver 3|
 |Baekjoon|[RGB거리](https://www.acmicpc.net/problem/1149)|다이나믹 프로그래밍|Silver 1|
-|[Baekjoon](https://www.acmicpc.net/problem/2636)|[치즈]()|구현, 시뮬레이션, BFS|Gold 5|
+|[Baekjoon](https://www.acmicpc.net/problem/2636)|[치즈](https://github.com/wonjwi/Algorithm/blob/851aaea528c000cc6174d2f9be1bdbed6dfb0444/Baekjoon/BJ2636_%EC%B9%98%EC%A6%88.java)|구현, 시뮬레이션, BFS|Gold 5|

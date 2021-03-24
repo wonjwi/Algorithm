@@ -188,7 +188,7 @@
 ### 4주차 (3/22~3/28)
 |사이트|문제|알고리즘|난이도|
 |---|---|---|---|
-|Baekjoon|[팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)|수학, 큰 수 연산|Silver 3|
-|Baekjoon|[1로 만들기](https://www.acmicpc.net/problem/1463)|다이나믹 프로그래밍|Silver 3|
-|Baekjoon|[RGB거리](https://www.acmicpc.net/problem/1149)|다이나믹 프로그래밍|Silver 1|
+|[Baekjoon](https://www.acmicpc.net/problem/1676)|[팩토리얼 0의 개수](https://github.com/wonjwi/Algorithm/blob/6b7623f6513e5297311caf3cc67673519f4d35e1/Baekjoon/BJ1676_%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC0%EC%9D%98%EA%B0%9C%EC%88%98.java)|수학, 큰 수 연산|Silver 3|
+|[Baekjoon](https://www.acmicpc.net/problem/1463)|[1로 만들기](https://github.com/wonjwi/Algorithm/blob/6b7623f6513e5297311caf3cc67673519f4d35e1/Baekjoon/BJ1463_1%EB%A1%9C%EB%A7%8C%EB%93%A4%EA%B8%B0.java)|다이나믹 프로그래밍|Silver 3|
+|[Baekjoon](https://www.acmicpc.net/problem/1149)|[RGB거리](https://github.com/wonjwi/Algorithm/blob/6b7623f6513e5297311caf3cc67673519f4d35e1/Baekjoon/BJ1149_RGB%EA%B1%B0%EB%A6%AC.java)|다이나믹 프로그래밍|Silver 1|
 |[Baekjoon](https://www.acmicpc.net/problem/2636)|[치즈](https://github.com/wonjwi/Algorithm/blob/851aaea528c000cc6174d2f9be1bdbed6dfb0444/Baekjoon/BJ2636_%EC%B9%98%EC%A6%88.java)|구현, 시뮬레이션, BFS|Gold 5|

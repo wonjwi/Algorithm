@@ -6,12 +6,12 @@
 
 ---
 
-## 현재까지 푼 문제 수 (총 110문제)
+## 현재까지 푼 문제 수 (총 111문제)
 
 * `Baekjoon` : **70**문제
 * `JUNGOL` : **3**문제
 * `Programmers` : **2**문제
-* `SWExpert` : **35**문제
+* `SWExpert` : **36**문제
 
 ---
 
@@ -192,3 +192,4 @@
 |[Baekjoon](https://www.acmicpc.net/problem/1463)|[1로 만들기](https://github.com/wonjwi/Algorithm/blob/6b7623f6513e5297311caf3cc67673519f4d35e1/Baekjoon/BJ1463_1%EB%A1%9C%EB%A7%8C%EB%93%A4%EA%B8%B0.java)|다이나믹 프로그래밍|Silver 3|
 |[Baekjoon](https://www.acmicpc.net/problem/1149)|[RGB거리](https://github.com/wonjwi/Algorithm/blob/6b7623f6513e5297311caf3cc67673519f4d35e1/Baekjoon/BJ1149_RGB%EA%B1%B0%EB%A6%AC.java)|다이나믹 프로그래밍|Silver 1|
 |[Baekjoon](https://www.acmicpc.net/problem/2636)|[치즈](https://github.com/wonjwi/Algorithm/blob/851aaea528c000cc6174d2f9be1bdbed6dfb0444/Baekjoon/BJ2636_%EC%B9%98%EC%A6%88.java)|구현, 시뮬레이션, BFS|Gold 5|
+|[SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWBOKg-a6l0DFAWr)|[최장 증가 부분 수열](https://github.com/wonjwi/Algorithm/blob/983f25a60254227c1e60501fe161f625e50a48d9/SWExpert/SW3307_%EC%B5%9C%EC%9E%A5%EC%A6%9D%EA%B0%80%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B4.java)|다이나믹 프로그래밍|D3|

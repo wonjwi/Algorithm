@@ -1,19 +1,29 @@
 # Wonjwi's Algorithm Practice
 
+> Since 2021. 02. 01
+
 🔥 1일 1알고리즘 이상 공부하기 🔥 <br/>
 난이도에 관계없이 하루에 한 문제씩 꾸준히 풀기. 완료한 문제는 그날 그날 바로 commit 하기. <br/>
 **수적석천(水適石穿)** 이라고 물방울이 돌을 뚫는다는데, 돌 한 번 뚫어보자😎
 
----
+## 지금까지 푼 문제 수 (총 112문제)
 
-## 현재까지 푼 문제 수 (총 111문제)
-
-* `Baekjoon` : **70**문제
+* `Baekjoon` : **71**문제
 * `JUNGOL` : **3**문제
 * `Programmers` : **2**문제
 * `SWExpert` : **36**문제
 
----
+## 2021년 3월 4주차 (3/22~3/28)
+|사이트|문제|알고리즘|난이도|
+|---|---|---|---|
+|[Baekjoon](https://www.acmicpc.net/problem/1676)|[팩토리얼 0의 개수](https://github.com/wonjwi/Algorithm/blob/6b7623f6513e5297311caf3cc67673519f4d35e1/Baekjoon/BJ1676_%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC0%EC%9D%98%EA%B0%9C%EC%88%98.java)|수학, 큰 수 연산|Silver 3|
+|[Baekjoon](https://www.acmicpc.net/problem/1463)|[1로 만들기](https://github.com/wonjwi/Algorithm/blob/6b7623f6513e5297311caf3cc67673519f4d35e1/Baekjoon/BJ1463_1%EB%A1%9C%EB%A7%8C%EB%93%A4%EA%B8%B0.java)|다이나믹 프로그래밍|Silver 3|
+|[Baekjoon](https://www.acmicpc.net/problem/1149)|[RGB거리](https://github.com/wonjwi/Algorithm/blob/6b7623f6513e5297311caf3cc67673519f4d35e1/Baekjoon/BJ1149_RGB%EA%B1%B0%EB%A6%AC.java)|다이나믹 프로그래밍|Silver 1|
+|[Baekjoon](https://www.acmicpc.net/problem/2636)|[치즈](https://github.com/wonjwi/Algorithm/blob/851aaea528c000cc6174d2f9be1bdbed6dfb0444/Baekjoon/BJ2636_%EC%B9%98%EC%A6%88.java)|구현, 시뮬레이션, BFS|Gold 5|
+|[SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWBOKg-a6l0DFAWr)|[최장 증가 부분 수열](https://github.com/wonjwi/Algorithm/blob/937f3fc64406a761e94e97b05e92796285d6adbe/SWExpert/SW3307_%EC%B5%9C%EC%9E%A5%EC%A6%9D%EA%B0%80%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B4.java)|다이나믹 프로그래밍|D3|
+|[Baekjoon](https://www.acmicpc.net/problem/9205)|[맥주 마시면서 걸어가기](https://github.com/wonjwi/Algorithm/blob/9cc3061b5948e33ea1d1c8a47a3be5a9b872e807/Baekjoon/BJ9205_%EB%A7%A5%EC%A3%BC.java)|그래프, BFS|Silver 1|
+
+## 기간 별 모아보기
 
 ### 2021년 2월
    
@@ -178,18 +188,5 @@
 
 |사이트|문제|알고리즘|난이도|
 |---|---|---|---|
-|Baekjoon|[도시 분할 계획](https://www.acmicpc.net/problem/1647)|그래프, 최소 스패닝 트리|Gold 4|
-|Baekjoon|[팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)|수학, 큰 수 연산|Silver 3|
     
 </details>
-
----
-
-### 4주차 (3/22~3/28)
-|사이트|문제|알고리즘|난이도|
-|---|---|---|---|
-|[Baekjoon](https://www.acmicpc.net/problem/1676)|[팩토리얼 0의 개수](https://github.com/wonjwi/Algorithm/blob/6b7623f6513e5297311caf3cc67673519f4d35e1/Baekjoon/BJ1676_%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC0%EC%9D%98%EA%B0%9C%EC%88%98.java)|수학, 큰 수 연산|Silver 3|
-|[Baekjoon](https://www.acmicpc.net/problem/1463)|[1로 만들기](https://github.com/wonjwi/Algorithm/blob/6b7623f6513e5297311caf3cc67673519f4d35e1/Baekjoon/BJ1463_1%EB%A1%9C%EB%A7%8C%EB%93%A4%EA%B8%B0.java)|다이나믹 프로그래밍|Silver 3|
-|[Baekjoon](https://www.acmicpc.net/problem/1149)|[RGB거리](https://github.com/wonjwi/Algorithm/blob/6b7623f6513e5297311caf3cc67673519f4d35e1/Baekjoon/BJ1149_RGB%EA%B1%B0%EB%A6%AC.java)|다이나믹 프로그래밍|Silver 1|
-|[Baekjoon](https://www.acmicpc.net/problem/2636)|[치즈](https://github.com/wonjwi/Algorithm/blob/851aaea528c000cc6174d2f9be1bdbed6dfb0444/Baekjoon/BJ2636_%EC%B9%98%EC%A6%88.java)|구현, 시뮬레이션, BFS|Gold 5|
-|[SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWBOKg-a6l0DFAWr)|[최장 증가 부분 수열](https://github.com/wonjwi/Algorithm/blob/937f3fc64406a761e94e97b05e92796285d6adbe/SWExpert/SW3307_%EC%B5%9C%EC%9E%A5%EC%A6%9D%EA%B0%80%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B4.java)|다이나믹 프로그래밍|D3|

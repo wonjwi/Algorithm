@@ -24,7 +24,7 @@
 | [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWBOKg-a6l0DFAWr) | 최장 증가 부분 수열    | [Java](https://github.com/wonjwi/Algorithm/blob/937f3fc64406a761e94e97b05e92796285d6adbe/SWExpert/SW3307_%EC%B5%9C%EC%9E%A5%EC%A6%9D%EA%B0%80%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B4.java) | 다이나믹 프로그래밍   | D3       |
 | [Baekjoon](https://www.acmicpc.net/problem/9205)                                                          | 맥주 마시면서 걸어가기 | [Java](https://github.com/wonjwi/Algorithm/blob/aa6500d7d1b685d37493df2c1252b4cc16395b7c/Baekjoon/BJ9205_%EB%A7%A5%EC%A3%BC.java)                                                       | 그래프, 플로이드 와샬 | Silver 1 |
 | [Programmers](https://programmers.co.kr/learn/courses/30/lessons/42883)                                   | 큰 수 만들기           | [Java](https://github.com/wonjwi/Algorithm/blob/07a83cad0eb860c1cdee18abf2962a8f5fdca8cb/Programmers/PG_%EA%B7%B8%EB%A6%AC%EB%94%94_%ED%81%B0%EC%88%98%EB%A7%8C%EB%93%A4%EA%B8%B0.java) | 그리디                | Level 2  |
-| [Baekjoon](https://www.acmicpc.net/problem/18429)                                                         | 근손실                 | [Java]()                                                                                                                                                                                | 브루트포스, 백트래킹  | Silver 3 |
+| [Baekjoon](https://www.acmicpc.net/problem/18429)                                                         | 근손실                 | [Java](https://github.com/wonjwi/Algorithm/blob/9c123f4bf9e3d24b8605d1fa66901c58afdb9f1b/Baekjoon/BJ18429_%EA%B7%BC%EC%86%90%EC%8B%A4.java)                                             | 브루트포스, 백트래킹  | Silver 3 |
 
 ## 기간 별 모아보기
 

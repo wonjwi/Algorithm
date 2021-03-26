@@ -9,6 +9,7 @@
 ## 지금까지 푼 문제 수 (총 114문제)
 
 - `Baekjoon` : **72**문제
+- `GoormLevel` : **2**문제
 - `JUNGOL` : **3**문제
 - `Programmers` : **3**문제
 - `SWExpert` : **36**문제

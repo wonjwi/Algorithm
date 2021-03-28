@@ -16,10 +16,10 @@
 
 ## 이번 주 진행 상황
 
-| 사이트                                            | 문제  | 풀이     | 알고리즘     | 난이도   |
-| ------------------------------------------------- | ----- | -------- | ------------ | -------- |
-| [Baekjoon](https://www.acmicpc.net/problem/11399) | ATM   | [Java]() | 그리디, 정렬 | Silver 3 |
-| [Baekjoon](https://www.acmicpc.net/problem/16953) | A → B | [Java]() | 그리디, BFS  | Silver 1 |
+| 사이트                                            | 문제  | 풀이                                                                                                                 | 알고리즘     | 난이도   |
+| ------------------------------------------------- | ----- | -------------------------------------------------------------------------------------------------------------------- | ------------ | -------- |
+| [Baekjoon](https://www.acmicpc.net/problem/11399) | ATM   | [Java](https://github.com/wonjwi/Algorithm/blob/de43328499ac21e2f0b993e0f39ca542f3a7496c/Baekjoon/BJ11399_ATM.java)  | 그리디, 정렬 | Silver 3 |
+| [Baekjoon](https://www.acmicpc.net/problem/16953) | A → B | [Java](https://github.com/wonjwi/Algorithm/blob/de43328499ac21e2f0b993e0f39ca542f3a7496c/Baekjoon/BJ16953_AtoB.java) | 그리디, BFS  | Silver 1 |
 
 ## 기간 별 모아보기
 

@@ -6,13 +6,13 @@
 난이도에 관계없이 하루에 한 문제씩 꾸준히 풀기. 완료한 문제는 그날 그날 바로 commit 하기. <br/>
 **수적석천(水適石穿)** 이라고 물방울이 돌을 뚫는다는데, 돌 한 번 뚫어보자😎
 
-## 지금까지 푼 문제 수 (총 118문제)
+## 지금까지 푼 문제 수 (총 119문제)
 
 - `Baekjoon` : **72**문제
 - `GoormLevel` : **2**문제
 - `JUNGOL` : **4**문제
 - `Programmers` : **4**문제
-- `SWExpert` : **36**문제
+- `SWExpert` : **37**문제
 
 ## 이번 주 진행 상황
 
@@ -30,7 +30,7 @@
 | [GoormLevel](https://level.goorm.io/exam/47878/%EC%82%AC%EC%9D%80%ED%92%88-%EA%B5%90%ED%99%98%ED%95%98%EA%B8%B0/quiz/1) | 사은품 교환하기        | [Java](https://github.com/wonjwi/Algorithm/blob/a485a3093f2f7b37130b374c95fa423800241b24/GoormLevel/Goorm_%EC%82%AC%EC%9D%80%ED%92%88%EA%B5%90%ED%99%98.java)                           | 그리디                 | 3단계        |
 | [Baekjoon](https://www.acmicpc.net/problem/18429)                                                                       | 근손실                 | [Java](https://github.com/wonjwi/Algorithm/blob/9c123f4bf9e3d24b8605d1fa66901c58afdb9f1b/Baekjoon/BJ18429_%EA%B7%BC%EC%86%90%EC%8B%A4.java)                                             | 브루트포스, 백트래킹   | Silver 3     |
 | [JUNGOL](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=954&sca=99&sfl=wr_hit&stx=1681)                     | 해밀턴 순환회로        | [Java](https://github.com/wonjwi/Algorithm/blob/714660e2aba40156d65c6b81522fc3375570d7ae/JUNGOL/JO1681_%ED%95%B4%EB%B0%80%ED%84%B4%EC%88%9C%ED%99%98%ED%9A%8C%EB%A1%9C.java)            | DFS, 백트래킹          | Intermediate |
-| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15StKqAQkCFAYD)               | 하나로                 | [Java]()                                                                                                                                                                                | 그래프, 최소 신장 트리 | D4           |
+| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15StKqAQkCFAYD)               | 하나로                 | [Java](https://github.com/wonjwi/Algorithm/blob/c5d2efcd99fb2c2b11c94c55809263f3cfce5a86/SWExpert/SW1251_%ED%95%98%EB%82%98%EB%A1%9C.java) | 그래프, 최소 신장 트리 | D4           |
 
 ## 기간 별 모아보기
 

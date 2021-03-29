@@ -6,9 +6,9 @@
 난이도에 관계없이 하루에 한 문제씩 꾸준히 풀기. 완료한 문제는 그날 그날 바로 commit 하기. <br/>
 **수적석천(水適石穿)** 이라고 물방울이 돌을 뚫는다는데, 돌 한 번 뚫어보자😎
 
-## 지금까지 푼 문제 수 (총 121문제)
+## 지금까지 푼 문제 수 (총 123문제)
 
-- `Baekjoon` : **74**문제
+- `Baekjoon` : **76**문제
 - `GoormLevel` : **2**문제
 - `JUNGOL` : **4**문제
 - `Programmers` : **4**문제
@@ -16,10 +16,12 @@
 
 ## 이번 주 진행 상황
 
-| 사이트                                            | 문제  | 풀이                                                                                                                 | 알고리즘     | 난이도   |
-| ------------------------------------------------- | ----- | -------------------------------------------------------------------------------------------------------------------- | ------------ | -------- |
-| [Baekjoon](https://www.acmicpc.net/problem/11399) | ATM   | [Java](https://github.com/wonjwi/Algorithm/blob/de43328499ac21e2f0b993e0f39ca542f3a7496c/Baekjoon/BJ11399_ATM.java)  | 그리디, 정렬 | Silver 3 |
-| [Baekjoon](https://www.acmicpc.net/problem/16953) | A → B | [Java](https://github.com/wonjwi/Algorithm/blob/de43328499ac21e2f0b993e0f39ca542f3a7496c/Baekjoon/BJ16953_AtoB.java) | 그리디, BFS  | Silver 1 |
+| 사이트                                            | 문제     | 풀이                                                                                                                 | 알고리즘     | 난이도   |
+| ------------------------------------------------- | -------- | -------------------------------------------------------------------------------------------------------------------- | ------------ | -------- |
+| [Baekjoon](https://www.acmicpc.net/problem/11399) | ATM      | [Java](https://github.com/wonjwi/Algorithm/blob/de43328499ac21e2f0b993e0f39ca542f3a7496c/Baekjoon/BJ11399_ATM.java)  | 그리디, 정렬 | Silver 3 |
+| [Baekjoon](https://www.acmicpc.net/problem/16953) | A → B    | [Java](https://github.com/wonjwi/Algorithm/blob/de43328499ac21e2f0b993e0f39ca542f3a7496c/Baekjoon/BJ16953_AtoB.java) | 그리디, BFS  | Silver 1 |
+| [Baekjoon](https://www.acmicpc.net/problem/1755)  | 숫자놀이 | [Java]()                                                                                                             | 정렬         | Silver 5 |
+| [Baekjoon](https://www.acmicpc.net/problem/2629)  | 양팔저울 | [Java]()                                                                                                             | DP, Knapsack | Gold 2   |
 
 ## 기간 별 모아보기
 

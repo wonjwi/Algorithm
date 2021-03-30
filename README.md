@@ -22,6 +22,7 @@
 | [Baekjoon](https://www.acmicpc.net/problem/16953) | A → B    | [Java](https://github.com/wonjwi/Algorithm/blob/de43328499ac21e2f0b993e0f39ca542f3a7496c/Baekjoon/BJ16953_AtoB.java) | 그리디, BFS  | Silver 1 |
 | [Baekjoon](https://www.acmicpc.net/problem/1755)  | 숫자놀이 | [Java](https://github.com/wonjwi/Algorithm/blob/e13094da6b3563413914aa20fb2e628d4b96e8d9/Baekjoon/BJ1755_%EC%88%AB%EC%9E%90%EB%86%80%EC%9D%B4.java)                                                                                                             | 정렬         | Silver 5 |
 | [Baekjoon](https://www.acmicpc.net/problem/2629)  | 양팔저울 | [Java](https://github.com/wonjwi/Algorithm/blob/e13094da6b3563413914aa20fb2e628d4b96e8d9/Baekjoon/BJ2629_%EC%96%91%ED%8C%94%EC%A0%80%EC%9A%B8.java)                                                                                                             | DP, Knapsack | Gold 2   |
+| [Baekjoon](https://www.acmicpc.net/problem/12871)  | 무한 문자열 | [Java]()                                                                                                             | 구현, 문자열 | Silver 5   |
 
 ## 기간 별 모아보기
 

@@ -16,16 +16,16 @@
 
 ## 이번 주 진행 상황
 
-| 사이트                                            | 문제          | 풀이                                                                                                                                                | 알고리즘         | 난이도   |
-| ------------------------------------------------- | ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | -------- |
-| [Baekjoon](https://www.acmicpc.net/problem/11399) | ATM           | [Java](https://github.com/wonjwi/Algorithm/blob/de43328499ac21e2f0b993e0f39ca542f3a7496c/Baekjoon/BJ11399_ATM.java)                                 | 그리디, 정렬     | Silver 3 |
-| [Baekjoon](https://www.acmicpc.net/problem/16953) | A → B         | [Java](https://github.com/wonjwi/Algorithm/blob/de43328499ac21e2f0b993e0f39ca542f3a7496c/Baekjoon/BJ16953_AtoB.java)                                | 그리디, BFS      | Silver 1 |
-| [Baekjoon](https://www.acmicpc.net/problem/1755)  | 숫자놀이      | [Java](https://github.com/wonjwi/Algorithm/blob/e13094da6b3563413914aa20fb2e628d4b96e8d9/Baekjoon/BJ1755_%EC%88%AB%EC%9E%90%EB%86%80%EC%9D%B4.java) | 정렬             | Silver 5 |
-| [Baekjoon](https://www.acmicpc.net/problem/2629)  | 양팔저울      | [Java](https://github.com/wonjwi/Algorithm/blob/e13094da6b3563413914aa20fb2e628d4b96e8d9/Baekjoon/BJ2629_%EC%96%91%ED%8C%94%EC%A0%80%EC%9A%B8.java) | DP, Knapsack     | Gold 2   |
-| [Baekjoon](https://www.acmicpc.net/problem/12871) | 무한 문자열   | [Java]()                                                                                                                                            | 구현, 문자열     | Silver 5 |
-| [Baekjoon](https://www.acmicpc.net/problem/10422) | 괄호          | [Java]()                                                                                                                                            | 수학, DP, 조합론 | Gold 4   |
-| [Baekjoon](https://www.acmicpc.net/problem/16973) | 직사각형 탈출 | [Java]()                                                                                                                                            | 그래프, BFS      | Gold 5   |
-| [Baekjoon](https://www.acmicpc.net/problem/6087)  | 레이저 통신   | [Java]()                                                                                                                                            | 그래프, BFS      | Gold 4   |
+| 사이트                                            | 문제          | 풀이                                                                                                                                                                   | 알고리즘         | 난이도   |
+| ------------------------------------------------- | ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | -------- |
+| [Baekjoon](https://www.acmicpc.net/problem/11399) | ATM           | [Java](https://github.com/wonjwi/Algorithm/blob/de43328499ac21e2f0b993e0f39ca542f3a7496c/Baekjoon/BJ11399_ATM.java)                                                    | 그리디, 정렬     | Silver 3 |
+| [Baekjoon](https://www.acmicpc.net/problem/16953) | A → B         | [Java](https://github.com/wonjwi/Algorithm/blob/de43328499ac21e2f0b993e0f39ca542f3a7496c/Baekjoon/BJ16953_AtoB.java)                                                   | 그리디, BFS      | Silver 1 |
+| [Baekjoon](https://www.acmicpc.net/problem/1755)  | 숫자놀이      | [Java](https://github.com/wonjwi/Algorithm/blob/e13094da6b3563413914aa20fb2e628d4b96e8d9/Baekjoon/BJ1755_%EC%88%AB%EC%9E%90%EB%86%80%EC%9D%B4.java)                    | 정렬             | Silver 5 |
+| [Baekjoon](https://www.acmicpc.net/problem/2629)  | 양팔저울      | [Java](https://github.com/wonjwi/Algorithm/blob/e13094da6b3563413914aa20fb2e628d4b96e8d9/Baekjoon/BJ2629_%EC%96%91%ED%8C%94%EC%A0%80%EC%9A%B8.java)                    | DP, Knapsack     | Gold 2   |
+| [Baekjoon](https://www.acmicpc.net/problem/12871) | 무한 문자열   | [Java](https://github.com/wonjwi/Algorithm/blob/8e9f8ed96931168c4b17ca18a2758318333087f5/Baekjoon/BJ12871_%EB%AC%B4%ED%95%9C%EB%AC%B8%EC%9E%90%EC%97%B4.java)          | 구현, 문자열     | Silver 5 |
+| [Baekjoon](https://www.acmicpc.net/problem/10422) | 괄호          | [Java](https://github.com/wonjwi/Algorithm/blob/8e9f8ed96931168c4b17ca18a2758318333087f5/Baekjoon/BJ10422_%EA%B4%84%ED%98%B8.java)                                     | 수학, DP, 조합론 | Gold 4   |
+| [Baekjoon](https://www.acmicpc.net/problem/16973) | 직사각형 탈출 | [Java](https://github.com/wonjwi/Algorithm/blob/8e9f8ed96931168c4b17ca18a2758318333087f5/Baekjoon/BJ16973_%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%ED%83%88%EC%B6%9C.java) | 그래프, BFS      | Gold 5   |
+| [Baekjoon](https://www.acmicpc.net/problem/6087)  | 레이저 통신   | [Java](https://github.com/wonjwi/Algorithm/blob/8e9f8ed96931168c4b17ca18a2758318333087f5/Baekjoon/BJ6087_%EB%A0%88%EC%9D%B4%EC%A0%80%ED%86%B5%EC%8B%A0.java)           | 그래프, BFS      | Gold 4   |
 
 ## 기간 별 모아보기
 

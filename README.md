@@ -26,6 +26,8 @@
 | [Baekjoon](https://www.acmicpc.net/problem/10422) | 괄호          | [Java](https://github.com/wonjwi/Algorithm/blob/8e9f8ed96931168c4b17ca18a2758318333087f5/Baekjoon/BJ10422_%EA%B4%84%ED%98%B8.java)                                     | 수학, DP, 조합론 | Gold 4   |
 | [Baekjoon](https://www.acmicpc.net/problem/16973) | 직사각형 탈출 | [Java](https://github.com/wonjwi/Algorithm/blob/8e9f8ed96931168c4b17ca18a2758318333087f5/Baekjoon/BJ16973_%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%ED%83%88%EC%B6%9C.java) | 그래프, BFS      | Gold 5   |
 | [Baekjoon](https://www.acmicpc.net/problem/6087)  | 레이저 통신   | [Java](https://github.com/wonjwi/Algorithm/blob/8e9f8ed96931168c4b17ca18a2758318333087f5/Baekjoon/BJ6087_%EB%A0%88%EC%9D%B4%EC%A0%80%ED%86%B5%EC%8B%A0.java)           | 그래프, BFS      | Gold 4   |
+| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/42577)                                                 | 전화번호 목록            | [Java]() | 해시, 문자열        | Level 2      |
+| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/42888)                                                 | 오픈채팅방            | [Java]() | 자료 구조, 구현        | Level 2      |
 
 ## 기간 별 모아보기
 

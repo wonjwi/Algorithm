@@ -6,32 +6,34 @@
 난이도에 관계없이 하루에 한 문제씩 꾸준히 풀기. 완료한 문제는 그날 그날 바로 commit 하기. <br/>
 **수적석천(水適石穿)** 이라고 물방울이 돌을 뚫는다는데, 돌 한 번 뚫어보자😎
 
-## 지금까지 푼 문제 수 (총 129문제)
+## 지금까지 푼 문제 수 (총 131문제)
 
-- `Baekjoon` : **80**문제
+- `Baekjoon` : **82**문제
 - `GoormLevel` : **2**문제
 - `JUNGOL` : **4**문제
 - `Programmers` : **6**문제
 - `SWExpert` : **37**문제
 
-## 이번 주 진행 상황 (총 10문제)
+## 이번 주 진행 상황 (총 12문제)
 
 ### Week 9
 
 _2021. 3. 29 ~ 2021. 04. 04_
 
-| 사이트                                                                  | 문제          | 풀이                                          | 알고리즘                        | 난이도   |
-| ----------------------------------------------------------------------- | ------------- | --------------------------------------------- | ------------------------------- | -------- |
-| [Baekjoon](https://www.acmicpc.net/problem/11399)                       | ATM           | [Java](Baekjoon/BJ11399_ATM.java)             | 그리디, 정렬                    | Silver 3 |
-| [Baekjoon](https://www.acmicpc.net/problem/16953)                       | A → B         | [Java](Baekjoon/BJ16953_AtoB.java)            | 그래프, 그리디, 너비 우선 탐색  | Silver 1 |
-| [Baekjoon](https://www.acmicpc.net/problem/1755)                        | 숫자놀이      | [Java](Baekjoon/BJ1755_숫자놀이.java)         | 수학, 정렬                      | Silver 5 |
-| [Baekjoon](https://www.acmicpc.net/problem/2629)                        | 양팔저울      | [Java](Baekjoon/BJ2629_양팔저울.java)         | 다이나믹 프로그래밍, Knapsack   | Gold 2   |
-| [Baekjoon](https://www.acmicpc.net/problem/12871)                       | 무한 문자열   | [Java](Baekjoon/BJ12871_무한문자열.java)      | 구현, 문자열                    | Silver 5 |
-| [Baekjoon](https://www.acmicpc.net/problem/10422)                       | 괄호          | [Java](Baekjoon/BJ10422_괄호.java)            | 수학, 다이나믹 프로그래밍       | Gold 4   |
-| [Baekjoon](https://www.acmicpc.net/problem/16973)                       | 직사각형 탈출 | [Java](Baekjoon/BJ16973_직사각형탈출.java)    | 그래프, 너비 우선 탐색, 누적 합 | Gold 5   |
-| [Baekjoon](https://www.acmicpc.net/problem/6087)                        | 레이저 통신   | [Java](Baekjoon/BJ6087_레이저통신.java)       | 그래프, 너비 우선 탐색          | Gold 4   |
-| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/42577) | 전화번호 목록 | [Java](Programmers/PG_해시_전화번호목록.java) | 해시, 문자열                    | Level 2  |
-| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/42888) | 오픈채팅방    | [Java](Programmers/PG_카카오_오픈채팅방.java) | 자료 구조, 구현                 | Level 2  |
+| 사이트                                                                  | 문제           | 풀이                                          | 알고리즘                        | 난이도   |
+| ----------------------------------------------------------------------- | -------------- | --------------------------------------------- | ------------------------------- | -------- |
+| [Baekjoon](https://www.acmicpc.net/problem/11399)                       | ATM            | [Java](Baekjoon/BJ11399_ATM.java)             | 그리디, 정렬                    | Silver 3 |
+| [Baekjoon](https://www.acmicpc.net/problem/16953)                       | A → B          | [Java](Baekjoon/BJ16953_AtoB.java)            | 그래프, 그리디, 너비 우선 탐색  | Silver 1 |
+| [Baekjoon](https://www.acmicpc.net/problem/1755)                        | 숫자놀이       | [Java](Baekjoon/BJ1755_숫자놀이.java)         | 수학, 정렬                      | Silver 5 |
+| [Baekjoon](https://www.acmicpc.net/problem/2629)                        | 양팔저울       | [Java](Baekjoon/BJ2629_양팔저울.java)         | 다이나믹 프로그래밍, Knapsack   | Gold 2   |
+| [Baekjoon](https://www.acmicpc.net/problem/12871)                       | 무한 문자열    | [Java](Baekjoon/BJ12871_무한문자열.java)      | 구현, 문자열                    | Silver 5 |
+| [Baekjoon](https://www.acmicpc.net/problem/10422)                       | 괄호           | [Java](Baekjoon/BJ10422_괄호.java)            | 수학, 다이나믹 프로그래밍       | Gold 4   |
+| [Baekjoon](https://www.acmicpc.net/problem/16973)                       | 직사각형 탈출  | [Java](Baekjoon/BJ16973_직사각형탈출.java)    | 그래프, 너비 우선 탐색, 누적 합 | Gold 5   |
+| [Baekjoon](https://www.acmicpc.net/problem/6087)                        | 레이저 통신    | [Java](Baekjoon/BJ6087_레이저통신.java)       | 그래프, 너비 우선 탐색          | Gold 4   |
+| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/42577) | 전화번호 목록  | [Java](Programmers/PG_해시_전화번호목록.java) | 해시, 문자열                    | Level 2  |
+| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/42888) | 오픈채팅방     | [Java](Programmers/PG_카카오_오픈채팅방.java) | 자료 구조, 구현                 | Level 2  |
+| [Baekjoon](https://www.acmicpc.net/problem/2502)                        | 떡 먹는 호랑이 | [Java](Baekjoon/BJ2502_떡먹는호랑이.java)     | 수학, 다이나믹 프로그래밍       | Gold 4   |
+| [Baekjoon](https://www.acmicpc.net/problem/10282)                       | 해킹           | [Java](Baekjoon/BJ10282_해킹.java)            | 그래프, 다익스트라              | Gold 4   |
 
 ## 지금까지 푼 문제 목록
 

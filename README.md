@@ -6,7 +6,7 @@
 난이도에 관계없이 하루에 한 문제씩 꾸준히 풀기. 완료한 문제는 그날 그날 바로 commit 하기. <br/>
 **수적석천(水適石穿)** 이라고 물방울이 돌을 뚫는다는데, 돌 한 번 뚫어보자😎
 
-## 지금까지 푼 문제 (총 129문제)
+## 지금까지 푼 문제 수 (총 129문제)
 
 - `Baekjoon` : **80**문제
 - `GoormLevel` : **2**문제
@@ -14,29 +14,49 @@
 - `Programmers` : **6**문제
 - `SWExpert` : **37**문제
 
-## Week 9
+## 이번 주에 푼 문제 (총 10문제)
+
+### Week 9
 
 _2021. 3. 29 ~ 2021. 04. 04_
 
-| 사이트                                                                  | 문제          | 풀이                                                                                                                                                                                    | 알고리즘             | 난이도   |
-| ----------------------------------------------------------------------- | ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- | -------- |
-| [Baekjoon](https://www.acmicpc.net/problem/11399)                       | ATM           | [Java](https://github.com/wonjwi/Algorithm/blob/de43328499ac21e2f0b993e0f39ca542f3a7496c/Baekjoon/BJ11399_ATM.java)                                                                     | 그리디, 정렬         | Silver 3 |
-| [Baekjoon](https://www.acmicpc.net/problem/16953)                       | A → B         | [Java](https://github.com/wonjwi/Algorithm/blob/de43328499ac21e2f0b993e0f39ca542f3a7496c/Baekjoon/BJ16953_AtoB.java)                                                                    | 그래프, 그리디, BFS  | Silver 1 |
-| [Baekjoon](https://www.acmicpc.net/problem/1755)                        | 숫자놀이      | [Java](https://github.com/wonjwi/Algorithm/blob/e13094da6b3563413914aa20fb2e628d4b96e8d9/Baekjoon/BJ1755_%EC%88%AB%EC%9E%90%EB%86%80%EC%9D%B4.java)                                     | 수학, 정렬           | Silver 5 |
-| [Baekjoon](https://www.acmicpc.net/problem/2629)                        | 양팔저울      | [Java](https://github.com/wonjwi/Algorithm/blob/e13094da6b3563413914aa20fb2e628d4b96e8d9/Baekjoon/BJ2629_%EC%96%91%ED%8C%94%EC%A0%80%EC%9A%B8.java)                                     | DP, Knapsack         | Gold 2   |
-| [Baekjoon](https://www.acmicpc.net/problem/12871)                       | 무한 문자열   | [Java](Baekjoon/BJ12871_무한문자열.java)                                                                                                                                                | 구현, 문자열         | Silver 5 |
-| [Baekjoon](https://www.acmicpc.net/problem/10422)                       | 괄호          | [Java](Baekjoon/BJ10422_괄호.java)                                                                                                                                                      | 수학, DP, 조합론     | Gold 4   |
-| [Baekjoon](https://www.acmicpc.net/problem/16973)                       | 직사각형 탈출 | [Java](https://github.com/wonjwi/Algorithm/blob/8e9f8ed96931168c4b17ca18a2758318333087f5/Baekjoon/BJ16973_%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%ED%83%88%EC%B6%9C.java)                  | 그래프, BFS, 누적 합 | Gold 5   |
-| [Baekjoon](https://www.acmicpc.net/problem/6087)                        | 레이저 통신   | [Java](https://github.com/wonjwi/Algorithm/blob/8e9f8ed96931168c4b17ca18a2758318333087f5/Baekjoon/BJ6087_%EB%A0%88%EC%9D%B4%EC%A0%80%ED%86%B5%EC%8B%A0.java)                            | 그래프, BFS          | Gold 4   |
-| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/42577) | 전화번호 목록 | [Java](https://github.com/wonjwi/Algorithm/blob/060a38e7f3939e261f2a2ff849f9245af9b2527f/Programmers/PG_%ED%95%B4%EC%8B%9C_%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%EB%AA%A9%EB%A1%9D.java) | 해시, 문자열         | Level 2  |
-| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/42888) | 오픈채팅방    | [Java](https://github.com/wonjwi/Algorithm/blob/060a38e7f3939e261f2a2ff849f9245af9b2527f/Programmers/PG_%EC%B9%B4%EC%B9%B4%EC%98%A4_%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9.java) | 자료 구조, 구현      | Level 2  |
+| 사이트                                                                  | 문제          | 풀이                                          | 알고리즘             | 난이도   |
+| ----------------------------------------------------------------------- | ------------- | --------------------------------------------- | -------------------- | -------- |
+| [Baekjoon](https://www.acmicpc.net/problem/11399)                       | ATM           | [Java](Baekjoon/BJ11399_ATM.java)             | 그리디, 정렬         | Silver 3 |
+| [Baekjoon](https://www.acmicpc.net/problem/16953)                       | A → B         | [Java](Baekjoon/BJ16953_AtoB.java)            | 그래프, 그리디, BFS  | Silver 1 |
+| [Baekjoon](https://www.acmicpc.net/problem/1755)                        | 숫자놀이      | [Java](Baekjoon/BJ1755_숫자놀이.java)         | 수학, 정렬           | Silver 5 |
+| [Baekjoon](https://www.acmicpc.net/problem/2629)                        | 양팔저울      | [Java](Baekjoon/BJ2629_양팔저울.java)         | DP, Knapsack         | Gold 2   |
+| [Baekjoon](https://www.acmicpc.net/problem/12871)                       | 무한 문자열   | [Java](Baekjoon/BJ12871_무한문자열.java)      | 구현, 문자열         | Silver 5 |
+| [Baekjoon](https://www.acmicpc.net/problem/10422)                       | 괄호          | [Java](Baekjoon/BJ10422_괄호.java)            | 수학, DP, 조합론     | Gold 4   |
+| [Baekjoon](https://www.acmicpc.net/problem/16973)                       | 직사각형 탈출 | [Java](Baekjoon/BJ16973_직사각형탈출.java)    | 그래프, BFS, 누적 합 | Gold 5   |
+| [Baekjoon](https://www.acmicpc.net/problem/6087)                        | 레이저 통신   | [Java](Baekjoon/BJ6087_레이저통신.java)       | 그래프, BFS          | Gold 4   |
+| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/42577) | 전화번호 목록 | [Java](Programmers/PG_해시_전화번호목록.java) | 해시, 문자열         | Level 2  |
+| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/42888) | 오픈채팅방    | [Java](Programmers/PG_카카오_오픈채팅방.java) | 자료 구조, 구현      | Level 2  |
 
-## 기간 별 바로가기
+## 지금까지 푼 문제 목록
 
-### 2021년 2월
+### February 2021
 
-<details>
-    <summary>1주차 (2/1~2/7)</summary>
+- [Week 1](#Week-1)
+- [Week 2](#Week-2)
+- [Week 3](#Week-3)
+- [Week 4](#Week-4)
+
+### March 2021
+
+- [Week 5](#Week-5)
+- [Week 6](#Week-6)
+- [Week 7](#Week-7)
+- [Week 8](#Week-8)
+- [Week 9](#Week-9)
+
+## February 2021
+
+### Week 1
+
+_2021. 02. 01 ~ 2021. 02. 07_
+
+[⬆️ TOP ⬆️](#지금까지-푼-문제-목록)
 
 - [SWExpert - 원재의 메모리 복구하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV19AcoKI9sCFAZN)
 - [Baekjoon - 재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478)
@@ -73,10 +93,11 @@ _2021. 3. 29 ~ 2021. 04. 04_
 - [Baekjoon - N과 M (11)](https://www.acmicpc.net/problem/15665)
 - [Baekjoon - N과 M (12)](https://www.acmicpc.net/problem/15666)
 
-</details>
+### Week 2
 
-<details>
-    <summary>2주차 (2/8~2/14)</summary>
+_2021. 02. 08 ~ 2021. 02. 14_
+
+[⬆️ TOP ⬆️](#지금까지-푼-문제-목록)
 
 - [Baekjoon - 일우는 야바위꾼](https://www.acmicpc.net/problem/20361)
 - [Baekjoon - 3대 측정](https://www.acmicpc.net/problem/20299)
@@ -95,11 +116,12 @@ _2021. 3. 29 ~ 2021. 04. 04_
 - [Baekjoon - 풍선 터뜨리기](https://www.acmicpc.net/problem/2346)
 - [Baekjoon - AC](https://www.acmicpc.net/problem/5430)
 
-</details>
+### Week 3
 
-<details>
-    <summary>3주차 (2/15~2/21)</summary>
-   
+_2021. 02. 15 ~ 2021. 02. 21_
+
+[⬆️ TOP ⬆️](#지금까지-푼-문제-목록)
+
 - [SWExpert - 규영이와 인영이의 카드게임](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWgv9va6HnkDFAW0)
 - [Baekjoon - 도영이가 만든 맛있는 음식](https://www.acmicpc.net/problem/2961)
 - [Baekjoon - 백설 공주와 일곱 난쟁이](https://www.acmicpc.net/problem/3040)
@@ -120,11 +142,12 @@ _2021. 3. 29 ~ 2021. 04. 04_
 - [Baekjoon - 일곱 난쟁이](https://www.acmicpc.net/problem/2309)
 - [Baekjoon - 거꾸로 구구단](https://www.acmicpc.net/problem/13410)
 
-</details>
+### Week 4
 
-<details>
-    <summary>4주차 (2/22~2/28)</summary>
-   
+_2021. 02. 22 ~ 2021. 02. 28_
+
+[⬆️ TOP ⬆️](#지금까지-푼-문제-목록)
+
 - [SWExpert - 부먹왕국의 차원 관문](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWuSgKpqmooDFASy)
 - [SWExpert - 삼성시의 버스 노선](https://swexpertacademy.com/main/code/problem/problemSubmitHistory.do?contestProbId=AWczm7QaACgDFAWn)
 - [SWExpert - 의석이의 세로로 말해요](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWVWgkP6sQ0DFAUO)
@@ -142,80 +165,72 @@ _2021. 3. 29 ~ 2021. 04. 04_
 
 </details>
 
-### 2021년 3월
+## March 2021
 
-<details>
-    <summary>5주차 (3/1~3/7)</summary>
+### Week 5
 
-| 사이트   | 문제                                                       | 알고리즘                | 난이도   |
+_2021. 03. 01 ~ 2021. 03. 07_
+
+[⬆️ TOP ⬆️](#지금까지-푼-문제-목록)
+| 사이트 | 문제 | 알고리즘 | 난이도 |
 | -------- | ---------------------------------------------------------- | ----------------------- | -------- |
-| Baekjoon | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | 그래프, BFS             | Gold 4   |
-| Baekjoon | [아기 상어](https://www.acmicpc.net/problem/16236)         | 구현, 그래프, BFS       | Gold 4   |
-| Baekjoon | [행복 유치원](https://www.acmicpc.net/problem/13164)       | 그리디, 정렬            | Silver 1 |
-| Baekjoon | [청소년 상어](https://www.acmicpc.net/problem/19236)       | 구현, 백트래킹          | Gold 2   |
-| Baekjoon | [당근 키우기](https://www.acmicpc.net/problem/20363)       | 수학, 그리디            | Silver 5 |
-| Baekjoon | [연구소](https://www.acmicpc.net/problem/14502)            | 그래프, 브루트포스, BFS | Gold 5   |
-| Baekjoon | [미로 탐색](https://www.acmicpc.net/problem/2178)          | 그래프, BFS             | Silver 1 |
+| Baekjoon | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | 그래프, BFS | Gold 4 |
+| Baekjoon | [아기 상어](https://www.acmicpc.net/problem/16236) | 구현, 그래프, BFS | Gold 4 |
+| Baekjoon | [행복 유치원](https://www.acmicpc.net/problem/13164) | 그리디, 정렬 | Silver 1 |
+| Baekjoon | [청소년 상어](https://www.acmicpc.net/problem/19236) | 구현, 백트래킹 | Gold 2 |
+| Baekjoon | [당근 키우기](https://www.acmicpc.net/problem/20363) | 수학, 그리디 | Silver 5 |
+| Baekjoon | [연구소](https://www.acmicpc.net/problem/14502) | 그래프, 브루트포스, BFS | Gold 5 |
+| Baekjoon | [미로 탐색](https://www.acmicpc.net/problem/2178) | 그래프, BFS | Silver 1 |
 
-</details>
+### Week 6
 
-<details>
-    <summary>6주차 (3/8~3/14)</summary>
+_2021. 03. 08 ~ 2021. 03. 14_
 
-| 사이트      | 문제                                                                             | 알고리즘         | 난이도   |
+[⬆️ TOP ⬆️](#지금까지-푼-문제-목록)
+| 사이트 | 문제 | 알고리즘 | 난이도 |
 | ----------- | -------------------------------------------------------------------------------- | ---------------- | -------- |
-| Baekjoon    | [퇴사](https://www.acmicpc.net/problem/14501)                                    | DP, 브루트포스   | Silver 4 |
-| Baekjoon    | [움직이는 미로 탈출](https://www.acmicpc.net/problem/16954)                      | 그래프, BFS      | Gold 4   |
-| Programmers | [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584)             | 스택, 큐         | Level 2  |
-| Programmers | [크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061) | 스택, 큐         | Level 1  |
-| Baekjoon    | [명령 프롬프트](https://www.acmicpc.net/problem/1032)                            | 구현, 문자열     | Bronze 1 |
-| Baekjoon    | [기차가 어둠을 헤치고 은하수를](https://www.acmicpc.net/problem/15787)           | 구현, 비트마스킹 | Silver 2 |
-| Baekjoon    | [공주님을 구해라!](https://www.acmicpc.net/problem/17836)                        | 그래프, BFS      | Gold 5   |
-| Baekjoon    | [분산처리](https://www.acmicpc.net/problem/1009)                                 | 수학, 구현       | Bronze 3 |
+| Baekjoon | [퇴사](https://www.acmicpc.net/problem/14501) | DP, 브루트포스 | Silver 4 |
+| Baekjoon | [움직이는 미로 탈출](https://www.acmicpc.net/problem/16954) | 그래프, BFS | Gold 4 |
+| Programmers | [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584) | 스택, 큐 | Level 2 |
+| Programmers | [크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061) | 스택, 큐 | Level 1 |
+| Baekjoon | [명령 프롬프트](https://www.acmicpc.net/problem/1032) | 구현, 문자열 | Bronze 1 |
+| Baekjoon | [기차가 어둠을 헤치고 은하수를](https://www.acmicpc.net/problem/15787) | 구현, 비트마스킹 | Silver 2 |
+| Baekjoon | [공주님을 구해라!](https://www.acmicpc.net/problem/17836) | 그래프, BFS | Gold 5 |
+| Baekjoon | [분산처리](https://www.acmicpc.net/problem/1009) | 수학, 구현 | Bronze 3 |
 
-</details>
+### Week 7
 
-<details>
-    <summary>7주차 (3/15~3/21)</summary>
+_2021. 03. 15 ~ 2021. 03. 21_
 
-| 사이트   | 문제                                                                                                                  | 알고리즘                | 난이도             |
+[⬆️ TOP ⬆️](#지금까지-푼-문제-목록)
+| 사이트 | 문제 | 알고리즘 | 난이도 |
 | -------- | --------------------------------------------------------------------------------------------------------------------- | ----------------------- | ------------------ |
-| SWExpert | [홈 방범 서비스](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V61LqAf8DFAWu)       | 구현, 시뮬레이션        | 모의 SW 역량테스트 |
-| SWExpert | [숫자 만들기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeRZV6kBUDFAVH)          | 브루트포스              | 모의 SW 역량테스트 |
-| Baekjoon | [스타트와 링크](https://www.acmicpc.net/problem/14889)                                                                | 브루트포스, 백트래킹    | Silver 3           |
-| SWExpert | [서로소 집합](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWBJKA6qr2oDFAWr)          | 그래프                  | D4                 |
-| SWExpert | [무선 충전](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRDL1aeugDFAUo)            | 구현, 시뮬레이션        | 모의 SW 역량테스트 |
-| SWExpert | [원자 소멸 시뮬레이션](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRFInKex8DFAUo) | 구현, 시뮬레이션        | 모의 SW 역량테스트 |
-| Baekjoon | [친구비](https://www.acmicpc.net/problem/16562)                                                                       | 그래프, 자료 구조, 집합 | Gold 3             |
-| SWExpert | [물놀이를 가자](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXWXMZta-PsDFAST)        | 그래프, BFS             | D4                 |
+| SWExpert | [홈 방범 서비스](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V61LqAf8DFAWu) | 구현, 시뮬레이션 | 모의 SW 역량테스트 |
+| SWExpert | [숫자 만들기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeRZV6kBUDFAVH) | 브루트포스 | 모의 SW 역량테스트 |
+| Baekjoon | [스타트와 링크](https://www.acmicpc.net/problem/14889) | 브루트포스, 백트래킹 | Silver 3 |
+| SWExpert | [서로소 집합](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWBJKA6qr2oDFAWr) | 그래프 | D4 |
+| SWExpert | [무선 충전](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRDL1aeugDFAUo) | 구현, 시뮬레이션 | 모의 SW 역량테스트 |
+| SWExpert | [원자 소멸 시뮬레이션](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRFInKex8DFAUo) | 구현, 시뮬레이션 | 모의 SW 역량테스트 |
+| Baekjoon | [친구비](https://www.acmicpc.net/problem/16562) | 그래프, 자료 구조, 집합 | Gold 3 |
+| SWExpert | [물놀이를 가자](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXWXMZta-PsDFAST) | 그래프, BFS | D4 |
 
-</details>
+### Week 8
 
-<details>
-    <summary>8주차 (3/22~3/28)</summary>
+_2021. 03. 22 ~ 2021. 03. 28_
 
-| 사이트                                                                                                                  | 문제                   | 풀이                                                                                                                                                                                    | 알고리즘               | 난이도       |
-| ----------------------------------------------------------------------------------------------------------------------- | ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | ------------ |
-| [Baekjoon](https://www.acmicpc.net/problem/1676)                                                                        | 팩토리얼 0의 개수      | [Java](https://github.com/wonjwi/Algorithm/blob/6b7623f6513e5297311caf3cc67673519f4d35e1/Baekjoon/BJ1676_%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC0%EC%9D%98%EA%B0%9C%EC%88%98.java)         | 수학, 큰 수 연산       | Silver 3     |
-| [Baekjoon](https://www.acmicpc.net/problem/1463)                                                                        | 1로 만들기             | [Java](https://github.com/wonjwi/Algorithm/blob/341de8a05107d413f259b9b05471f265bf40a5c9/Baekjoon/BJ1463_1%EB%A1%9C%EB%A7%8C%EB%93%A4%EA%B8%B0.java)                                    | 다이나믹 프로그래밍    | Silver 3     |
-| [Baekjoon](https://www.acmicpc.net/problem/1149)                                                                        | RGB거리                | [Java](https://github.com/wonjwi/Algorithm/blob/6b7623f6513e5297311caf3cc67673519f4d35e1/Baekjoon/BJ1149_RGB%EA%B1%B0%EB%A6%AC.java)                                                    | 다이나믹 프로그래밍    | Silver 1     |
-| [Baekjoon](https://www.acmicpc.net/problem/2636)                                                                        | 치즈                   | [Java](https://github.com/wonjwi/Algorithm/blob/851aaea528c000cc6174d2f9be1bdbed6dfb0444/Baekjoon/BJ2636_%EC%B9%98%EC%A6%88.java)                                                       | 구현, 시뮬레이션, BFS  | Gold 5       |
-| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWBOKg-a6l0DFAWr)               | 최장 증가 부분 수열    | [Java](https://github.com/wonjwi/Algorithm/blob/937f3fc64406a761e94e97b05e92796285d6adbe/SWExpert/SW3307_%EC%B5%9C%EC%9E%A5%EC%A6%9D%EA%B0%80%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B4.java) | 다이나믹 프로그래밍    | D3           |
-| [Baekjoon](https://www.acmicpc.net/problem/9205)                                                                        | 맥주 마시면서 걸어가기 | [Java](https://github.com/wonjwi/Algorithm/blob/aa6500d7d1b685d37493df2c1252b4cc16395b7c/Baekjoon/BJ9205_%EB%A7%A5%EC%A3%BC.java)                                                       | 그래프, 플로이드 와샬  | Silver 1     |
-| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/42883)                                                 | 큰 수 만들기           | [Java](https://github.com/wonjwi/Algorithm/blob/07a83cad0eb860c1cdee18abf2962a8f5fdca8cb/Programmers/PG_%EA%B7%B8%EB%A6%AC%EB%94%94_%ED%81%B0%EC%88%98%EB%A7%8C%EB%93%A4%EA%B8%B0.java) | 그리디                 | Level 2      |
-| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/72411)                                                 | 메뉴 리뉴얼            | [Java](https://github.com/wonjwi/Algorithm/blob/3fdcf8cf231db8d8bf6547b536a3498bc8cfb395/Programmers/PG_%EC%B9%B4%EC%B9%B4%EC%98%A4_%EB%A9%94%EB%89%B4%EB%A6%AC%EB%89%B4%EC%96%BC.java) | 정렬, 자료 구조        | Level 2      |
-| [GoormLevel](https://level.goorm.io/exam/47881/%EA%B7%BC%EB%AC%B5%EC%9E%90%ED%9D%91/quiz/1)                             | 근묵자흑               | [Java](https://github.com/wonjwi/Algorithm/blob/a485a3093f2f7b37130b374c95fa423800241b24/GoormLevel/Goorm_%EA%B7%BC%EB%AC%B5%EC%9E%90%ED%9D%91.java)                                    | 브루트포스             | 2단계        |
-| [GoormLevel](https://level.goorm.io/exam/47878/%EC%82%AC%EC%9D%80%ED%92%88-%EA%B5%90%ED%99%98%ED%95%98%EA%B8%B0/quiz/1) | 사은품 교환하기        | [Java](https://github.com/wonjwi/Algorithm/blob/a485a3093f2f7b37130b374c95fa423800241b24/GoormLevel/Goorm_%EC%82%AC%EC%9D%80%ED%92%88%EA%B5%90%ED%99%98.java)                           | 그리디                 | 3단계        |
-| [Baekjoon](https://www.acmicpc.net/problem/18429)                                                                       | 근손실                 | [Java](https://github.com/wonjwi/Algorithm/blob/9c123f4bf9e3d24b8605d1fa66901c58afdb9f1b/Baekjoon/BJ18429_%EA%B7%BC%EC%86%90%EC%8B%A4.java)                                             | 브루트포스, 백트래킹   | Silver 3     |
-| [JUNGOL](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=954&sca=99&sfl=wr_hit&stx=1681)                     | 해밀턴 순환회로        | [Java](https://github.com/wonjwi/Algorithm/blob/714660e2aba40156d65c6b81522fc3375570d7ae/JUNGOL/JO1681_%ED%95%B4%EB%B0%80%ED%84%B4%EC%88%9C%ED%99%98%ED%9A%8C%EB%A1%9C.java)            | DFS, 백트래킹          | Intermediate |
-| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15StKqAQkCFAYD)               | 하나로                 | [Java](https://github.com/wonjwi/Algorithm/blob/c5d2efcd99fb2c2b11c94c55809263f3cfce5a86/SWExpert/SW1251_%ED%95%98%EB%82%98%EB%A1%9C.java)                                              | 그래프, 최소 신장 트리 | D4           |
-
-</details>
-
-<details>
-    <summary>9주차 (3/29~4/4)</summary>
-
+[⬆️ TOP ⬆️](#지금까지-푼-문제-목록)
 | 사이트 | 문제 | 풀이 | 알고리즘 | 난이도 |
-| ------ | ---- | ---- | -------- | ------ |
-
-</details>
+| ----------------------------------------------------------------------------------------------------------------------- | ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | ------------ |
+| [Baekjoon](https://www.acmicpc.net/problem/1676) | 팩토리얼 0의 개수 | [Java](https://github.com/wonjwi/Algorithm/blob/6b7623f6513e5297311caf3cc67673519f4d35e1/Baekjoon/BJ1676_%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC0%EC%9D%98%EA%B0%9C%EC%88%98.java) | 수학, 큰 수 연산 | Silver 3 |
+| [Baekjoon](https://www.acmicpc.net/problem/1463) | 1로 만들기 | [Java](https://github.com/wonjwi/Algorithm/blob/341de8a05107d413f259b9b05471f265bf40a5c9/Baekjoon/BJ1463_1%EB%A1%9C%EB%A7%8C%EB%93%A4%EA%B8%B0.java) | 다이나믹 프로그래밍 | Silver 3 |
+| [Baekjoon](https://www.acmicpc.net/problem/1149) | RGB거리 | [Java](https://github.com/wonjwi/Algorithm/blob/6b7623f6513e5297311caf3cc67673519f4d35e1/Baekjoon/BJ1149_RGB%EA%B1%B0%EB%A6%AC.java) | 다이나믹 프로그래밍 | Silver 1 |
+| [Baekjoon](https://www.acmicpc.net/problem/2636) | 치즈 | [Java](https://github.com/wonjwi/Algorithm/blob/851aaea528c000cc6174d2f9be1bdbed6dfb0444/Baekjoon/BJ2636_%EC%B9%98%EC%A6%88.java) | 구현, 시뮬레이션, BFS | Gold 5 |
+| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWBOKg-a6l0DFAWr) | 최장 증가 부분 수열 | [Java](https://github.com/wonjwi/Algorithm/blob/937f3fc64406a761e94e97b05e92796285d6adbe/SWExpert/SW3307_%EC%B5%9C%EC%9E%A5%EC%A6%9D%EA%B0%80%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B4.java) | 다이나믹 프로그래밍 | D3 |
+| [Baekjoon](https://www.acmicpc.net/problem/9205) | 맥주 마시면서 걸어가기 | [Java](https://github.com/wonjwi/Algorithm/blob/aa6500d7d1b685d37493df2c1252b4cc16395b7c/Baekjoon/BJ9205_%EB%A7%A5%EC%A3%BC.java) | 그래프, 플로이드 와샬 | Silver 1 |
+| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/42883) | 큰 수 만들기 | [Java](https://github.com/wonjwi/Algorithm/blob/07a83cad0eb860c1cdee18abf2962a8f5fdca8cb/Programmers/PG_%EA%B7%B8%EB%A6%AC%EB%94%94_%ED%81%B0%EC%88%98%EB%A7%8C%EB%93%A4%EA%B8%B0.java) | 그리디 | Level 2 |
+| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/72411) | 메뉴 리뉴얼 | [Java](https://github.com/wonjwi/Algorithm/blob/3fdcf8cf231db8d8bf6547b536a3498bc8cfb395/Programmers/PG_%EC%B9%B4%EC%B9%B4%EC%98%A4_%EB%A9%94%EB%89%B4%EB%A6%AC%EB%89%B4%EC%96%BC.java) | 정렬, 자료 구조 | Level 2 |
+| [GoormLevel](https://level.goorm.io/exam/47881/%EA%B7%BC%EB%AC%B5%EC%9E%90%ED%9D%91/quiz/1) | 근묵자흑 | [Java](https://github.com/wonjwi/Algorithm/blob/a485a3093f2f7b37130b374c95fa423800241b24/GoormLevel/Goorm_%EA%B7%BC%EB%AC%B5%EC%9E%90%ED%9D%91.java) | 브루트포스 | 2단계 |
+| [GoormLevel](https://level.goorm.io/exam/47878/%EC%82%AC%EC%9D%80%ED%92%88-%EA%B5%90%ED%99%98%ED%95%98%EA%B8%B0/quiz/1) | 사은품 교환하기 | [Java](https://github.com/wonjwi/Algorithm/blob/a485a3093f2f7b37130b374c95fa423800241b24/GoormLevel/Goorm_%EC%82%AC%EC%9D%80%ED%92%88%EA%B5%90%ED%99%98.java) | 그리디 | 3단계 |
+| [Baekjoon](https://www.acmicpc.net/problem/18429) | 근손실 | [Java](https://github.com/wonjwi/Algorithm/blob/9c123f4bf9e3d24b8605d1fa66901c58afdb9f1b/Baekjoon/BJ18429_%EA%B7%BC%EC%86%90%EC%8B%A4.java) | 브루트포스, 백트래킹 | Silver 3 |
+| [JUNGOL](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=954&sca=99&sfl=wr_hit&stx=1681) | 해밀턴 순환회로 | [Java](https://github.com/wonjwi/Algorithm/blob/714660e2aba40156d65c6b81522fc3375570d7ae/JUNGOL/JO1681_%ED%95%B4%EB%B0%80%ED%84%B4%EC%88%9C%ED%99%98%ED%9A%8C%EB%A1%9C.java) | DFS, 백트래킹 | Intermediate |
+| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15StKqAQkCFAYD) | 하나로 | [Java](https://github.com/wonjwi/Algorithm/blob/c5d2efcd99fb2c2b11c94c55809263f3cfce5a86/SWExpert/SW1251_%ED%95%98%EB%82%98%EB%A1%9C.java) | 그래프, 최소 신장 트리 | D4 |

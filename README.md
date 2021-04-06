@@ -20,12 +20,12 @@
 
 _2021. 04. 05 ~ 2021. 04. 11_
 
-| 사이트                                           | 문제                  | 풀이                                   | 알고리즘                  | 난이도   |
-| ------------------------------------------------ | --------------------- | -------------------------------------- | ------------------------- | -------- |
-| [Baekjoon](https://www.acmicpc.net/problem/2865) | 나는 위대한 슈퍼스타K | [Java](Baekjoon/BJ2865_슈퍼스타K.java) | 그리디, 정렬, 우선순위 큐 | Silver 4 |
-| [Baekjoon](https://www.acmicpc.net/problem/9655) | 돌 게임               | [Java](Baekjoon/BJ9655_돌게임.java)    | 수학, 다이나믹 프로그래밍 | Silver 5 |
-|[Baekjoon](https://www.acmicpc.net/problem/1495)|기타리스트|[Java](Baekjoon/BJ1495_기타리스트.java)|다이나믹 프로그래밍|Silver 1|
-|[Baekjoon](https://www.acmicpc.net/problem/2602)|돌다리 건너기|[Java](Baekjoon/BJ2602_돌다리건너기.java)|다이나믹 프로그래밍|Gold 4|
+| 사이트                                           | 문제                  | 풀이                                      | 알고리즘                  | 난이도   |
+| ------------------------------------------------ | --------------------- | ----------------------------------------- | ------------------------- | -------- |
+| [Baekjoon](https://www.acmicpc.net/problem/2865) | 나는 위대한 슈퍼스타K | [Java](Baekjoon/BJ2865_슈퍼스타K.java)    | 그리디, 정렬, 우선순위 큐 | Silver 4 |
+| [Baekjoon](https://www.acmicpc.net/problem/9655) | 돌 게임               | [Java](Baekjoon/BJ9655_돌게임.java)       | 수학, 다이나믹 프로그래밍 | Silver 5 |
+| [Baekjoon](https://www.acmicpc.net/problem/1495) | 기타리스트            | [Java](Baekjoon/BJ1495_기타리스트.java)   | 다이나믹 프로그래밍       | Silver 1 |
+| [Baekjoon](https://www.acmicpc.net/problem/2602) | 돌다리 건너기         | [Java](Baekjoon/BJ2602_돌다리건너기.java) | 다이나믹 프로그래밍       | Gold 4   |
 
 <br>
 

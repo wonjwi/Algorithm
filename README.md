@@ -6,9 +6,9 @@
 난이도에 관계없이 하루에 한 문제씩 꾸준히 풀기. 완료한 문제는 그날 그날 바로 commit 하기. <br/>
 **수적석천(水適石穿)** 이라고 물방울이 돌을 뚫는다는데, 돌 한 번 뚫어보자😎
 
-## 지금까지 푼 문제 수 (총 135문제)
+## 지금까지 푼 문제 수 (총 136문제)
 
-- `Baekjoon` : **86**문제
+- `Baekjoon` : **87**문제
 - `GoormLevel` : **2**문제
 - `JUNGOL` : **4**문제
 - `Programmers` : **6**문제
@@ -20,12 +20,13 @@
 
 _2021. 04. 05 ~ 2021. 04. 11_
 
-| 사이트                                           | 문제                  | 풀이                                      | 알고리즘                  | 난이도   |
-| ------------------------------------------------ | --------------------- | ----------------------------------------- | ------------------------- | -------- |
-| [Baekjoon](https://www.acmicpc.net/problem/2865) | 나는 위대한 슈퍼스타K | [Java](Baekjoon/BJ2865_슈퍼스타K.java)    | 그리디, 정렬, 우선순위 큐 | Silver 4 |
-| [Baekjoon](https://www.acmicpc.net/problem/9655) | 돌 게임               | [Java](Baekjoon/BJ9655_돌게임.java)       | 수학, 다이나믹 프로그래밍 | Silver 5 |
-| [Baekjoon](https://www.acmicpc.net/problem/1495) | 기타리스트            | [Java](Baekjoon/BJ1495_기타리스트.java)   | 다이나믹 프로그래밍       | Silver 1 |
-| [Baekjoon](https://www.acmicpc.net/problem/2602) | 돌다리 건너기         | [Java](Baekjoon/BJ2602_돌다리건너기.java) | 다이나믹 프로그래밍       | Gold 4   |
+| 사이트                                            | 문제                  | 풀이                                      | 알고리즘                  | 난이도   |
+| ------------------------------------------------- | --------------------- | ----------------------------------------- | ------------------------- | -------- |
+| [Baekjoon](https://www.acmicpc.net/problem/2865)  | 나는 위대한 슈퍼스타K | [Java](Baekjoon/BJ2865_슈퍼스타K.java)    | 그리디, 정렬, 우선순위 큐 | Silver 4 |
+| [Baekjoon](https://www.acmicpc.net/problem/9655)  | 돌 게임               | [Java](Baekjoon/BJ9655_돌게임.java)       | 수학, 다이나믹 프로그래밍 | Silver 5 |
+| [Baekjoon](https://www.acmicpc.net/problem/1495)  | 기타리스트            | [Java](Baekjoon/BJ1495_기타리스트.java)   | 다이나믹 프로그래밍       | Silver 1 |
+| [Baekjoon](https://www.acmicpc.net/problem/2602)  | 돌다리 건너기         | [Java](Baekjoon/BJ2602_돌다리건너기.java) | 다이나믹 프로그래밍       | Gold 4   |
+| [Baekjoon](https://www.acmicpc.net/problem/12761) | 돌다리                | [Java](Baekjoon/BJ12761_돌다리.java)      | 그래프, 너비 우선 탐색    | Silver 2 |
 
 <br>
 

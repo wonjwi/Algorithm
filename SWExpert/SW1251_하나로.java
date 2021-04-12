@@ -45,12 +45,12 @@ public class SW1251_하나로 {
 					// 연결되지 않았고 환경 부담금이 최소인 곳 찾기
 					// 환경 부담금 = 환경 부담 세율(E)*해저터널 길이(L)^2
 					double distance = Math.pow(location[minVertex][0]-location[i][0], 2) + Math.pow(location[minVertex][1]-location[i][1], 2);
-					if (!visited[i] && minEdge[i] > E * distance) {
-						minEdge[i] = E * distance;
+					if (!visited[i] && minEdge[i] > distance) {
+						minEdge[i] = distance;
 					}
 				}
 			}
-			sb.append("#").append(tc).append(" ").append(Math.round(result)).append("\n");
+			sb.append("#").append(tc).append(" ").append(Math.round(result*E)).append("\n");
 		}
 		System.out.println(sb.toString());
 	}

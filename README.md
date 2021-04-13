@@ -24,6 +24,7 @@ _2021. 04. 12 ~ 2021. 04. 18_
 | --------------------------------------------------------------------------------------------------------- | ----------- | --------------------------------------- | --------------------------- | ------------------ |
 | [Baekjoon](https://www.acmicpc.net/problem/9465)                                                          | 스티커      | [Java](Baekjoon/BJ9465_스티커.java)     | 다이나믹 프로그래밍         | Silver 2           |
 | [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15QRX6APsCFAYD) | 보급로      | [Java](SWExpert/SW1249_보급로.java)     | 너비 우선 탐색, 우선순위 큐 | D4                 |
+| [Baekjoon](https://www.acmicpc.net/problem/17281)                                                         | ⚾          | [Java](Baekjoon/BJ17281_야구.java)      | 구현, 브루트포스            | Gold 4             |
 | [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeW7FakkUDFAVH) | 활주로 건설 | [Java](SWExpert/SW4014_활주로건설.java) | 구현, 시뮬레이션            | 모의 SW 역량테스트 |
 
 <br>

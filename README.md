@@ -6,15 +6,15 @@
 난이도에 관계없이 하루에 한 문제씩 꾸준히 풀기. 완료한 문제는 그날 그날 바로 commit 하기. <br/>
 **수적석천(水適石穿)** 이라고 물방울이 돌을 뚫는다는데, 돌 한 번 뚫어보자😎
 
-## 지금까지 푼 문제 수 (총 143문제)
+## 지금까지 푼 문제 수 (총 144문제)
 
 - `Baekjoon` : **92**문제
 - `GoormLevel` : **2**문제
 - `JUNGOL` : **4**문제
 - `Programmers` : **6**문제
-- `SWExpert` : **39**문제
+- `SWExpert` : **40**문제
 
-## 이번 주 진행 상황 (총 4문제)
+## 이번 주 진행 상황 (총 5문제)
 
 ### Week 11
 
@@ -26,6 +26,7 @@ _2021. 04. 12 ~ 2021. 04. 18_
 | [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15QRX6APsCFAYD) | 보급로      | [Java](SWExpert/SW1249_보급로.java)     | 너비 우선 탐색, 우선순위 큐 | D4                 |
 | [Baekjoon](https://www.acmicpc.net/problem/17281)                                                         | ⚾          | [Java](Baekjoon/BJ17281_야구.java)      | 구현, 브루트포스            | Gold 4             |
 | [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeW7FakkUDFAVH) | 활주로 건설 | [Java](SWExpert/SW4014_활주로건설.java) | 구현, 시뮬레이션            | 모의 SW 역량테스트 |
+| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRQm6qfL0DFAUo) | 벽돌 깨기   | [Java](SWExpert/SW5656_벽돌깨기.java)   | 구현, 시뮬레이션            | 모의 SW 역량테스트 |
 
 <br>
 

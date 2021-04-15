@@ -8,9 +8,9 @@
 
 ## 지금까지 푼 문제 수 (총 146문제)
 
-- `Baekjoon` : **93**문제
+- `Baekjoon` : **94**문제
 - `GoormLevel` : **2**문제
-- `JUNGOL` : **4**문제
+- `JUNGOL` : **3**문제
 - `Programmers` : **6**문제
 - `SWExpert` : **41**문제
 
@@ -145,7 +145,7 @@ _2021. 02. 15 ~ 2021. 02. 21_
 | [Baekjoon](https://www.acmicpc.net/problem/15686)                                                         | 치킨 배달                  | [Java](Baekjoon/BJ15686_치킨배달.java)     | 구현, 브루트포스                 | Gold 5             |
 | [Baekjoon](https://www.acmicpc.net/problem/3109)                                                          | 빵집                       | [Java](Baekjoon/BJ3109_빵집.java)          | 그리디, 깊이 우선 탐색           | Gold 2             |
 | [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15OZ4qAPICFAYD) | 최적 경로                  | [Java](SWExpert/SW1247_최적경로.java)      |                                  | D5                 |
-| [JUNGOL](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=1006)                                 | 오목                       | [Java](JUNGOL/JO1733_오목.java)            |                                  | 문제은행           |
+| [Baekjoon](https://www.acmicpc.net/problem/2615)                                                          | 오목                       | [Java](Baekjoon/BJ2615_오목.java)          | 구현, 브루트포스                 | Silver 3           |
 | [Baekjoon](https://www.acmicpc.net/problem/1987)                                                          | 알파벳                     | [Java](Baekjoon/BJ1987_알파벳.java)        | 깊이 우선 탐색, 백트래킹         | Gold 4             |
 | [Baekjoon](https://www.acmicpc.net/problem/14503)                                                         | 로봇 청소기                | [Java](Baekjoon/BJ14503_로봇청소기.java)   | 구현, 시뮬레이션                 | Gold 5             |
 | [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeUtVakTMDFAVH) | 요리사                     | [Java](SWExpert/SW4012_요리사.java)        |                                  | 모의 SW 역량테스트 |

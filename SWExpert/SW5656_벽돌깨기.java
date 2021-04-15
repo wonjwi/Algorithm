@@ -34,30 +34,35 @@ public class SW5656_벽돌깨기 {
 		System.out.println(sb.toString());
 	}
 	
-	private static void select(int[][] map, int cnt) {
-		int count = getCnt(map);
-		// 구슬을 N번 다 쐈거나 쏠 벽돌이 없으면 종료
-		if (cnt == N || count == 0) {
+	private static boolean select(int[][] map, int cnt) {
+		int count = getCount(map);
+		// 쏠 벽돌이 없으면 종료
+		if (count == 0) {
+			ans = 0;
+			return true;
+		}
+		// 구슬을 N번 다 쐈으면 종료
+		if (cnt == N) {
 			ans = Math.min(ans, count);
-			return;
+			return false;
 		}
 		int[][] newMap = new int[H][W];
 		for (int c = 0; c < W; c++) {
 			// 원본 배열 복사해서 사용
 			setBegin(map, newMap);
 			// 해당 열의 최상단 찾기
-			int top = -1;
-			for (int r = 0; r < H; r++) {
-				if (newMap[r][c] != 0) {
-					top = r; break;
-				}
-			}
+			int top = 0;
+			while (top < H && newMap[top][c] == 0) ++top;
 			// 벽돌이 하나도 없으면 들어갈 필요 없음
-			if (top < 0) continue;
-			shoot(newMap, top, c); // 벽돌 깨기
-			down(newMap); // 빈 공간 정리
-			select(newMap, cnt+1); // 다음 쏠 곳 선택
+			if (top == H) continue;
+			// 선택한 벽돌 깨기
+			shoot(newMap, top, c); 
+			// 빈 공간 정리
+			down(newMap); 
+			// 다음 쏠 곳 선택
+			if (select(newMap, cnt+1)) return true; 
 		}
+		return false;
 	}
 
 	private static void setBegin(int[][] map, int[][] newMap) {
@@ -66,7 +71,7 @@ public class SW5656_벽돌깨기 {
 		}
 	}
 
-	private static int getCnt(int[][] map) {
+	private static int getCount(int[][] map) {
 		int cnt = 0;
 		for (int r = 0; r < H; r++) {
 			for (int c = 0; c < W; c++) {
@@ -76,16 +81,16 @@ public class SW5656_벽돌깨기 {
 		return cnt;
 	}
 	
-	private static void down(int[][] newMap) {
+	private static void down(int[][] map) {
 		for (int c = 0; c < W; c++) {
 			int zero = -1;
 			for (int r = H-1; r >= 0; r--) {
-				if (newMap[r][c] == 0) {
+				if (map[r][c] == 0) {
 					zero = r;
 					for (int row = r-1; row >= 0; row--) {
-						if (newMap[row][c] != 0) {
-							newMap[zero][c] = newMap[row][c];
-							newMap[row][c] = 0;
+						if (map[row][c] != 0) {
+							map[zero][c] = map[row][c];
+							map[row][c] = 0;
 							break;
 						}
 					}
@@ -93,8 +98,27 @@ public class SW5656_벽돌깨기 {
 			}
 		}
 	}
+	
+//	private static List<Integer> list = new ArrayList<Integer>();
+//	private static void down(int[][] map) {
+//		for (int c = 0; c < W; c++) {
+//			// 벽돌을 리스트에 넣기
+//			for (int r = H-1; r >= 0; r--) {
+//				if (map[r][c] > 0) { // 벽돌이면
+//					list.add(map[r][c]);
+//					map[r][c] = 0;
+//				}
+//			}
+//			// 리스트에 담긴 벽돌 꺼내서 아래부터 채우기
+//			int r = H-1;
+//			for (int b : list) {
+//				map[r--][c] = b;
+//			}
+//			list.clear();
+//		}
+//	}
 
-	private static void shoot(int[][] newMap, int targetR, int targetC) {
+	private static void shoot(int[][] map, int targetR, int targetC) {
 		Queue<int[]> queue = new LinkedList<int[]>();
 		queue.add(new int[] {targetR, targetC});
 		
@@ -103,9 +127,9 @@ public class SW5656_벽돌깨기 {
 			int r = tmp[0];
 			int c = tmp[1];
 			
-			int size = newMap[r][c];
+			int size = map[r][c];
 			if (size == 0) continue;
-			newMap[r][c] = 0;
+			map[r][c] = 0;
 			
 			// 상하좌우로 size만큼 연쇄 반응
 			for (int i = 1; i < size; i++) {
@@ -113,8 +137,8 @@ public class SW5656_벽돌깨기 {
 					int row = r + dr[j]*i;
 					int col = c + dc[j]*i;
 					if (row < 0 || row >= H || col < 0 || col >= W) continue;
-					if (newMap[row][col] > 1) queue.add(new int[] {row, col});
-					else newMap[row][col] = 0;
+					if (map[row][col] > 1) queue.add(new int[] {row, col});
+					else map[row][col] = 0;
 				}
 			}
 		}

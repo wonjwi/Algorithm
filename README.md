@@ -141,11 +141,11 @@ _2021. 02. 15 ~ 2021. 02. 21_
 | [Baekjoon](https://www.acmicpc.net/problem/3040)                                                          | 백설 공주와 일곱 난쟁이    | [Java](Baekjoon/BJ3040_일곱난쟁이.java)    | 브루트포스                       | Bronze 2           |
 | [Baekjoon](https://www.acmicpc.net/problem/2839)                                                          | 설탕 배달                  | [Java](Baekjoon/BJ2839_설탕배달.java)      | 다이나믹 프로그래밍, 그리디      | Bronze 1           |
 | [Baekjoon](https://www.acmicpc.net/problem/1074)                                                          | Z                          | [Java](Baekjoon/BJ1074_Z.java)             | 분할 정복, 재귀                  | Silver 1           |
-| [JUNGOL](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=1101&stx=1828)                        | 냉장고                     | [Java](JUNGOL/JO1828_냉장고.java)          | 그리디                           | 문제은행           |
+| [JUNGOL](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=1101)                                 | 냉장고                     | [Java](JUNGOL/JO1828_냉장고.java)          | 그리디                           | 문제은행           |
 | [Baekjoon](https://www.acmicpc.net/problem/15686)                                                         | 치킨 배달                  | [Java](Baekjoon/BJ15686_치킨배달.java)     | 구현, 브루트포스                 | Gold 5             |
 | [Baekjoon](https://www.acmicpc.net/problem/3109)                                                          | 빵집                       | [Java](Baekjoon/BJ3109_빵집.java)          | 그리디, 깊이 우선 탐색           | Gold 2             |
 | [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15OZ4qAPICFAYD) | 최적 경로                  | [Java](SWExpert/SW1247_최적경로.java)      |                                  | D5                 |
-| [JUNGOL](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=1006&stx=1733)                        | 오목                       | [Java](JUNGOL/JO1733_오목.java)            |                                  | 문제은행           |
+| [JUNGOL](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=1006)                                 | 오목                       | [Java](JUNGOL/JO1733_오목.java)            |                                  | 문제은행           |
 | [Baekjoon](https://www.acmicpc.net/problem/1987)                                                          | 알파벳                     | [Java](Baekjoon/BJ1987_알파벳.java)        | 깊이 우선 탐색, 백트래킹         | Gold 4             |
 | [Baekjoon](https://www.acmicpc.net/problem/14503)                                                         | 로봇 청소기                | [Java](Baekjoon/BJ14503_로봇청소기.java)   | 구현, 시뮬레이션                 | Gold 5             |
 | [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeUtVakTMDFAVH) | 요리사                     | [Java](SWExpert/SW4012_요리사.java)        |                                  | 모의 SW 역량테스트 |
@@ -250,7 +250,7 @@ _2021. 03. 22 ~ 2021. 03. 28_
 | [GoormLevel](https://level.goorm.io/exam/47881/%EA%B7%BC%EB%AC%B5%EC%9E%90%ED%9D%91/quiz/1)                             | 근묵자흑               | [Java](GoormLevel/Goorm_근묵자흑.java)        | 브루트포스                       | 2단계        |
 | [GoormLevel](https://level.goorm.io/exam/47878/%EC%82%AC%EC%9D%80%ED%92%88-%EA%B5%90%ED%99%98%ED%95%98%EA%B8%B0/quiz/1) | 사은품 교환하기        | [Java](GoormLevel/Goorm_사은품교환.java)      | 그리디                           | 3단계        |
 | [Baekjoon](https://www.acmicpc.net/problem/18429)                                                                       | 근손실                 | [Java](Baekjoon/BJ18429_근손실.java)          | 브루트포스, 백트래킹             | Silver 3     |
-| [JUNGOL](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=954&sca=99&sfl=wr_hit&stx=1681)                     | 해밀턴 순환회로        | [Java](JUNGOL/JO1681_해밀턴순환회로.java)     | 브루트포스, 백트래킹             | Intermediate |
+| [JUNGOL](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=954)                                                | 해밀턴 순환회로        | [Java](JUNGOL/JO1681_해밀턴순환회로.java)     | 브루트포스, 백트래킹             | Intermediate |
 | [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15StKqAQkCFAYD)               | 하나로                 | [Java](SWExpert/SW1251_하나로.java)           | 그래프, 최소 신장 트리           | D4           |
 
 ### Week 9

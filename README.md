@@ -6,15 +6,15 @@
 난이도에 관계없이 하루에 한 문제씩 꾸준히 풀기. 완료한 문제는 그날 그날 바로 commit 하기. <br/>
 **수적석천(水適石穿)** 이라고 물방울이 돌을 뚫는다는데, 돌 한 번 뚫어보자😎
 
-## 지금까지 푼 문제 수 (총 146문제)
+## 지금까지 푼 문제 수 (총 147문제)
 
-- `Baekjoon` : **94**문제
+- `Baekjoon` : **95**문제
 - `GoormLevel` : **2**문제
 - `JUNGOL` : **3**문제
 - `Programmers` : **6**문제
 - `SWExpert` : **41**문제
 
-## 이번 주 진행 상황 (총 7문제)
+## 이번 주 진행 상황 (총 8문제)
 
 ### Week 11
 
@@ -29,6 +29,7 @@ _2021. 04. 12 ~ 2021. 04. 18_
 | [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRQm6qfL0DFAUo) | 벽돌 깨기      | [Java](SWExpert/SW5656_벽돌깨기.java)      | 구현, 시뮬레이션            | 모의 SW 역량테스트 |
 | [Baekjoon](https://www.acmicpc.net/problem/17144)                                                         | 미세먼지 안녕! | [Java](Baekjoon/BJ17144_미세먼지안녕.java) | 구현, 시뮬레이션            | Gold 5             |
 | [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpLlKAQ4DFAUq) | 탈주범 검거    | [Java](SWExpert/SW1953_탈주범검거.java)    | 구현, 시뮬레이션            | 모의 SW 역량테스트 |
+| [Baekjoon](https://www.acmicpc.net/problem/15961)                                                         | 회전 초밥      | [Java](Baekjoon/BJ15961_회전초밥.java)     | 두 포인터, 슬라이딩 윈도우  | Gold 4             |
 
 <br>
 
@@ -141,7 +142,7 @@ _2021. 02. 15 ~ 2021. 02. 21_
 | [Baekjoon](https://www.acmicpc.net/problem/3040)                                                          | 백설 공주와 일곱 난쟁이    | [Java](Baekjoon/BJ3040_일곱난쟁이.java)    | 브루트포스                       | Bronze 2           |
 | [Baekjoon](https://www.acmicpc.net/problem/2839)                                                          | 설탕 배달                  | [Java](Baekjoon/BJ2839_설탕배달.java)      | 다이나믹 프로그래밍, 그리디      | Bronze 1           |
 | [Baekjoon](https://www.acmicpc.net/problem/1074)                                                          | Z                          | [Java](Baekjoon/BJ1074_Z.java)             | 분할 정복, 재귀                  | Silver 1           |
-| [JUNGOL](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=1101)                                 | 냉장고                     | [Java](JUNGOL/JO1828_냉장고.java)          | 그리디                           | 문제은행           |
+| [JUNGOL](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=1101)                                 | 냉장고                     | [Java](JUNGOL/JO1828_냉장고.java)          | 그리디                           | Intermediate       |
 | [Baekjoon](https://www.acmicpc.net/problem/15686)                                                         | 치킨 배달                  | [Java](Baekjoon/BJ15686_치킨배달.java)     | 구현, 브루트포스                 | Gold 5             |
 | [Baekjoon](https://www.acmicpc.net/problem/3109)                                                          | 빵집                       | [Java](Baekjoon/BJ3109_빵집.java)          | 그리디, 깊이 우선 탐색           | Gold 2             |
 | [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15OZ4qAPICFAYD) | 최적 경로                  | [Java](SWExpert/SW1247_최적경로.java)      |                                  | D5                 |
@@ -177,7 +178,7 @@ _2021. 02. 22 ~ 2021. 02. 28_
 | [Baekjoon](https://www.acmicpc.net/problem/2491)                                                                 | 수열                   | [Java](Baekjoon/BJ2491_수열.java)         | 다이나믹 프로그래밍    | Silver 3         |
 | [Baekjoon](https://www.acmicpc.net/problem/7576)                                                                 | 토마토                 | [Java](Baekjoon/BJ7576_토마토.java)       | 너비 우선 탐색, 그래프 | Silver 1         |
 | [Baekjoon](https://www.acmicpc.net/problem/7569)                                                                 | 토마토                 | [Java](Baekjoon/BJ7569_토마토.java)       | 너비 우선 탐색, 그래프 | Silver 1         |
-| [JUNGOL](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=488)                                         | 조커                   | [Java](JUNGOL/JO1205_조커.java)           |                        | 문제은행         |
+| [JUNGOL](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=488)                                         | 조커                   | [Java](JUNGOL/JO1205_조커.java)           |                        | Online Contest   |
 
 ## March 2021
 

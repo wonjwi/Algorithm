@@ -6,15 +6,15 @@
 난이도에 관계없이 하루에 한 문제씩 꾸준히 풀기. 완료한 문제는 그날 그날 바로 commit 하기. <br/>
 **수적석천(水適石穿)** 이라고 물방울이 돌을 뚫는다는데, 돌 한 번 뚫어보자😎
 
-## 지금까지 푼 문제 수 (총 150문제)
+## 지금까지 푼 문제 수 (총 152문제)
 
-- `Baekjoon` : **98**문제
+- `Baekjoon` : **100**문제
 - `GoormLevel` : **2**문제
 - `JUNGOL` : **3**문제
 - `Programmers` : **6**문제
 - `SWExpert` : **41**문제
 
-## 이번 주 진행 상황 (총 11문제)
+## 이번 주 진행 상황 (총 13문제)
 
 ### Week 11
 
@@ -33,6 +33,8 @@ _2021. 04. 12 ~ 2021. 04. 18_
 | [Baekjoon](https://www.acmicpc.net/problem/3980)                                                          | 선발 명단      | [Java](Baekjoon/BJ3980_선발명단.java)      | 브루트포스, 백트래킹        | Gold 4             |
 | [Baekjoon](https://www.acmicpc.net/problem/6987)                                                          | 월드컵         | [Java](Baekjoon/BJ6987_월드컵.java)        | 브루트포스, 백트래킹        | Silver 1           |
 | [Baekjoon](https://www.acmicpc.net/problem/2239)                                                          | 스도쿠         | [Java](Baekjoon/BJ2239_스도쿠.java)        | 백트래킹                    | Gold 4             |
+| [Baekjoon](https://www.acmicpc.net/problem/1764)                                                          | 듣보잡         | [Java](Baekjoon/BJ1764_듣보잡.java)        | 자료 구조, 문자열, 정렬     | Silver 4           |
+| [Baekjoon](https://www.acmicpc.net/problem/10836)                                                         | 여왕벌         | [Java](Baekjoon/BJ10836_여왕벌.java)       | 구현, 시뮬레이션            | Gold 4             |
 
 <br>
 

@@ -4,8 +4,7 @@ import java.io.*;
 import java.util.StringTokenizer;
 
 //* N combination R
-//N! / R!*(N-R)!
-//= N! * (R!*(N-R)!)^(-1)
+//N! / R!*(N-R)! = N! * (R!*(N-R)!)^(-1)
 //
 //* 모듈러 산술
 //(a mod n * b mod n) mod n = (a * b) mod n
@@ -30,20 +29,27 @@ public class SW5607_조합 {
 			
 //			N combination R의 값을 1234567891로 나눈 나머지
 //			(N! * (R!*(N-R)!)^(-1)) mod 1234567891
-//			= (N! mod 1234567891 * (R!*(N-R)!)^(-1) mod 1234567891) mod 1234567891
-//			(R!*(N-R)!)^(-1) mod 1234567891
-//			= (R!*(N-R)!)^(1234567891-2) mod 1234567891
-			long top = 1;
-			long bottom = 1;
-			for (int i = 1; i <= R; i++) {
-				top *= (N-i+1);
-				top %= P;
-				bottom *= i;
-				bottom %= P;
+			long[] factorial = new long[N+1]; // N!
+			factorial[0] = 1;
+			for (int i = 1; i <= N; i++) {
+				factorial[i] = (factorial[i-1]*i) % P;
 			}
+			long bottom = (factorial[R] * factorial[N-R]) % P;
 			bottom = fermat(bottom, P-2);
 			
-			sb.append("#").append(tc).append(" ").append((top*bottom) % P).append("\n");
+			sb.append("#").append(tc).append(" ").append((factorial[N]*bottom) % P).append("\n");
+			
+//			long top = 1;
+//			long bottom = 1;
+//			for (int i = 1; i <= R; i++) {
+//				top *= (N-i+1);
+//				top %= P;
+//				bottom *= i;
+//				bottom %= P;
+//			}
+//			bottom = fermat(bottom, P-2);
+//			
+//			sb.append("#").append(tc).append(" ").append((top*bottom) % P).append("\n");
 		}
 		System.out.println(sb.toString());
 	}

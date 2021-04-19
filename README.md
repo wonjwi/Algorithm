@@ -20,10 +20,10 @@
 
 _2021. 04. 19 ~ 2021. 04. 25_
 
-| 사이트                                                                                                    | 문제      | 풀이                                  | 알고리즘              | 난이도 |
-| --------------------------------------------------------------------------------------------------------- | --------- | ------------------------------------- | --------------------- | ------ |
-| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWyNQrCahHcDFAVP) | 방향 전환 | [Java](SWExpert/SW8382_방향전환.java) | 수학                  | D4     |
-| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXGKdbqczEDFAUo) | 조합      | [Java](SWExpert/SW5607_조합.java)     | 수학, 페르마의 소정리 | D3     |
+| 사이트                                                                                                    | 문제      | 풀이                                  | 알고리즘                      | 난이도 |
+| --------------------------------------------------------------------------------------------------------- | --------- | ------------------------------------- | ----------------------------- | ------ |
+| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWyNQrCahHcDFAVP) | 방향 전환 | [Java](SWExpert/SW8382_방향전환.java) | 수학                          | D4     |
+| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXGKdbqczEDFAUo) | 조합      | [Java](SWExpert/SW5607_조합.java)     | 수학, 정수론, 페르마의 소정리 | D3     |
 
 <br>
 

@@ -6,24 +6,25 @@
 난이도에 관계없이 하루에 한 문제씩 꾸준히 풀기. 완료한 문제는 그날 그날 바로 commit 하기. <br/>
 **수적석천(水適石穿)** 이라고 물방울이 돌을 뚫는다는데, 돌 한 번 뚫어보자😎
 
-## 지금까지 푼 문제 수 (총 156문제)
+## 지금까지 푼 문제 수 (총 157문제)
 
 - `Baekjoon` : **100**문제
 - `GoormLevel` : **2**문제
 - `JUNGOL` : **3**문제
 - `Programmers` : **8**문제
-- `SWExpert` : **43**문제
+- `SWExpert` : **44**문제
 
-## 이번 주 진행 상황 (총 2문제)
+## 이번 주 진행 상황 (총 3문제)
 
 ### Week 12
 
 _2021. 04. 19 ~ 2021. 04. 25_
 
-| 사이트                                                                                                    | 문제      | 풀이                                  | 알고리즘                      | 난이도 |
-| --------------------------------------------------------------------------------------------------------- | --------- | ------------------------------------- | ----------------------------- | ------ |
-| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWyNQrCahHcDFAVP) | 방향 전환 | [Java](SWExpert/SW8382_방향전환.java) | 수학                          | D4     |
-| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXGKdbqczEDFAUo) | 조합      | [Java](SWExpert/SW5607_조합.java)     | 수학, 정수론, 페르마의 소정리 | D3     |
+| 사이트                                                                                                    | 문제            | 풀이                                        | 알고리즘                        | 난이도 |
+| --------------------------------------------------------------------------------------------------------- | --------------- | ------------------------------------------- | ------------------------------- | ------ |
+| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWyNQrCahHcDFAVP) | 방향 전환       | [Java](SWExpert/SW8382_방향전환.java)       | 수학                            | D4     |
+| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXGKdbqczEDFAUo) | 조합            | [Java](SWExpert/SW5607_조합.java)           | 수학, 정수론, 페르마의 소정리   | D3     |
+| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWAe8zYKfUsDFAUw) | 이항계수 구하기 | [Java](SWExpert/SW3238_이항계수구하기.java) | 수학, 정수론, 조합론, 뤼카 정리 | D5     |
 
 <br>
 

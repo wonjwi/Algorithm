@@ -6,15 +6,15 @@
 난이도에 관계없이 하루에 한 문제씩 꾸준히 풀기. 완료한 문제는 그날 그날 바로 commit 하기. <br/>
 **수적석천(水適石穿)** 이라고 물방울이 돌을 뚫는다는데, 돌 한 번 뚫어보자😎
 
-## 지금까지 푼 문제 수 (총 167문제)
+## 지금까지 푼 문제 수 (총 169문제)
 
-- `Baekjoon` : **104**문제
+- `Baekjoon` : **106**문제
 - `GoormLevel` : **2**문제
 - `JUNGOL` : **3**문제
 - `Programmers` : **10**문제
 - `SWExpert` : **48**문제
 
-## 이번 주 진행 상황 (총 13문제)
+## 이번 주 진행 상황 (총 15문제)
 
 ### Week 12
 
@@ -35,6 +35,8 @@ _2021. 04. 19 ~ 2021. 04. 25_
 | [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V4A46AdIDFAWu)         | 벌꿀채취          | [Java](SWExpert/SW2115_벌꿀채취.java)           | 깊이 우선 탐색, 백트래킹              | 모의 SW 역량테스트 |
 | [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LwsHaD1MDFAXc)         | 파핑파핑 지뢰찾기 | [Java](SWExpert/SW1868_파핑파핑지뢰찾기.java)   | 구현, 시뮬레이션, 너비 우선 탐색      | D4                 |
 | [Baekjoon](https://www.acmicpc.net/problem/14891)                                                                 | 톱니바퀴          | [Java](Baekjoon/BJ14891_톱니바퀴.java)          | 구현, 시뮬레이션                      | Gold 5             |
+| [Baekjoon](https://www.acmicpc.net/problem/2660)                                                                  | 회장뽑기          | [Java](Baekjoon/BJ2660_회장뽑기.java)           | 그래프, 너비 우선 탐색, 플로이드 와샬 | Gold 5             |
+| [Baekjoon](https://www.acmicpc.net/problem/1965)                                                                  | 상자넣기          | [Java](Baekjoon/BJ1965_상자넣기.java)           | 다이나믹 프로그래밍                   | Silver 2           |
 
 <br>
 

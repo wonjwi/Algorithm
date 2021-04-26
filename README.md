@@ -14,29 +14,14 @@
 - `Programmers` : **10**문제
 - `SWExpert` : **48**문제
 
-## 이번 주 진행 상황 (총 15문제)
+## 이번 주 진행 상황 (총 0문제)
 
-### Week 12
+### Week 13
 
-_2021. 04. 19 ~ 2021. 04. 25_
+_2021. 04. 26 ~ 2021. 05. 02_
 
-| 사이트                                                                                                            | 문제              | 풀이                                            | 알고리즘                              | 난이도             |
-| ----------------------------------------------------------------------------------------------------------------- | ----------------- | ----------------------------------------------- | ------------------------------------- | ------------------ |
-| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWyNQrCahHcDFAVP)         | 방향 전환         | [Java](SWExpert/SW8382_방향전환.java)           | 수학                                  | D4                 |
-| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXGKdbqczEDFAUo)         | 조합              | [Java](SWExpert/SW5607_조합.java)               | 수학, 정수론, 페르마의 소정리         | D3                 |
-| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWAe8zYKfUsDFAUw)         | 이항계수 구하기   | [Java](SWExpert/SW3238_이항계수구하기.java)     | 수학, 정수론, 조합론, 뤼카 정리       | D5                 |
-| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/1835)                                            | 단체사진 찍기     | [Java](Programmers/PG_카카오_단체사진찍기.java) | 브루트포스                            | Level 2            |
-| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/64064)                                           | 불량 사용자       | [Java](Programmers/PG_카카오_불량사용자.java)   | 브루트포스, 해시, 문자열              | Level 3            |
-| [SWExpert](https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AXEN3aEKDrsDFAVX) | Poker Game        | [Java](SWExpert/SW9760_PokerGame.java)          | 구현, 시뮬레이션                      | D4                 |
-| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXGGNB6cnEDFAUo)         | 구간 합           | [Java](SWExpert/SW5604_구간합.java)             | 수학                                  | D4                 |
-| [Baekjoon](https://www.acmicpc.net/problem/1019)                                                                  | 책 페이지         | [Java](Baekjoon/BJ1019_책페이지.java)           | 수학                                  | Gold 1             |
-| [Baekjoon](https://www.acmicpc.net/problem/15683)                                                                 | 감시              | [Java](Baekjoon/BJ15683_감시.java)              | 구현, 브루트포스, 시뮬레이션          | Gold 5             |
-| [Baekjoon](https://www.acmicpc.net/problem/2458)                                                                  | 키 순서           | [Java](Baekjoon/BJ2458_키순서.java)             | 그래프, 깊이 우선 탐색, 플로이드 와샬 | Gold 4             |
-| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V4A46AdIDFAWu)         | 벌꿀채취          | [Java](SWExpert/SW2115_벌꿀채취.java)           | 깊이 우선 탐색, 백트래킹              | 모의 SW 역량테스트 |
-| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LwsHaD1MDFAXc)         | 파핑파핑 지뢰찾기 | [Java](SWExpert/SW1868_파핑파핑지뢰찾기.java)   | 구현, 시뮬레이션, 너비 우선 탐색      | D4                 |
-| [Baekjoon](https://www.acmicpc.net/problem/14891)                                                                 | 톱니바퀴          | [Java](Baekjoon/BJ14891_톱니바퀴.java)          | 구현, 시뮬레이션                      | Gold 5             |
-| [Baekjoon](https://www.acmicpc.net/problem/2660)                                                                  | 회장뽑기          | [Java](Baekjoon/BJ2660_회장뽑기.java)           | 그래프, 너비 우선 탐색, 플로이드 와샬 | Gold 5             |
-| [Baekjoon](https://www.acmicpc.net/problem/1965)                                                                  | 상자넣기          | [Java](Baekjoon/BJ1965_상자넣기.java)           | 다이나믹 프로그래밍                   | Silver 2           |
+| 사이트 | 문제 | 풀이 | 알고리즘 | 난이도 |
+| ------ | ---- | ---- | -------- | ------ |
 
 <br>
 
@@ -322,3 +307,27 @@ _2021. 04. 12 ~ 2021. 04. 18_
 | [Baekjoon](https://www.acmicpc.net/problem/2239)                                                          | 스도쿠         | [Java](Baekjoon/BJ2239_스도쿠.java)             | 백트래킹                    | Gold 4             |
 | [Baekjoon](https://www.acmicpc.net/problem/1764)                                                          | 듣보잡         | [Java](Baekjoon/BJ1764_듣보잡.java)             | 자료 구조, 문자열, 정렬     | Silver 4           |
 | [Baekjoon](https://www.acmicpc.net/problem/10836)                                                         | 여왕벌         | [Java](Baekjoon/BJ10836_여왕벌.java)            | 구현, 시뮬레이션            | Gold 4             |
+
+### Week 12
+
+_2021. 04. 19 ~ 2021. 04. 25_
+
+##### [목록으로 돌아가기](#Solved-Algorithm-Problems)
+
+| 사이트                                                                                                            | 문제              | 풀이                                            | 알고리즘                              | 난이도             |
+| ----------------------------------------------------------------------------------------------------------------- | ----------------- | ----------------------------------------------- | ------------------------------------- | ------------------ |
+| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWyNQrCahHcDFAVP)         | 방향 전환         | [Java](SWExpert/SW8382_방향전환.java)           | 수학                                  | D4                 |
+| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXGKdbqczEDFAUo)         | 조합              | [Java](SWExpert/SW5607_조합.java)               | 수학, 정수론, 페르마의 소정리         | D3                 |
+| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWAe8zYKfUsDFAUw)         | 이항계수 구하기   | [Java](SWExpert/SW3238_이항계수구하기.java)     | 수학, 정수론, 조합론, 뤼카 정리       | D5                 |
+| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/1835)                                            | 단체사진 찍기     | [Java](Programmers/PG_카카오_단체사진찍기.java) | 브루트포스                            | Level 2            |
+| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/64064)                                           | 불량 사용자       | [Java](Programmers/PG_카카오_불량사용자.java)   | 브루트포스, 해시, 문자열              | Level 3            |
+| [SWExpert](https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AXEN3aEKDrsDFAVX) | Poker Game        | [Java](SWExpert/SW9760_PokerGame.java)          | 구현, 시뮬레이션                      | D4                 |
+| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXGGNB6cnEDFAUo)         | 구간 합           | [Java](SWExpert/SW5604_구간합.java)             | 수학                                  | D4                 |
+| [Baekjoon](https://www.acmicpc.net/problem/1019)                                                                  | 책 페이지         | [Java](Baekjoon/BJ1019_책페이지.java)           | 수학                                  | Gold 1             |
+| [Baekjoon](https://www.acmicpc.net/problem/15683)                                                                 | 감시              | [Java](Baekjoon/BJ15683_감시.java)              | 구현, 브루트포스, 시뮬레이션          | Gold 5             |
+| [Baekjoon](https://www.acmicpc.net/problem/2458)                                                                  | 키 순서           | [Java](Baekjoon/BJ2458_키순서.java)             | 그래프, 깊이 우선 탐색, 플로이드 와샬 | Gold 4             |
+| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V4A46AdIDFAWu)         | 벌꿀채취          | [Java](SWExpert/SW2115_벌꿀채취.java)           | 깊이 우선 탐색, 백트래킹              | 모의 SW 역량테스트 |
+| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LwsHaD1MDFAXc)         | 파핑파핑 지뢰찾기 | [Java](SWExpert/SW1868_파핑파핑지뢰찾기.java)   | 구현, 시뮬레이션, 너비 우선 탐색      | D4                 |
+| [Baekjoon](https://www.acmicpc.net/problem/14891)                                                                 | 톱니바퀴          | [Java](Baekjoon/BJ14891_톱니바퀴.java)          | 구현, 시뮬레이션                      | Gold 5             |
+| [Baekjoon](https://www.acmicpc.net/problem/2660)                                                                  | 회장뽑기          | [Java](Baekjoon/BJ2660_회장뽑기.java)           | 그래프, 너비 우선 탐색, 플로이드 와샬 | Gold 5             |
+| [Baekjoon](https://www.acmicpc.net/problem/1965)                                                                  | 상자넣기          | [Java](Baekjoon/BJ1965_상자넣기.java)           | 다이나믹 프로그래밍                   | Silver 2           |

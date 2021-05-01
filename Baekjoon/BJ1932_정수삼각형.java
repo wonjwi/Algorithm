@@ -1,7 +1,7 @@
 package week13;
 
 import java.io.*;
-import java.util.StringTokenizer;
+import java.util.*;
 
 public class BJ1932_정수삼각형 {
 	
@@ -29,12 +29,9 @@ public class BJ1932_정수삼각형 {
 				dp[i][j] = map[i][j] + Math.max(dp[i-1][j-1], dp[i-1][j]);
 			}
 		}
-		// 합이 최대가 되는 경로의 합 찾기
-		int max = 0;
-		for (int i = 0; i < n; i++) {
-			max = Math.max(max, dp[n-1][i]);
-		}
-		System.out.println(max);
+		// 합이 최대가 되는 경로의 합
+		Arrays.sort(dp[n-1]);
+		System.out.println(dp[n-1][n-1]);
 	}
 
 }

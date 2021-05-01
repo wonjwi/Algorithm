@@ -6,15 +6,15 @@
 난이도에 관계없이 하루에 한 문제씩 꾸준히 풀기. 완료한 문제는 그날 그날 바로 commit 하기. <br/>
 **수적석천(水適石穿)** 이라고 물방울이 돌을 뚫는다는데, 돌 한 번 뚫어보자😎
 
-## 지금까지 푼 문제 수 (총 174문제)
+## 지금까지 푼 문제 수 (총 175문제)
 
-- `Baekjoon` : **109**문제
+- `Baekjoon` : **110**문제
 - `GoormLevel` : **2**문제
 - `JUNGOL` : **3**문제
 - `Programmers` : **12**문제
 - `SWExpert` : **48**문제
 
-## 이번 주 진행 상황 (총 5문제)
+## 이번 주 진행 상황 (총 6문제)
 
 ### Week 13
 
@@ -27,6 +27,7 @@ _2021. 04. 26 ~ 2021. 05. 02_
 | [Baekjoon](https://www.acmicpc.net/problem/13549)                       | 숨바꼭질 3        | [Java](Baekjoon/BJ13549_숨바꼭질3.java)       | 그래프, 너비 우선 탐색         | Gold 5   |
 | [Baekjoon](https://www.acmicpc.net/problem/16947)                       | 서울 지하철 2호선 | [Java](Baekjoon/BJ16947_서울지하철2호선.java) | 너비 우선 탐색, 깊이 우선 탐색 | Gold 3   |
 | [Baekjoon](https://www.acmicpc.net/problem/1932)                        | 정수 삼각형       | [Java](Baekjoon/BJ1932_정수삼각형.java)       | 다이나믹 프로그래밍            | Silver 1 |
+| [Baekjoon](https://www.acmicpc.net/problem/8980)                        | 택배              | [Java](Baekjoon/BJ8980_택배.java)             | 그리디, 정렬                   | Gold 3   |
 
 <br>
 

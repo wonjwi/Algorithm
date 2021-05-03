@@ -23,7 +23,7 @@ _2021. 05. 03 ~ 2021. 05. 09_
 | 사이트                                            | 문제          | 풀이                                       | 알고리즘   | 난이도   |
 | ------------------------------------------------- | ------------- | ------------------------------------------ | ---------- | -------- |
 | [Baekjoon](https://www.acmicpc.net/problem/16463) | 13일의 금요일 | [Java](Baekjoon/BJ16463_13일의금요일.java) | 브루트포스 | Silver 3 |
-| [Baekjoon](https://www.acmicpc.net/problem/2846)  | 오르막길      | [Java](Baekjoon/BJ2846_오르막길.java)      | 브루트포스 | Bronze 2 |
+| [Baekjoon](https://www.acmicpc.net/problem/2846)  | 오르막길      | [Java](Baekjoon/BJ2846_오르막길.java)      | 구현 | Bronze 2 |
 
 <br>
 

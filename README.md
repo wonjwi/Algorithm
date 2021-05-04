@@ -25,6 +25,7 @@ _2021. 05. 03 ~ 2021. 05. 09_
 | [Baekjoon](https://www.acmicpc.net/problem/16463) | 13일의 금요일 | [Java](Baekjoon/BJ16463_13일의금요일.java) | 브루트포스            | Silver 3 |
 | [Baekjoon](https://www.acmicpc.net/problem/2846)  | 오르막길      | [Java](Baekjoon/BJ2846_오르막길.java)      | 구현                  | Bronze 2 |
 | [Baekjoon](https://www.acmicpc.net/problem/14938) | 서강그라운드  | [Java](Baekjoon/BJ14938_서강그라운드.java) | 그래프, 플로이드 와샬 | Gold 4   |
+| [Baekjoon](https://www.acmicpc.net/problem/1931)  | 회의실 배정   | [Java](Baekjoon/BJ1931_회의실배정.java)    | 그리디, 정렬          | Silver 2 |
 
 <br>
 

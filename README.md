@@ -27,6 +27,7 @@ _2021. 05. 10 ~ 2021. 05. 16_
 | [Baekjoon](https://www.acmicpc.net/problem/2668)  | 숫자고르기  | [Java](Baekjoon/BJ2668_숫자고르기.java)  | 그래프, 깊이 우선 탐색                 | Gold 5   |
 | [Baekjoon](https://www.acmicpc.net/problem/20191) | 줄임말      | [Java](Baekjoon/BJ20191_줄임말.java)     | 다이나믹 프로그래밍, 문자열, 이분 탐색 | Gold 2   |
 | [Baekjoon](https://www.acmicpc.net/problem/2109)  | 순회강연    | [Java](Baekjoon/BJ2109_순회강연.java)    | 자료 구조, 그리디, 정렬                | Gold 4   |
+| [Baekjoon](https://www.acmicpc.net/problem/2473)  | 세 용액     | [Java](Baekjoon/BJ2473_세용액.java)      | 정렬, 이분 탐색, 두 포인터             | Gold 4   |
 
 <br>
 

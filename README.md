@@ -6,15 +6,15 @@
 난이도에 관계없이 하루에 한 문제씩 꾸준히 풀기. 완료한 문제는 그날 그날 바로 commit 하기. <br/>
 **수적석천(水適石穿)** 이라고 물방울이 돌을 뚫는다는데, 돌 한 번 뚫어보자😎
 
-## 지금까지 푼 문제 수 (총 188문제)
+## 지금까지 푼 문제 수 (총 189문제)
 
-- `Baekjoon` : **123**문제
+- `Baekjoon` : **124**문제
 - `GoormLevel` : **2**문제
 - `JUNGOL` : **3**문제
 - `Programmers` : **12**문제
 - `SWExpert` : **48**문제
 
-## 이번 주 진행 상황 (총 4문제)
+## 이번 주 진행 상황 (총 5문제)
 
 ### Week 15
 
@@ -26,6 +26,7 @@ _2021. 05. 10 ~ 2021. 05. 16_
 | [Baekjoon](https://www.acmicpc.net/problem/15685) | 드래곤 커브 | [Java](Baekjoon/BJ15685_드래곤커브.java) | 구현, 시뮬레이션                       | Gold 4   |
 | [Baekjoon](https://www.acmicpc.net/problem/2668)  | 숫자고르기  | [Java](Baekjoon/BJ2668_숫자고르기.java)  | 그래프, 깊이 우선 탐색                 | Gold 5   |
 | [Baekjoon](https://www.acmicpc.net/problem/20191) | 줄임말      | [Java](Baekjoon/BJ20191_줄임말.java)     | 다이나믹 프로그래밍, 문자열, 이분 탐색 | Gold 2   |
+| [Baekjoon](https://www.acmicpc.net/problem/2109)  | 순회강연    | [Java](Baekjoon/BJ2109_순회강연.java)    | 자료 구조, 그리디, 정렬                | Gold 4   |
 
 <br>
 

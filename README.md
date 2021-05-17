@@ -14,20 +14,14 @@
 - `Programmers` : **12**문제
 - `SWExpert` : **48**문제
 
-## 이번 주 진행 상황 (총 6문제)
+## 이번 주 진행 상황 (총 10문제)
 
-### Week 15
+### Week 16
 
-_2021. 05. 10 ~ 2021. 05. 16_
+_2021. 05. 17 ~ 2021. 05. 23_
 
-| 사이트                                            | 문제        | 풀이                                     | 알고리즘                               | 난이도   |
-| ------------------------------------------------- | ----------- | ---------------------------------------- | -------------------------------------- | -------- |
-| [Baekjoon](https://www.acmicpc.net/problem/2156)  | 포도주 시식 | [Java](Baekjoon/BJ2156_포도주시식.java)  | 다이나믹 프로그래밍                    | Silver 1 |
-| [Baekjoon](https://www.acmicpc.net/problem/15685) | 드래곤 커브 | [Java](Baekjoon/BJ15685_드래곤커브.java) | 구현, 시뮬레이션                       | Gold 4   |
-| [Baekjoon](https://www.acmicpc.net/problem/2668)  | 숫자고르기  | [Java](Baekjoon/BJ2668_숫자고르기.java)  | 그래프, 깊이 우선 탐색                 | Gold 5   |
-| [Baekjoon](https://www.acmicpc.net/problem/20191) | 줄임말      | [Java](Baekjoon/BJ20191_줄임말.java)     | 다이나믹 프로그래밍, 문자열, 이분 탐색 | Gold 2   |
-| [Baekjoon](https://www.acmicpc.net/problem/2109)  | 순회강연    | [Java](Baekjoon/BJ2109_순회강연.java)    | 자료 구조, 그리디, 정렬                | Gold 4   |
-| [Baekjoon](https://www.acmicpc.net/problem/2473)  | 세 용액     | [Java](Baekjoon/BJ2473_세용액.java)      | 정렬, 이분 탐색, 두 포인터             | Gold 4   |
+| 사이트 | 문제 | 풀이 | 알고리즘 | 난이도 |
+| ------ | ---- | ---- | -------- | ------ |
 
 <br>
 
@@ -377,3 +371,18 @@ _2021. 05. 03 ~ 2021. 05. 09_
 | [Baekjoon](https://www.acmicpc.net/problem/1647)  | 도시 분할 계획 | [Java](Baekjoon/BJ1647_도시분할계획.java)  | 그래프, 최소 신장 트리       | Gold 4   |
 | [Baekjoon](https://www.acmicpc.net/problem/8972)  | 미친 아두이노  | [Java](Baekjoon/BJ8972_미친아두이노.java)  | 구현, 시뮬레이션             | Gold 4   |
 | [Baekjoon](https://www.acmicpc.net/problem/1013)  | Contact        | [Java](Baekjoon/BJ1013_Contact.java)       | 문자열, 정규 표현식          | Gold 5   |
+
+### Week 15
+
+_2021. 05. 10 ~ 2021. 05. 16_
+
+##### [목록으로 돌아가기](#Solved-Algorithm-Problems)
+
+| 사이트                                            | 문제        | 풀이                                     | 알고리즘                               | 난이도   |
+| ------------------------------------------------- | ----------- | ---------------------------------------- | -------------------------------------- | -------- |
+| [Baekjoon](https://www.acmicpc.net/problem/2156)  | 포도주 시식 | [Java](Baekjoon/BJ2156_포도주시식.java)  | 다이나믹 프로그래밍                    | Silver 1 |
+| [Baekjoon](https://www.acmicpc.net/problem/15685) | 드래곤 커브 | [Java](Baekjoon/BJ15685_드래곤커브.java) | 구현, 시뮬레이션                       | Gold 4   |
+| [Baekjoon](https://www.acmicpc.net/problem/2668)  | 숫자고르기  | [Java](Baekjoon/BJ2668_숫자고르기.java)  | 그래프, 깊이 우선 탐색                 | Gold 5   |
+| [Baekjoon](https://www.acmicpc.net/problem/20191) | 줄임말      | [Java](Baekjoon/BJ20191_줄임말.java)     | 다이나믹 프로그래밍, 문자열, 이분 탐색 | Gold 2   |
+| [Baekjoon](https://www.acmicpc.net/problem/2109)  | 순회강연    | [Java](Baekjoon/BJ2109_순회강연.java)    | 자료 구조, 그리디, 정렬                | Gold 4   |
+| [Baekjoon](https://www.acmicpc.net/problem/2473)  | 세 용액     | [Java](Baekjoon/BJ2473_세용액.java)      | 정렬, 이분 탐색, 두 포인터             | Gold 4   |

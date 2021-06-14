@@ -14,20 +14,14 @@
 - `Programmers` : **14**문제
 - `SWExpert` : **48**문제
 
-## 이번 주 진행 상황 (총 6문제)
+## 이번 주 진행 상황 (총 0문제)
 
-### Week 17
+### Week 18
 
-_2021. 06. 07 ~ 2021. 06. 13_
+_2021. 06. 14 ~ 2021. 06. 20_
 
-| 사이트                                                                  | 문제                         | 풀이                                                 | 알고리즘                             | 난이도   |
-| ----------------------------------------------------------------------- | ---------------------------- | ---------------------------------------------------- | ------------------------------------ | -------- |
-| [Baekjoon](https://www.acmicpc.net/problem/5427)                        | 불                           | [Java](Baekjoon/BJ5427_불.java)                      | 그래프, 너비 우선 탐색               | Gold 4   |
-| [Baekjoon](https://www.acmicpc.net/problem/1826)                        | 연료 채우기                  | [Java](Baekjoon/BJ1826_연료채우기.java)              | 자료 구조, 그리디, 정렬, 우선순위 큐 | Gold 3   |
-| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/42578) | 위장                         | [Java](Programmers/PG_해시_위장.java)                | 자료 구조, 해시                      | Level 2  |
-| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/77485) | 행렬 테두리 회전하기         | [Java](Programmers/PG_행렬테두리회전하기.java)       | 구현, 시뮬레이션                     | Level 2  |
-| [Baekjoon](https://www.acmicpc.net/problem/1756)                        | 피자 굽기                    | [Java](Baekjoon/BJ1756_피자굽기.java)                | 구현, 시뮬레이션, 이분 탐색          | Gold 5   |
-| [Baekjoon](https://www.acmicpc.net/problem/1011)                        | Fly me to the Alpha Centauri | [Java](Baekjoon/BJ1011_FlymetotheAlphaCentauri.java) | 수학                                 | Silver 1 |
+| 사이트 | 문제 | 풀이 | 알고리즘 | 난이도 |
+| ------ | ---- | ---- | -------- | ------ |
 
 <br>
 
@@ -60,7 +54,11 @@ _2021. 06. 07 ~ 2021. 06. 13_
 - [Week 14](#Week-14) (2021. 05. 03 ~ 2021. 05. 09)
 - [Week 15](#Week-15) (2021. 05. 10 ~ 2021. 05. 16)
 - [Week 16](#Week-16) (2021. 05. 17 ~ 2021. 05. 23)
+
+### June 2021
+
 - [Week 17](#Week-17) (2021. 06. 07 ~ 2021. 06. 13)
+- [Week 18](#Week-18) (2021. 06. 14 ~ 2021. 06. 20)
 
 <br>
 
@@ -405,3 +403,18 @@ _2021. 05. 17 ~ 2021. 05. 23_
 | [Baekjoon](https://www.acmicpc.net/problem/2597)  | 줄자접기    | [Java](Baekjoon/BJ2597_줄자접기.java)   | 구현                             | Silver 4 |
 | [Baekjoon](https://www.acmicpc.net/problem/5397)  | 키로거      | [Java](Baekjoon/BJ5397_키로거.java)     | 자료 구조, 스택, 덱, 연결 리스트 | Silver 3 |
 | [Baekjoon](https://www.acmicpc.net/problem/13305) | 주유소      | [Java](Baekjoon/BJ13305_주유소.java)    | 그리디                           | Silver 4 |
+
+### Week 17
+
+_2021. 06. 07 ~ 2021. 06. 13_
+
+##### [목록으로 돌아가기](#Solved-Algorithm-Problems)
+
+| 사이트                                                                  | 문제                         | 풀이                                                 | 알고리즘                             | 난이도   |
+| ----------------------------------------------------------------------- | ---------------------------- | ---------------------------------------------------- | ------------------------------------ | -------- |
+| [Baekjoon](https://www.acmicpc.net/problem/5427)                        | 불                           | [Java](Baekjoon/BJ5427_불.java)                      | 그래프, 너비 우선 탐색               | Gold 4   |
+| [Baekjoon](https://www.acmicpc.net/problem/1826)                        | 연료 채우기                  | [Java](Baekjoon/BJ1826_연료채우기.java)              | 자료 구조, 그리디, 정렬, 우선순위 큐 | Gold 3   |
+| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/42578) | 위장                         | [Java](Programmers/PG_해시_위장.java)                | 자료 구조, 해시                      | Level 2  |
+| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/77485) | 행렬 테두리 회전하기         | [Java](Programmers/PG_행렬테두리회전하기.java)       | 구현, 시뮬레이션                     | Level 2  |
+| [Baekjoon](https://www.acmicpc.net/problem/1756)                        | 피자 굽기                    | [Java](Baekjoon/BJ1756_피자굽기.java)                | 구현, 시뮬레이션, 이분 탐색          | Gold 5   |
+| [Baekjoon](https://www.acmicpc.net/problem/1011)                        | Fly me to the Alpha Centauri | [Java](Baekjoon/BJ1011_FlymetotheAlphaCentauri.java) | 수학                                 | Silver 1 |

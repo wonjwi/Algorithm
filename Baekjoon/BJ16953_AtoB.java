@@ -1,8 +1,39 @@
-package ssafy.baekjoon;
+package week18;
 
 import java.io.*;
-import java.util.StringTokenizer;
+import java.util.*;
 
+public class BJ16953_AtoB {
+
+	static int min = Integer.MAX_VALUE;
+
+	public static void main(String[] args) throws IOException {
+		BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
+		StringTokenizer st = new StringTokenizer(in.readLine(), " ");
+		int A = Integer.parseInt(st.nextToken());
+		int B = Integer.parseInt(st.nextToken());
+		change(A, B, 0);
+		System.out.println(min == Integer.MAX_VALUE ? -1 : min + 1);
+	}
+
+	private static void change(int A, int B, int cnt) {
+		// A가 B가 됨
+		if (A == B) {
+			min = Math.min(min, cnt);
+			return;
+		}
+		// B로 만들기
+		if (A < 100000000) {
+			change(A * 10 + 1, B, cnt + 1);
+		}
+		if (A <= 500000000) {
+			change(A * 2, B, cnt + 1);
+		}
+	}
+
+}
+
+/*
 public class BJ16953_AtoB {
 	
 	static int min = Integer.MAX_VALUE;
@@ -29,3 +60,4 @@ public class BJ16953_AtoB {
 	}
 
 }
+*/

@@ -14,19 +14,14 @@
 - `Programmers` : **14**문제
 - `SWExpert` : **48**문제
 
-## 이번 주 진행 상황 (총 5문제)
+## 이번 주 진행 상황 (총 0문제)
 
-### Week 18
+### Week 19
 
-_2021. 06. 14 ~ 2021. 06. 20_
+_2021. 06. 21 ~ 2021. 06. 27_
 
-| 사이트                                            | 문제              | 풀이                                           | 알고리즘                                    | 난이도   |
-| ------------------------------------------------- | ----------------- | ---------------------------------------------- | ------------------------------------------- | -------- |
-| [Baekjoon](https://www.acmicpc.net/problem/16398) | 행성 연결         | [Java](Baekjoon/BJ16398_행성연결.java)         | 그래프, 최소 스패닝 트리                    | Gold 4   |
-| [Baekjoon](https://www.acmicpc.net/problem/16987) | 계란으로 계란치기 | [Java](Baekjoon/BJ16987_계란으로계란치기.java) | 브루트포스, 백트래킹                        | Silver 1 |
-| [Baekjoon](https://www.acmicpc.net/problem/2056)  | 작업              | [Java](Baekjoon/BJ2056_작업.java)              | 다이나믹 프로그래밍, 그래피, 위상 정렬      | Gold 4   |
-| [Baekjoon](https://www.acmicpc.net/problem/14226) | 이모티콘          | [Java](Baekjoon/BJ14226_이모티콘.java)         | 다이나믹 프로그래밍, 그래프, 너비 우선 탐색 | Gold 5   |
-| [Baekjoon](https://www.acmicpc.net/problem/14719) | 빗물              | [Java](Baekjoon/BJ14719_빗물.java)             | 구현, 시뮬레이션                            | Gold 5   |
+| 사이트 | 문제 | 풀이 | 알고리즘 | 난이도 |
+| ------ | ---- | ---- | -------- | ------ |
 
 <br>
 
@@ -64,6 +59,8 @@ _2021. 06. 14 ~ 2021. 06. 20_
 
 - [Week 17](#Week-17) (2021. 06. 07 ~ 2021. 06. 13)
 - [Week 18](#Week-18) (2021. 06. 14 ~ 2021. 06. 20)
+- [Week 19](#Week-19) (2021. 06. 21 ~ 2021. 06. 27)
+- [Week 20](#Week-20) (2021. 06. 28 ~ 2021. 07. 04)
 
 <br>
 
@@ -423,3 +420,17 @@ _2021. 06. 07 ~ 2021. 06. 13_
 | [Programmers](https://programmers.co.kr/learn/courses/30/lessons/77485) | 행렬 테두리 회전하기         | [Java](Programmers/PG_행렬테두리회전하기.java)       | 구현, 시뮬레이션                     | Level 2  |
 | [Baekjoon](https://www.acmicpc.net/problem/1756)                        | 피자 굽기                    | [Java](Baekjoon/BJ1756_피자굽기.java)                | 구현, 시뮬레이션, 이분 탐색          | Gold 5   |
 | [Baekjoon](https://www.acmicpc.net/problem/1011)                        | Fly me to the Alpha Centauri | [Java](Baekjoon/BJ1011_FlymetotheAlphaCentauri.java) | 수학                                 | Silver 1 |
+
+### Week 18
+
+_2021. 06. 14 ~ 2021. 06. 20_
+
+##### [목록으로 돌아가기](#Solved-Algorithm-Problems)
+
+| 사이트                                            | 문제              | 풀이                                           | 알고리즘                                    | 난이도   |
+| ------------------------------------------------- | ----------------- | ---------------------------------------------- | ------------------------------------------- | -------- |
+| [Baekjoon](https://www.acmicpc.net/problem/16398) | 행성 연결         | [Java](Baekjoon/BJ16398_행성연결.java)         | 그래프, 최소 스패닝 트리                    | Gold 4   |
+| [Baekjoon](https://www.acmicpc.net/problem/16987) | 계란으로 계란치기 | [Java](Baekjoon/BJ16987_계란으로계란치기.java) | 브루트포스, 백트래킹                        | Silver 1 |
+| [Baekjoon](https://www.acmicpc.net/problem/2056)  | 작업              | [Java](Baekjoon/BJ2056_작업.java)              | 다이나믹 프로그래밍, 그래피, 위상 정렬      | Gold 4   |
+| [Baekjoon](https://www.acmicpc.net/problem/14226) | 이모티콘          | [Java](Baekjoon/BJ14226_이모티콘.java)         | 다이나믹 프로그래밍, 그래프, 너비 우선 탐색 | Gold 5   |
+| [Baekjoon](https://www.acmicpc.net/problem/14719) | 빗물              | [Java](Baekjoon/BJ14719_빗물.java)             | 구현, 시뮬레이션                            | Gold 5   |

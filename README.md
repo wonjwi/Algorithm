@@ -20,11 +20,13 @@
 
 _2021. 06. 14 ~ 2021. 06. 20_
 
-| 사이트                                            | 문제              | 풀이                                           | 알고리즘                               | 난이도   |
-| ------------------------------------------------- | ----------------- | ---------------------------------------------- | -------------------------------------- | -------- |
-| [Baekjoon](https://www.acmicpc.net/problem/16398) | 행성 연결         | [Java](Baekjoon/BJ16398_행성연결.java)         | 그래프, 최소 스패닝 트리               | Gold 4   |
-| [Baekjoon](https://www.acmicpc.net/problem/16987) | 계란으로 계란치기 | [Java](Baekjoon/BJ16987_계란으로계란치기.java) | 브루트포스, 백트래킹                   | Silver 1 |
-| [Baekjoon](https://www.acmicpc.net/problem/2056)  | 작업              | [Java](Baekjoon/BJ2056_작업.java)              | 다이나믹 프로그래밍, 그래피, 위상 정렬 | Gold 4   |
+| 사이트                                            | 문제              | 풀이                                           | 알고리즘                                    | 난이도   |
+| ------------------------------------------------- | ----------------- | ---------------------------------------------- | ------------------------------------------- | -------- |
+| [Baekjoon](https://www.acmicpc.net/problem/16398) | 행성 연결         | [Java](Baekjoon/BJ16398_행성연결.java)         | 그래프, 최소 스패닝 트리                    | Gold 4   |
+| [Baekjoon](https://www.acmicpc.net/problem/16987) | 계란으로 계란치기 | [Java](Baekjoon/BJ16987_계란으로계란치기.java) | 브루트포스, 백트래킹                        | Silver 1 |
+| [Baekjoon](https://www.acmicpc.net/problem/2056)  | 작업              | [Java](Baekjoon/BJ2056_작업.java)              | 다이나믹 프로그래밍, 그래피, 위상 정렬      | Gold 4   |
+| [Baekjoon](https://www.acmicpc.net/problem/14226) | 이모티콘          | [Java](Baekjoon/BJ14226_이모티콘.java)         | 다이나믹 프로그래밍, 그래프, 너비 우선 탐색 | Gold 5   |
+| [Baekjoon](https://www.acmicpc.net/problem/14719) | 빗물              | [Java](Baekjoon/BJ14719_빗물.java)             | 구현, 시뮬레이션                            | Gold 5   |
 
 <br>
 

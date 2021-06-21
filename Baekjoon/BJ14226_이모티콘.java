@@ -3,23 +3,6 @@ package week18;
 import java.io.*;
 import java.util.*;
 
-// 다이나믹 프로그래밍(DP)
-//public class BJ14226_이모티콘 {
-//
-//	public static void main(String[] args) throws NumberFormatException, IOException {
-//		BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
-//
-//		// 만들어야 하는 이모티콘 개수
-//		int S = Integer.parseInt(in.readLine());
-//
-//		int answer = -1, temp[], cnt, time, copy;
-//
-//		System.out.println(answer);
-//	}
-//
-//}
-
-// 너비 우선 탐색(BFS)
 public class BJ14226_이모티콘 {
 
 	public static void main(String[] args) throws NumberFormatException, IOException {

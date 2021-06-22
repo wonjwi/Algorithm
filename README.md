@@ -14,7 +14,7 @@
 - `Programmers` : **14**문제
 - `SWExpert` : **48**문제
 
-## 이번 주 진행 상황 (총 0문제)
+## 이번 주 진행 상황 (총 2문제)
 
 ### Week 19
 
@@ -22,6 +22,8 @@ _2021. 06. 21 ~ 2021. 06. 27_
 
 | 사이트 | 문제 | 풀이 | 알고리즘 | 난이도 |
 | ------ | ---- | ---- | -------- | ------ |
+|[Baekjoon](https://www.acmicpc.net/problem/1484)|다이어트|[Java](Baekjoon/BJ1484_다이어트.java)|수학, 두 포인터|Gold 4|
+|[Baekjoon](https://www.acmicpc.net/problem/2665)|미로만들기|[Java](Baekjoon/BJ2665_미로만들기.java)|그래프, 너비 우선 탐색, 다익스트라|Gold 4|
 
 <br>
 

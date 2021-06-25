@@ -6,24 +6,26 @@
 난이도에 관계없이 하루에 한 문제씩 꾸준히 풀기. 완료한 문제는 그날 그날 바로 commit 하기. <br/>
 **수적석천(水適石穿)** 이라고 물방울이 돌을 뚫는다는데, 돌 한 번 뚫어보자😎
 
-## 지금까지 푼 문제 수 (총 207문제)
+## 지금까지 푼 문제 수 (총 209문제)
 
-- `Baekjoon` : **140**문제
+- `Baekjoon` : **142**문제
 - `GoormLevel` : **2**문제
 - `JUNGOL` : **3**문제
 - `Programmers` : **14**문제
 - `SWExpert` : **48**문제
 
-## 이번 주 진행 상황 (총 2문제)
+## 이번 주 진행 상황 (총 4문제)
 
 ### Week 19
 
 _2021. 06. 21 ~ 2021. 06. 27_
 
-| 사이트                                           | 문제       | 풀이                                    | 알고리즘                           | 난이도 |
-| ------------------------------------------------ | ---------- | --------------------------------------- | ---------------------------------- | ------ |
-| [Baekjoon](https://www.acmicpc.net/problem/1484) | 다이어트   | [Java](Baekjoon/BJ1484_다이어트.java)   | 수학, 두 포인터                    | Gold 4 |
-| [Baekjoon](https://www.acmicpc.net/problem/2665) | 미로만들기 | [Java](Baekjoon/BJ2665_미로만들기.java) | 그래프, 너비 우선 탐색, 다익스트라 | Gold 4 |
+| 사이트                                            | 문제        | 풀이                                     | 알고리즘                           | 난이도 |
+| ------------------------------------------------- | ----------- | ---------------------------------------- | ---------------------------------- | ------ |
+| [Baekjoon](https://www.acmicpc.net/problem/1484)  | 다이어트    | [Java](Baekjoon/BJ1484_다이어트.java)    | 수학, 두 포인터                    | Gold 4 |
+| [Baekjoon](https://www.acmicpc.net/problem/2665)  | 미로만들기  | [Java](Baekjoon/BJ2665_미로만들기.java)  | 그래프, 너비 우선 탐색, 다익스트라 | Gold 4 |
+| [Baekjoon](https://www.acmicpc.net/problem/12865) | 평범한 배낭 | [Java](Baekjoon/BJ12865_평범한배낭.java) | 다이나믹 프로그래밍                | Gold 5 |
+| [Baekjoon](https://www.acmicpc.net/problem/7573)  | 고기잡이    | [Java](Baekjoon/BJ7573_고기잡이.java)    | 브루트포스                         | Gold 4 |
 
 <br>
 

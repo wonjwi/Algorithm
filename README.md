@@ -20,12 +20,13 @@
 
 _2021. 06. 21 ~ 2021. 06. 27_
 
-| 사이트                                            | 문제        | 풀이                                     | 알고리즘                           | 난이도 |
-| ------------------------------------------------- | ----------- | ---------------------------------------- | ---------------------------------- | ------ |
-| [Baekjoon](https://www.acmicpc.net/problem/1484)  | 다이어트    | [Java](Baekjoon/BJ1484_다이어트.java)    | 수학, 두 포인터                    | Gold 4 |
-| [Baekjoon](https://www.acmicpc.net/problem/2665)  | 미로만들기  | [Java](Baekjoon/BJ2665_미로만들기.java)  | 그래프, 너비 우선 탐색, 다익스트라 | Gold 4 |
-| [Baekjoon](https://www.acmicpc.net/problem/12865) | 평범한 배낭 | [Java](Baekjoon/BJ12865_평범한배낭.java) | 다이나믹 프로그래밍                | Gold 5 |
-| [Baekjoon](https://www.acmicpc.net/problem/7573)  | 고기잡이    | [Java](Baekjoon/BJ7573_고기잡이.java)    | 브루트포스                         | Gold 4 |
+| 사이트                                            | 문제        | 풀이                                     | 알고리즘                           | 난이도   |
+| ------------------------------------------------- | ----------- | ---------------------------------------- | ---------------------------------- | -------- |
+| [Baekjoon](https://www.acmicpc.net/problem/1484)  | 다이어트    | [Java](Baekjoon/BJ1484_다이어트.java)    | 수학, 두 포인터                    | Gold 4   |
+| [Baekjoon](https://www.acmicpc.net/problem/2665)  | 미로만들기  | [Java](Baekjoon/BJ2665_미로만들기.java)  | 그래프, 너비 우선 탐색, 다익스트라 | Gold 4   |
+| [Baekjoon](https://www.acmicpc.net/problem/12865) | 평범한 배낭 | [Java](Baekjoon/BJ12865_평범한배낭.java) | 다이나믹 프로그래밍                | Gold 5   |
+| [Baekjoon](https://www.acmicpc.net/problem/7573)  | 고기잡이    | [Java](Baekjoon/BJ7573_고기잡이.java)    | 브루트포스                         | Gold 4   |
+| [Baekjoon](https://www.acmicpc.net/problem/10434) | 행복한 소수 | [Java](Baekjoon/BJ10434_행복한소수.java) | 수학, 구현, 시뮬레이션             | Silver 3 |
 
 <br>
 

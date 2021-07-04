@@ -5,8 +5,8 @@ import java.util.*;
 
 public class BJ2573_빙산 {
 
-	static int N, M, map[][], answer;
-	static Queue<int[]> ice;
+	static int N, M, map[][], temp[][];
+	static boolean visited[][];
 	static int dr[] = { 0, 0, 1, -1 };
 	static int dc[] = { 1, -1, 0, 0 };
 
@@ -17,94 +17,114 @@ public class BJ2573_빙산 {
 		N = Integer.parseInt(st.nextToken());
 		M = Integer.parseInt(st.nextToken());
 		map = new int[N][M];
-		ice = new LinkedList<int[]>();
+		temp = new int[N][M];
 
 		// 빙산의 초기 정보 입력
 		for (int i = 0; i < N; i++) {
 			st = new StringTokenizer(in.readLine(), " ");
 			for (int j = 0; j < M; j++) {
 				map[i][j] = Integer.parseInt(st.nextToken());
-				if (map[i][j] > 0) {
-					ice.add(new int[] { i, j });
-				}
 			}
 		}
 
-		// 빙산이 녹기 시작
-		melt();
+		int answer = 0, iceCnt = 0;
+
+		while (true) {
+			// 빙산이 녹는다
+			melt();
+			answer++; // 1년 증가
+
+			// 빙산이 하나도 안 남았을 경우
+			iceCnt = getIceCnt();
+			if (iceCnt == 0) {
+				answer = 0;
+				break;
+			}
+
+			// 빙산이 두 덩어리 이상인지 검사
+			visited = new boolean[N][M];
+			if (check()) {
+				break;
+			}
+		}
 
 		// 빙산이 분리되는 최초의 시간 출력
 		System.out.println(answer);
 	}
 
+	private static int getIceCnt() {
+		int cnt = 0;
+
+		for (int i = 0; i < N; i++) {
+			for (int j = 0; j < M; j++) {
+				if (map[i][j] > 0) { // 빙산이면
+					cnt++;
+				}
+			}
+		}
+
+		return cnt;
+	}
+
 	private static void melt() {
-		while (true) {
-			int size = ice.size(), tmp[], cnt, r, c;
+		int cnt = 0, r, c;
 
-			// 얼음이 다음에 녹을 양 구하기
-			for (int i = 0; i < size; i++) {
-				tmp = ice.poll();
-				cnt = 0;
-				for (int d = 0; d < 4; d++) {
-					r = tmp[0] + dr[d];
-					c = tmp[1] + dc[d];
-					if (map[r][c] == 0) cnt++;
-				}
-				ice.add(new int[] { tmp[0], tmp[1], cnt });
-			}
-			answer++; // 1년 증가
-
-			// 빙산의 1년 후 상태 구하기
-			for (int i = 0; i < size; i++) {
-				tmp = ice.poll();
-				r = tmp[0];
-				c = tmp[1];
-				cnt = tmp[2];
-
-				map[r][c] -= cnt;
-				if (map[r][c] <= 0) {
-					map[r][c] = 0;
-				} else {
-					ice.add(new int[] { r, c });
+		// 다음에 녹을 양 구하기
+		for (int i = 0; i < N; i++) {
+			for (int j = 0; j < M; j++) {
+				if (map[i][j] > 0) { // 빙산이면
+					cnt = 0;
+					for (int d = 0; d < 4; d++) {
+						r = i + dr[d];
+						c = j + dc[d];
+						if (map[r][c] <= 0)
+							cnt++;
+					}
+					temp[i][j] = cnt;
 				}
 			}
+		}
 
-			// 빙산이 두 덩어리 이상인지 검사
-			if (check()) break;
+		// 빙산의 1년 후 상태 적용
+		for (int i = 0; i < N; i++) {
+			for (int j = 0; j < M; j++) {
+				if (map[i][j] > 0) { // 빙산이면
+					map[i][j] -= temp[i][j];
+				}
+			}
 		}
 	}
 
 	private static boolean check() {
-		boolean visited[][] = new boolean[N][M];
-		int size = ice.size(), tmp[], tr, tc, r, c;
+		int cnt = 0;
 
-		Queue<int[]> queue = new LinkedList<int[]>();
-		// 빙산이 이미 다 녹았으면 0 출력
-		if (ice.isEmpty()) {
-			answer = 0;
-			return true;
-		} else {
-			queue.add(ice.peek());
-		}
-
-		while (!queue.isEmpty()) {
-			tmp = queue.poll();
-			tr = tmp[0];
-			tc = tmp[1];
-			visited[tr][tc] = true;
-			size--;
-
-			for (int d = 0; d < 4; d++) {
-				r = tr + dr[d];
-				c = tc + dc[d];
-				if (!visited[r][c] && map[r][c] > 0) {
-					visited[r][c] = true;
-					queue.add(new int[] { r, c });
+		for (int i = 0; i < N; i++) {
+			for (int j = 0; j < M; j++) {
+				if (!visited[i][j] && map[i][j] > 0) {
+					// 두 덩어리 이상이면 종료
+					if (++cnt >= 2) {
+						return true;
+					}
+					DFS(i, j);
 				}
 			}
 		}
 
-		return size == 0 ? false : true;
+		return false;
+	}
+
+	private static void DFS(int r, int c) {
+		visited[r][c] = true;
+
+		for (int d = 0; d < 4; d++) {
+			int row = r + dr[d];
+			int col = c + dc[d];
+
+			// 이어진 곳이 있으면 계속 탐색
+			if (!visited[row][col] && map[row][col] > 0) {
+				DFS(row, col);
+			}
+		}
 	}
 
 }

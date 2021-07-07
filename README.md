@@ -14,19 +14,16 @@
 - `Programmers` : **17**문제
 - `SWExpert` : **48**문제
 
-## 이번 주 진행 상황 (총 5문제)
+## 이번 주 진행 상황 (총 0문제)
 
-### Week 20
+### Week 21
 
-_2021. 06. 28 ~ 2021. 07. 04_
+_2021. 07. 05 ~ 2021. 07. 11_
 
-| 사이트                                                       | 문제        | 풀이                                     | 알고리즘                                     | 난이도  |
-| ------------------------------------------------------------ | ----------- | ---------------------------------------- | -------------------------------------------- | ------- |
-| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/43164) | 여행경로    | [Java](Programmers/PG_DFS_여행경로.java) | 깊이 우선 탐색                               | Level 3 |
-| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/12952) | N-Queen     | [Java](Programmers/PG_NQueen.java)       | 브루트포스, 백트래킹                         | Level 3 |
-| [Baekjoon](https://www.acmicpc.net/problem/2573)             | 빙산        | [Java](Baekjoon/BJ2573_빙산.java)        | 구현, 그래프, 너비 우선 탐색, 깊이 우선 탐색 | Gold 4  |
-| [Baekjoon](https://www.acmicpc.net/problem/9935)             | 문자열 폭발 | [Java](Baekjoon/BJ9935_문자열폭발.java)  | 자료 구조, 문자열, 스택                      | Gold 4  |
-| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/42898) | 등굣길      | [Java](Programmers/PG_DP_등굣길.java)    | 다이나믹 프로그래밍                          | Level 3 |
+| 사이트 | 문제 | 풀이 | 알고리즘 | 난이도 |
+| ------ | ---- | ---- | -------- | ------ |
+|        |      |      |          |        |
+|        |      |      |          |        |
 
 <br>
 
@@ -66,6 +63,13 @@ _2021. 06. 28 ~ 2021. 07. 04_
 - [Week 18](#Week-18) (2021. 06. 14 ~ 2021. 06. 20)
 - [Week 19](#Week-19) (2021. 06. 21 ~ 2021. 06. 27)
 - [Week 20](#Week-20) (2021. 06. 28 ~ 2021. 07. 04)
+
+### July 2021
+
+- [Week 21](#Week-21) (2021. 07. 05 ~ 2021. 07. 11)
+- [Week 22](#Week-22) (2021. 07. 12 ~ 2021. 07. 18)
+- [Week 23](#Week-23) (2021. 07. 19 ~ 2021. 07. 25)
+- [Week 24](#Week-24) (2021. 07. 26 ~ 2021. 08. 01)
 
 <br>
 
@@ -453,3 +457,17 @@ _2021. 06. 21 ~ 2021. 06. 27_
 | [Baekjoon](https://www.acmicpc.net/problem/12865) | 평범한 배낭 | [Java](Baekjoon/BJ12865_평범한배낭.java) | 다이나믹 프로그래밍                | Gold 5   |
 | [Baekjoon](https://www.acmicpc.net/problem/7573)  | 고기잡이    | [Java](Baekjoon/BJ7573_고기잡이.java)    | 브루트포스                         | Gold 4   |
 | [Baekjoon](https://www.acmicpc.net/problem/10434) | 행복한 소수 | [Java](Baekjoon/BJ10434_행복한소수.java) | 수학, 구현, 시뮬레이션             | Silver 3 |
+
+### Week 20
+
+_2021. 06. 28 ~ 2021. 07. 04_
+
+[목록으로 돌아가기](#Solved-Algorithm-Problems)
+
+| 사이트                                                                  | 문제        | 풀이                                     | 알고리즘                                     | 난이도  |
+| ----------------------------------------------------------------------- | ----------- | ---------------------------------------- | -------------------------------------------- | ------- |
+| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/43164) | 여행경로    | [Java](Programmers/PG_DFS_여행경로.java) | 깊이 우선 탐색                               | Level 3 |
+| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/12952) | N-Queen     | [Java](Programmers/PG_NQueen.java)       | 브루트포스, 백트래킹                         | Level 3 |
+| [Baekjoon](https://www.acmicpc.net/problem/2573)                        | 빙산        | [Java](Baekjoon/BJ2573_빙산.java)        | 구현, 그래프, 너비 우선 탐색, 깊이 우선 탐색 | Gold 4  |
+| [Baekjoon](https://www.acmicpc.net/problem/9935)                        | 문자열 폭발 | [Java](Baekjoon/BJ9935_문자열폭발.java)  | 자료 구조, 문자열, 스택                      | Gold 4  |
+| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/42898) | 등굣길      | [Java](Programmers/PG_DP_등굣길.java)    | 다이나믹 프로그래밍                          | Level 3 |

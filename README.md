@@ -83,42 +83,42 @@ _2021. 02. 01 ~ 2021. 02. 07_
 
 ##### [목록으로 돌아가기](#Solved-Algorithm-Problems)
 
-| 사이트                                                                                                    | 문제                   | 풀이                                         | 알고리즘             | 난이도   |
-| --------------------------------------------------------------------------------------------------------- | ---------------------- | -------------------------------------------- | -------------------- | -------- |
-| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV19AcoKI9sCFAZN) | 원재의 메모리 복구하기 | [Java](SWExpert/SW1289_메모리복구.java)      |                      | D3       |
-| [Baekjoon](https://www.acmicpc.net/problem/17478)                                                         | 재귀함수가 뭔가요?     | [Java](Baekjoon/BJ17478_재귀출력.java)       | 재귀                 | Silver 5 |
-| [Baekjoon](https://www.acmicpc.net/problem/15649)                                                         | 스위치 켜고 끄기       | [Java](Baekjoon/BJ15649_스위치.java)         | 구현                 | Silver 4 |
-| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV139KOaABgCFAYh) | Flatten                | [Java](SWExpert/SW1208_Flatten.java)         |                      | D3       |
-| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14ABYKADACFAYh) | Ladder1                | [Java](SWExpert/SW1210_Ladder1.java)         |                      | D4       |
-| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PobmqAPoDFAUq) | 달팽이 숫자            | [Java](SWExpert/SW1954_달팽이숫자.java)      |                      | D2       |
-| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV7GLXqKAWYDFAXB) | 농작물 수확하기        | [Java](SWExpert/SW2805_농작물수확.java)      |                      | D3       |
-| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LyE7KD2ADFAXc) | 상호의 배틀필드        | [Java](SWExpert/SW1873_배틀필드.java)        |                      | D3       |
-| [Baekjoon](https://www.acmicpc.net/problem/15649)                                                         | N과 M (1)              | [Java](Baekjoon/BJ15649_순열.java)           | 백트래킹             | Silver 3 |
-| [Baekjoon](https://www.acmicpc.net/problem/15650)                                                         | N과 M (2)              | [Java](Baekjoon/BJ15650_조합.java)           | 백트래킹             | Silver 3 |
-| [Baekjoon](https://www.acmicpc.net/problem/15651)                                                         | N과 M (3)              | [Java](Baekjoon/BJ15651_중복순열.java)       | 백트래킹             | Silver 3 |
-| [Baekjoon](https://www.acmicpc.net/problem/15652)                                                         | N과 M (4)              | [Java](Baekjoon/BJ15652_중복조합.java)       | 백트래킹             | Silver 3 |
-| [Baekjoon](https://www.acmicpc.net/problem/15654)                                                         | N과 M (5)              | [Java](Baekjoon/BJ15654_입력값순열_.java)    | 백트래킹             | Silver 3 |
-| [Baekjoon](https://www.acmicpc.net/problem/15655)                                                         | N과 M (6)              | [Java](Baekjoon/BJ15655_입력값조합.java)     | 백트래킹             | Silver 3 |
-| [Baekjoon](https://www.acmicpc.net/problem/15656)                                                         | N과 M (7)              | [Java](Baekjoon/BJ15656_입력값중복순열.java) | 백트래킹             | Silver 3 |
-| [Baekjoon](https://www.acmicpc.net/problem/15657)                                                         | N과 M (8)              | [Java](Baekjoon/BJ15657_입력값중복조합.java) | 백트래킹             | Silver 3 |
-| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PzOCKAigDFAUq) | 파리 퇴치              | [Java](SWExpert/SW2001_파리퇴치.java)        |                      | D2       |
-| [Baekjoon](https://www.acmicpc.net/problem/2164)                                                          | 카드2                  | [Java](Baekjoon/BJ2164_카드2.java)           | 자료 구조, 큐        | Silver 4 |
-| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWVl47b6DGMDFAXm) | 쇠막대기 자르기        | [Java](SWExpert/SW5432_쇠막대기.java)        |                      | D4       |
-| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14eWb6AAkCFAYD) | 괄호 짝짓기            | [Java](SWExpert/SW1218_괄호.java)            |                      | D4       |
-| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14uWl6AF0CFAYD) | 암호생성기             | [Java](SWExpert/SW1225_암호생성.java)        |                      | D3       |
-| [Baekjoon](https://www.acmicpc.net/problem/2493)                                                          | 탑                     | [Java](Baekjoon/BJ2493_탑.java)              | 자료 구조, 스택      | Gold 5   |
-| [Baekjoon](https://www.acmicpc.net/problem/14606)                                                         | 피자 (Small)           | [Java](Baekjoon/BJ14606_피자.java)           | 다이나믹 프로그래밍  | Silver 4 |
-| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LtJYKDzsDFAXc) | 정사각형 방            | [Java](SWExpert/SW1861_정사각형방.java)      |                      | D4       |
-| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWGsRbk6AQIDFAVW) | 퍼펙트 셔플            | [Java](SWExpert/SW3499_퍼펙트셔플.java)      |                      | D3       |
-| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14nnAaAFACFAYD) | 계산기2                | [Java](SWExpert/SW1223_계산기2.java)         |                      | D4       |
-| [Baekjoon](https://www.acmicpc.net/problem/1918)                                                          | 후위 표기식            | [Java](Baekjoon/BJ1918_후위표기식.java)      | 자료 구조, 스택      | Gold 4   |
-| [Baekjoon](https://www.acmicpc.net/problem/1935)                                                          | 후위 표기식2           | [Java](Baekjoon/BJ1935_후위표기식2.java)     | 자료 구조, 스택      | Silver 3 |
-| [Baekjoon](https://www.acmicpc.net/problem/11866)                                                         | 요세푸스 문제 0        | [Java](Baekjoon/BJ11866_요세푸스0.java)      | 자료 구조, 큐        | Silver 4 |
-| [Baekjoon](https://www.acmicpc.net/problem/1759)                                                          | 암호 만들기            | [Java](Baekjoon/BJ1759_암호만들기.java)      | 브루트포스, 백트래킹 | Gold 5   |
-| [Baekjoon](https://www.acmicpc.net/problem/15663)                                                         | N과 M (9)              | [Java](Baekjoon/BJ15663_N과M9.java)          | 백트래킹             | Silver 2 |
-| [Baekjoon](https://www.acmicpc.net/problem/15664)                                                         | N과 M (10)             | [Java](Baekjoon/BJ15664_N과M10.java)         | 백트래킹             | Silver 2 |
-| [Baekjoon](https://www.acmicpc.net/problem/15665)                                                         | N과 M (11)             | [Java](Baekjoon/BJ15665_N과M11.java)         | 백트래킹             | Silver 2 |
-| [Baekjoon](https://www.acmicpc.net/problem/15666)                                                         | N과 M (12)             | [Java](Baekjoon/BJ15666_N과M12.java)         | 백트래킹             | Silver 2 |
+| 사이트                                                       | 문제                   | 풀이                                         | 알고리즘              | 난이도   |
+| ------------------------------------------------------------ | ---------------------- | -------------------------------------------- | --------------------- | -------- |
+| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV19AcoKI9sCFAZN) | 원재의 메모리 복구하기 | [Java](SWExpert/SW1289_메모리복구.java)      | 구현                  | D3       |
+| [Baekjoon](https://www.acmicpc.net/problem/17478)            | 재귀함수가 뭔가요?     | [Java](Baekjoon/BJ17478_재귀출력.java)       | 재귀                  | Silver 5 |
+| [Baekjoon](https://www.acmicpc.net/problem/15649)            | 스위치 켜고 끄기       | [Java](Baekjoon/BJ15649_스위치.java)         | 구현, 시뮬레이션      | Silver 4 |
+| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV139KOaABgCFAYh) | Flatten                | [Java](SWExpert/SW1208_Flatten.java)         | 구현, 자료 구조, 배열 | D3       |
+| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14ABYKADACFAYh) | Ladder1                | [Java](SWExpert/SW1210_Ladder1.java)         | 구현, 자료 구조, 배열 | D4       |
+| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PobmqAPoDFAUq) | 달팽이 숫자            | [Java](SWExpert/SW1954_달팽이숫자.java)      | 자료 구조, 배열       | D2       |
+| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV7GLXqKAWYDFAXB) | 농작물 수확하기        | [Java](SWExpert/SW2805_농작물수확.java)      | 구현, 자료 구조, 배열 | D3       |
+| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LyE7KD2ADFAXc) | 상호의 배틀필드        | [Java](SWExpert/SW1873_배틀필드.java)        | 구현, 시뮬레이션      | D3       |
+| [Baekjoon](https://www.acmicpc.net/problem/15649)            | N과 M (1)              | [Java](Baekjoon/BJ15649_순열.java)           | 백트래킹              | Silver 3 |
+| [Baekjoon](https://www.acmicpc.net/problem/15650)            | N과 M (2)              | [Java](Baekjoon/BJ15650_조합.java)           | 백트래킹              | Silver 3 |
+| [Baekjoon](https://www.acmicpc.net/problem/15651)            | N과 M (3)              | [Java](Baekjoon/BJ15651_중복순열.java)       | 백트래킹              | Silver 3 |
+| [Baekjoon](https://www.acmicpc.net/problem/15652)            | N과 M (4)              | [Java](Baekjoon/BJ15652_중복조합.java)       | 백트래킹              | Silver 3 |
+| [Baekjoon](https://www.acmicpc.net/problem/15654)            | N과 M (5)              | [Java](Baekjoon/BJ15654_입력값순열_.java)    | 백트래킹              | Silver 3 |
+| [Baekjoon](https://www.acmicpc.net/problem/15655)            | N과 M (6)              | [Java](Baekjoon/BJ15655_입력값조합.java)     | 백트래킹              | Silver 3 |
+| [Baekjoon](https://www.acmicpc.net/problem/15656)            | N과 M (7)              | [Java](Baekjoon/BJ15656_입력값중복순열.java) | 백트래킹              | Silver 3 |
+| [Baekjoon](https://www.acmicpc.net/problem/15657)            | N과 M (8)              | [Java](Baekjoon/BJ15657_입력값중복조합.java) | 백트래킹              | Silver 3 |
+| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PzOCKAigDFAUq) | 파리 퇴치              | [Java](SWExpert/SW2001_파리퇴치.java)        | 구현, 자료 구조, 배열 | D2       |
+| [Baekjoon](https://www.acmicpc.net/problem/2164)             | 카드2                  | [Java](Baekjoon/BJ2164_카드2.java)           | 자료 구조, 큐         | Silver 4 |
+| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWVl47b6DGMDFAXm) | 쇠막대기 자르기        | [Java](SWExpert/SW5432_쇠막대기.java)        | 구현, 문자열          | D4       |
+| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14eWb6AAkCFAYD) | 괄호 짝짓기            | [Java](SWExpert/SW1218_괄호.java)            | 자료 구조, 스택       | D4       |
+| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14uWl6AF0CFAYD) | 암호생성기             | [Java](SWExpert/SW1225_암호생성.java)        | 자료 구조, 큐         | D3       |
+| [Baekjoon](https://www.acmicpc.net/problem/2493)             | 탑                     | [Java](Baekjoon/BJ2493_탑.java)              | 자료 구조, 스택       | Gold 5   |
+| [Baekjoon](https://www.acmicpc.net/problem/14606)            | 피자 (Small)           | [Java](Baekjoon/BJ14606_피자.java)           | 다이나믹 프로그래밍   | Silver 4 |
+| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LtJYKDzsDFAXc) | 정사각형 방            | [Java](SWExpert/SW1861_정사각형방.java)      | 구현, 깊이 우선 탐색  | D4       |
+| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWGsRbk6AQIDFAVW) | 퍼펙트 셔플            | [Java](SWExpert/SW3499_퍼펙트셔플.java)      | 구현                  | D3       |
+| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14nnAaAFACFAYD) | 계산기2                | [Java](SWExpert/SW1223_계산기2.java)         | 자료 구조, 스택       | D4       |
+| [Baekjoon](https://www.acmicpc.net/problem/1918)             | 후위 표기식            | [Java](Baekjoon/BJ1918_후위표기식.java)      | 자료 구조, 스택       | Gold 4   |
+| [Baekjoon](https://www.acmicpc.net/problem/1935)             | 후위 표기식2           | [Java](Baekjoon/BJ1935_후위표기식2.java)     | 자료 구조, 스택       | Silver 3 |
+| [Baekjoon](https://www.acmicpc.net/problem/11866)            | 요세푸스 문제 0        | [Java](Baekjoon/BJ11866_요세푸스0.java)      | 자료 구조, 큐         | Silver 4 |
+| [Baekjoon](https://www.acmicpc.net/problem/1759)             | 암호 만들기            | [Java](Baekjoon/BJ1759_암호만들기.java)      | 브루트포스, 백트래킹  | Gold 5   |
+| [Baekjoon](https://www.acmicpc.net/problem/15663)            | N과 M (9)              | [Java](Baekjoon/BJ15663_N과M9.java)          | 백트래킹              | Silver 2 |
+| [Baekjoon](https://www.acmicpc.net/problem/15664)            | N과 M (10)             | [Java](Baekjoon/BJ15664_N과M10.java)         | 백트래킹              | Silver 2 |
+| [Baekjoon](https://www.acmicpc.net/problem/15665)            | N과 M (11)             | [Java](Baekjoon/BJ15665_N과M11.java)         | 백트래킹              | Silver 2 |
+| [Baekjoon](https://www.acmicpc.net/problem/15666)            | N과 M (12)             | [Java](Baekjoon/BJ15666_N과M12.java)         | 백트래킹              | Silver 2 |
 
 ### Week 2
 
@@ -126,24 +126,24 @@ _2021. 02. 08 ~ 2021. 02. 14_
 
 ##### [목록으로 돌아가기](#Solved-Algorithm-Problems)
 
-| 사이트                                                                                                    | 문제                 | 풀이                                        | 알고리즘                | 난이도   |
-| --------------------------------------------------------------------------------------------------------- | -------------------- | ------------------------------------------- | ----------------------- | -------- |
-| [Baekjoon](https://www.acmicpc.net/problem/20361)                                                         | 일우는 야바위꾼      | [Java](Baekjoon/BJ20361_야바위.java)        | 구현, 시뮬레이션        | Bronze 3 |
-| [Baekjoon](https://www.acmicpc.net/problem/20299)                                                         | 3대 측정             | [Java](Baekjoon/BJ20299_3대측정.java)       | 구현                    | Bronze 2 |
-| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWT-lPB6dHUDFAVT) | 햄버거 다이어트      | [Java](SWExpert/SW5215_햄버거다이어트.java) |                         | D3       |
-| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14w-rKAHACFAYD) | 암호문1              | [Java](SWExpert/SW1228_암호문1.java)        |                         | D3       |
-| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PjMgaALgDFAUq) | 가랏! RC카           | [Java](SWExpert/SW1940_RC카.java)           |                         | D2       |
-| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AW8Wj7cqbY0DFAXN) | 한빈이와 Spot Mart   | [Java](SWExpert/SW9229_SpotMart.java)       |                         | D3       |
-| [Baekjoon](https://www.acmicpc.net/problem/1003)                                                          | 피보나치 함수        | [Java](Baekjoon/BJ1003_피보나치.java)       | 다이나믹 프로그래밍     | Silver 3 |
-| [Baekjoon](https://www.acmicpc.net/problem/1158)                                                          | 요세푸스 문제        | [Java](Baekjoon/BJ1158_요세푸스.java)       | 자료 구조, 큐           | Silver 5 |
-| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV141176AIwCFAYD) | 사칙연산 유효성 검사 | [Java](SWExpert/SW1233_사칙연산검사.java)   |                         | D4       |
-| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5Psz16AYEDFAUq) | 스도쿠 검증          | [Java](SWExpert/SW1974_스도쿠검증.java)     |                         | D2       |
-| [Baekjoon](https://www.acmicpc.net/problem/2563)                                                          | 색종이               | [Java](Baekjoon/BJ2563_색종이.java)         | 구현                    | Silver 5 |
-| [Baekjoon](https://www.acmicpc.net/problem/16926)                                                         | 배열 돌리기1         | [Java](Baekjoon/BJ16926_배열돌리기1.java)   | 구현                    | Silver 3 |
-| [Baekjoon](https://www.acmicpc.net/problem/17406)                                                         | 배열 돌리기4         | [Java](Baekjoon/BJ17406_배열돌리기4.java)   | 구현, 브루트포스        | Gold 4   |
-| [Baekjoon](https://www.acmicpc.net/problem/16935)                                                         | 배열 돌리기3         | [Java](Baekjoon/BJ16935_배열돌리기3.java)   | 구현                    | Silver 2 |
-| [Baekjoon](https://www.acmicpc.net/problem/2346)                                                          | 풍선 터뜨리기        | [Java](Baekjoon/BJ2346_풍선터뜨리기.java)   | 자료 구조, 덱           | Silver 3 |
-| [Baekjoon](https://www.acmicpc.net/problem/5430)                                                          | AC                   | [Java](Baekjoon/BJ5430_AC.java)             | 구현, 자료 구조, 문자열 | Silver 2 |
+| 사이트                                                       | 문제                 | 풀이                                        | 알고리즘                | 난이도   |
+| ------------------------------------------------------------ | -------------------- | ------------------------------------------- | ----------------------- | -------- |
+| [Baekjoon](https://www.acmicpc.net/problem/20361)            | 일우는 야바위꾼      | [Java](Baekjoon/BJ20361_야바위.java)        | 구현, 시뮬레이션        | Bronze 3 |
+| [Baekjoon](https://www.acmicpc.net/problem/20299)            | 3대 측정             | [Java](Baekjoon/BJ20299_3대측정.java)       | 구현                    | Bronze 2 |
+| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWT-lPB6dHUDFAVT) | 햄버거 다이어트      | [Java](SWExpert/SW5215_햄버거다이어트.java) | 구현, 깊이 우선 탐색    | D3       |
+| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14w-rKAHACFAYD) | 암호문1              | [Java](SWExpert/SW1228_암호문1.java)        | 구현                    | D3       |
+| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PjMgaALgDFAUq) | 가랏! RC카           | [Java](SWExpert/SW1940_RC카.java)           | 구현                    | D2       |
+| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AW8Wj7cqbY0DFAXN) | 한빈이와 Spot Mart   | [Java](SWExpert/SW9229_SpotMart.java)       | 깊이 우선 탐색, 조합    | D3       |
+| [Baekjoon](https://www.acmicpc.net/problem/1003)             | 피보나치 함수        | [Java](Baekjoon/BJ1003_피보나치.java)       | 다이나믹 프로그래밍     | Silver 3 |
+| [Baekjoon](https://www.acmicpc.net/problem/1158)             | 요세푸스 문제        | [Java](Baekjoon/BJ1158_요세푸스.java)       | 자료 구조, 큐           | Silver 5 |
+| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV141176AIwCFAYD) | 사칙연산 유효성 검사 | [Java](SWExpert/SW1233_사칙연산검사.java)   | 구현, 자료 구조, 트리   | D4       |
+| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5Psz16AYEDFAUq) | 스도쿠 검증          | [Java](SWExpert/SW1974_스도쿠검증.java)     | 구현, 브루트포스        | D2       |
+| [Baekjoon](https://www.acmicpc.net/problem/2563)             | 색종이               | [Java](Baekjoon/BJ2563_색종이.java)         | 구현                    | Silver 5 |
+| [Baekjoon](https://www.acmicpc.net/problem/16926)            | 배열 돌리기1         | [Java](Baekjoon/BJ16926_배열돌리기1.java)   | 구현                    | Silver 3 |
+| [Baekjoon](https://www.acmicpc.net/problem/17406)            | 배열 돌리기4         | [Java](Baekjoon/BJ17406_배열돌리기4.java)   | 구현, 브루트포스        | Gold 4   |
+| [Baekjoon](https://www.acmicpc.net/problem/16935)            | 배열 돌리기3         | [Java](Baekjoon/BJ16935_배열돌리기3.java)   | 구현                    | Silver 2 |
+| [Baekjoon](https://www.acmicpc.net/problem/2346)             | 풍선 터뜨리기        | [Java](Baekjoon/BJ2346_풍선터뜨리기.java)   | 자료 구조, 덱           | Silver 3 |
+| [Baekjoon](https://www.acmicpc.net/problem/5430)             | AC                   | [Java](Baekjoon/BJ5430_AC.java)             | 구현, 자료 구조, 문자열 | Silver 2 |
 
 ### Week 3
 
@@ -151,27 +151,27 @@ _2021. 02. 15 ~ 2021. 02. 21_
 
 ##### [목록으로 돌아가기](#Solved-Algorithm-Problems)
 
-| 사이트                                                                                                    | 문제                       | 풀이                                       | 알고리즘                         | 난이도             |
-| --------------------------------------------------------------------------------------------------------- | -------------------------- | ------------------------------------------ | -------------------------------- | ------------------ |
-| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWgv9va6HnkDFAW0) | 규영이와 인영이의 카드게임 | [Java](SWExpert/SW6808_카드게임.java)      |                                  | D3                 |
-| [Baekjoon](https://www.acmicpc.net/problem/2961)                                                          | 도영이가 만든 맛있는 음식  | [Java](Baekjoon/BJ2961_맛있는음식.java)    | 브루트포스                       | Silver 1           |
-| [Baekjoon](https://www.acmicpc.net/problem/3040)                                                          | 백설 공주와 일곱 난쟁이    | [Java](Baekjoon/BJ3040_일곱난쟁이.java)    | 브루트포스                       | Bronze 2           |
-| [Baekjoon](https://www.acmicpc.net/problem/2839)                                                          | 설탕 배달                  | [Java](Baekjoon/BJ2839_설탕배달.java)      | 다이나믹 프로그래밍, 그리디      | Bronze 1           |
-| [Baekjoon](https://www.acmicpc.net/problem/1074)                                                          | Z                          | [Java](Baekjoon/BJ1074_Z.java)             | 분할 정복, 재귀                  | Silver 1           |
-| [JUNGOL](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=1101)                                 | 냉장고                     | [Java](JUNGOL/JO1828_냉장고.java)          | 그리디                           | Intermediate       |
-| [Baekjoon](https://www.acmicpc.net/problem/15686)                                                         | 치킨 배달                  | [Java](Baekjoon/BJ15686_치킨배달.java)     | 구현, 브루트포스                 | Gold 5             |
-| [Baekjoon](https://www.acmicpc.net/problem/3109)                                                          | 빵집                       | [Java](Baekjoon/BJ3109_빵집.java)          | 그리디, 깊이 우선 탐색           | Gold 2             |
-| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15OZ4qAPICFAYD) | 최적 경로                  | [Java](SWExpert/SW1247_최적경로.java)      |                                  | D5                 |
-| [Baekjoon](https://www.acmicpc.net/problem/2615)                                                          | 오목                       | [Java](Baekjoon/BJ2615_오목.java)          | 구현, 브루트포스                 | Silver 3           |
-| [Baekjoon](https://www.acmicpc.net/problem/1987)                                                          | 알파벳                     | [Java](Baekjoon/BJ1987_알파벳.java)        | 깊이 우선 탐색, 백트래킹         | Gold 4             |
-| [Baekjoon](https://www.acmicpc.net/problem/14503)                                                         | 로봇 청소기                | [Java](Baekjoon/BJ14503_로봇청소기.java)   | 구현, 시뮬레이션                 | Gold 5             |
-| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeUtVakTMDFAVH) | 요리사                     | [Java](SWExpert/SW4012_요리사.java)        |                                  | 모의 SW 역량테스트 |
-| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWAe7XSKfUUDFAUw) | 준환이의 양팔저울          | [Java](SWExpert/SW3234_양팔저울.java)      |                                  | D4                 |
-| [Baekjoon](https://www.acmicpc.net/problem/16918)                                                         | 봄버맨                     | [Java](Baekjoon/BJ16918_봄버맨.java)       | 구현, 그래프, 너비 우선 탐색     | Silver 1           |
-| [Baekjoon](https://www.acmicpc.net/problem/9613)                                                          | GCD 합                     | [Java](Baekjoon/BJ9613_GCD합.java)         | 수학, 유클리드 호제법            | Silver 3           |
-| [Baekjoon](https://www.acmicpc.net/problem/17135)                                                         | 캐슬 디펜스                | [Java](Baekjoon/BJ17135_캐슬디펜스.java)   | 구현, 브루트포스, 너비 우선 탐색 | Gold 4             |
-| [Baekjoon](https://www.acmicpc.net/problem/2309)                                                          | 일곱 난쟁이                | [Java](Baekjoon/BJ2309_일곱난쟁이.java)    | 브루트포스                       | Bronze 2           |
-| [Baekjoon](https://www.acmicpc.net/problem/13410)                                                         | 거꾸로 구구단              | [Java](Baekjoon/BJ13410_거꾸로구구단.java) | 브루트포스                       | Bronze 2           |
+| 사이트                                                       | 문제                       | 풀이                                       | 알고리즘                         | 난이도             |
+| ------------------------------------------------------------ | -------------------------- | ------------------------------------------ | -------------------------------- | ------------------ |
+| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWgv9va6HnkDFAW0) | 규영이와 인영이의 카드게임 | [Java](SWExpert/SW6808_카드게임.java)      | 구현, 시뮬레이션                 | D3                 |
+| [Baekjoon](https://www.acmicpc.net/problem/2961)             | 도영이가 만든 맛있는 음식  | [Java](Baekjoon/BJ2961_맛있는음식.java)    | 브루트포스                       | Silver 1           |
+| [Baekjoon](https://www.acmicpc.net/problem/3040)             | 백설 공주와 일곱 난쟁이    | [Java](Baekjoon/BJ3040_일곱난쟁이.java)    | 브루트포스                       | Bronze 2           |
+| [Baekjoon](https://www.acmicpc.net/problem/2839)             | 설탕 배달                  | [Java](Baekjoon/BJ2839_설탕배달.java)      | 다이나믹 프로그래밍, 그리디      | Bronze 1           |
+| [Baekjoon](https://www.acmicpc.net/problem/1074)             | Z                          | [Java](Baekjoon/BJ1074_Z.java)             | 분할 정복, 재귀                  | Silver 1           |
+| [JUNGOL](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=1101) | 냉장고                     | [Java](JUNGOL/JO1828_냉장고.java)          | 그리디                           | Intermediate       |
+| [Baekjoon](https://www.acmicpc.net/problem/15686)            | 치킨 배달                  | [Java](Baekjoon/BJ15686_치킨배달.java)     | 구현, 브루트포스                 | Gold 5             |
+| [Baekjoon](https://www.acmicpc.net/problem/3109)             | 빵집                       | [Java](Baekjoon/BJ3109_빵집.java)          | 그리디, 깊이 우선 탐색           | Gold 2             |
+| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15OZ4qAPICFAYD) | 최적 경로                  | [Java](SWExpert/SW1247_최적경로.java)      | 깊이 우선 탐색, 브루트포스       | D5                 |
+| [Baekjoon](https://www.acmicpc.net/problem/2615)             | 오목                       | [Java](Baekjoon/BJ2615_오목.java)          | 구현, 브루트포스                 | Silver 3           |
+| [Baekjoon](https://www.acmicpc.net/problem/1987)             | 알파벳                     | [Java](Baekjoon/BJ1987_알파벳.java)        | 깊이 우선 탐색, 백트래킹         | Gold 4             |
+| [Baekjoon](https://www.acmicpc.net/problem/14503)            | 로봇 청소기                | [Java](Baekjoon/BJ14503_로봇청소기.java)   | 구현, 시뮬레이션                 | Gold 5             |
+| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeUtVakTMDFAVH) | 요리사                     | [Java](SWExpert/SW4012_요리사.java)        | 브루트포스, 깊이 우선 탐색       | 모의 SW 역량테스트 |
+| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWAe7XSKfUUDFAUw) | 준환이의 양팔저울          | [Java](SWExpert/SW3234_양팔저울.java)      | 브루트포스, 깊이 우선 탐색       | D4                 |
+| [Baekjoon](https://www.acmicpc.net/problem/16918)            | 봄버맨                     | [Java](Baekjoon/BJ16918_봄버맨.java)       | 구현, 그래프, 너비 우선 탐색     | Silver 1           |
+| [Baekjoon](https://www.acmicpc.net/problem/9613)             | GCD 합                     | [Java](Baekjoon/BJ9613_GCD합.java)         | 수학, 유클리드 호제법            | Silver 3           |
+| [Baekjoon](https://www.acmicpc.net/problem/17135)            | 캐슬 디펜스                | [Java](Baekjoon/BJ17135_캐슬디펜스.java)   | 구현, 브루트포스, 너비 우선 탐색 | Gold 4             |
+| [Baekjoon](https://www.acmicpc.net/problem/2309)             | 일곱 난쟁이                | [Java](Baekjoon/BJ2309_일곱난쟁이.java)    | 브루트포스                       | Bronze 2           |
+| [Baekjoon](https://www.acmicpc.net/problem/13410)            | 거꾸로 구구단              | [Java](Baekjoon/BJ13410_거꾸로구구단.java) | 브루트포스                       | Bronze 2           |
 
 ### Week 4
 
@@ -179,22 +179,22 @@ _2021. 02. 22 ~ 2021. 02. 28_
 
 ##### [목록으로 돌아가기](#Solved-Algorithm-Problems)
 
-| 사이트                                                                                                           | 문제                   | 풀이                                      | 알고리즘               | 난이도           |
-| ---------------------------------------------------------------------------------------------------------------- | ---------------------- | ----------------------------------------- | ---------------------- | ---------------- |
-| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWuSgKpqmooDFASy)        | 부먹왕국의 차원 관문   | [Java](SWExpert/SW7964_부먹왕국.java)     |                        | D3               |
-| [SWExpert](https://swexpertacademy.com/main/code/problem/problemSubmitHistory.do?contestProbId=AWczm7QaACgDFAWn) | 삼성시의 버스 노선     | [Java](SWExpert/SW6485_버스노선.java)     |                        | D3               |
-| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWVWgkP6sQ0DFAUO)        | 의석이의 세로로 말해요 | [Java](SWExpert/SW5356_세로로말해요.java) |                        | D3               |
-| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWS2dSgKA8MDFAVT)        | 성공적인 공연 기획     | [Java](SWExpert/SW4789_공연기획.java)     |                        | D3               |
-| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWRuoqCKkE0DFAXt)        | 테네스의 특별한 소수   | [Java](SWExpert/SW4698_특별한소수.java)   |                        | D3               |
-| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4suNtaXFEDFAUf)        | 프로세서 연결하기      | [Java](SWExpert/SW1767_프로세서연결.java) |                        | SW Test 샘플문제 |
-| [Baekjoon](https://www.acmicpc.net/problem/2605)                                                                 | 줄 세우기              | [Java](Baekjoon/BJ2605_줄세우기.java)     | 구현                   | Bronze 2         |
-| [Baekjoon](https://www.acmicpc.net/problem/2578)                                                                 | 빙고                   | [Java](Baekjoon/BJ2578_빙고.java)         | 구현                   | Silver 5         |
-| [Baekjoon](https://www.acmicpc.net/problem/1992)                                                                 | 쿼드트리               | [Java](Baekjoon/BJ1992_쿼드트리.java)     | 분할 정복, 재귀        | Silver 1         |
-| [Baekjoon](https://www.acmicpc.net/problem/2564)                                                                 | 경비원                 | [Java](Baekjoon/BJ2564_경비원.java)       | 구현                   | Silver 1         |
-| [Baekjoon](https://www.acmicpc.net/problem/2491)                                                                 | 수열                   | [Java](Baekjoon/BJ2491_수열.java)         | 다이나믹 프로그래밍    | Silver 3         |
-| [Baekjoon](https://www.acmicpc.net/problem/7576)                                                                 | 토마토                 | [Java](Baekjoon/BJ7576_토마토.java)       | 너비 우선 탐색, 그래프 | Silver 1         |
-| [Baekjoon](https://www.acmicpc.net/problem/7569)                                                                 | 토마토                 | [Java](Baekjoon/BJ7569_토마토.java)       | 너비 우선 탐색, 그래프 | Silver 1         |
-| [JUNGOL](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=488)                                         | 조커                   | [Java](JUNGOL/JO1205_조커.java)           |                        | Online Contest   |
+| 사이트                                                       | 문제                   | 풀이                                      | 알고리즘               | 난이도           |
+| ------------------------------------------------------------ | ---------------------- | ----------------------------------------- | ---------------------- | ---------------- |
+| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWuSgKpqmooDFASy) | 부먹왕국의 차원 관문   | [Java](SWExpert/SW7964_부먹왕국.java)     | 구현                   | D3               |
+| [SWExpert](https://swexpertacademy.com/main/code/problem/problemSubmitHistory.do?contestProbId=AWczm7QaACgDFAWn) | 삼성시의 버스 노선     | [Java](SWExpert/SW6485_버스노선.java)     | 구현                   | D3               |
+| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWVWgkP6sQ0DFAUO) | 의석이의 세로로 말해요 | [Java](SWExpert/SW5356_세로로말해요.java) | 구현                   | D3               |
+| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWS2dSgKA8MDFAVT) | 성공적인 공연 기획     | [Java](SWExpert/SW4789_공연기획.java)     | 구현                   | D3               |
+| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWRuoqCKkE0DFAXt) | 테네스의 특별한 소수   | [Java](SWExpert/SW4698_특별한소수.java)   | 수학, 구현, 시뮬레이션 | D3               |
+| [SWExpert](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4suNtaXFEDFAUf) | 프로세서 연결하기      | [Java](SWExpert/SW1767_프로세서연결.java) | 구현, 시뮬레이션       | SW Test 샘플문제 |
+| [Baekjoon](https://www.acmicpc.net/problem/2605)             | 줄 세우기              | [Java](Baekjoon/BJ2605_줄세우기.java)     | 구현                   | Bronze 2         |
+| [Baekjoon](https://www.acmicpc.net/problem/2578)             | 빙고                   | [Java](Baekjoon/BJ2578_빙고.java)         | 구현                   | Silver 5         |
+| [Baekjoon](https://www.acmicpc.net/problem/1992)             | 쿼드트리               | [Java](Baekjoon/BJ1992_쿼드트리.java)     | 분할 정복, 재귀        | Silver 1         |
+| [Baekjoon](https://www.acmicpc.net/problem/2564)             | 경비원                 | [Java](Baekjoon/BJ2564_경비원.java)       | 구현                   | Silver 1         |
+| [Baekjoon](https://www.acmicpc.net/problem/2491)             | 수열                   | [Java](Baekjoon/BJ2491_수열.java)         | 다이나믹 프로그래밍    | Silver 3         |
+| [Baekjoon](https://www.acmicpc.net/problem/7576)             | 토마토                 | [Java](Baekjoon/BJ7576_토마토.java)       | 너비 우선 탐색, 그래프 | Silver 1         |
+| [Baekjoon](https://www.acmicpc.net/problem/7569)             | 토마토                 | [Java](Baekjoon/BJ7569_토마토.java)       | 너비 우선 탐색, 그래프 | Silver 1         |
+| [JUNGOL](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=488) | 조커                   | [Java](JUNGOL/JO1205_조커.java)           | 구현, 시뮬레이션       | Online Contest   |
 
 ## March 2021
 

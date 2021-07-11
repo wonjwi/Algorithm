@@ -6,15 +6,15 @@
 난이도에 관계없이 하루에 한 문제씩 꾸준히 풀기. 완료한 문제는 그날 그날 바로 commit 하기. <br/>
 **수적석천(水適石穿)** 이라고 물방울이 돌을 뚫는다는데, 돌 한 번 뚫어보자😎
 
-## 지금까지 푼 문제 수 (총 218문제)
+## 지금까지 푼 문제 수 (총 219문제)
 
-- `Baekjoon` : **148**문제
+- `Baekjoon` : **149**문제
 - `GoormLevel` : **2**문제
 - `JUNGOL` : **3**문제
 - `Programmers` : **17**문제
 - `SWExpert` : **48**문제
 
-## 이번 주 진행 상황 (총 3문제)
+## 이번 주 진행 상황 (총 4문제)
 
 ### Week 21
 
@@ -25,6 +25,7 @@ _2021. 07. 05 ~ 2021. 07. 11_
 | [Baekjoon](https://www.acmicpc.net/problem/1389)  | 케빈 베이컨의 6단계 법칙 | [Java](Baekjoon/BJ1389_케빈베이컨의6단계법칙.java) | 그래프, 플로이드 와샬, 너비 우선 탐색 | Silver 1 |
 | [Baekjoon](https://www.acmicpc.net/problem/1720)  | 타일 코드                | [Java](Baekjoon/BJ1720_타일코드.java)              | 다이나믹 프로그래밍                   | Gold 5   |
 | [Baekjoon](https://www.acmicpc.net/problem/21608) | 상어 초등학교            | [Java](Baekjoon/BJ21608_상어초등학교.java)         | 구현                                  | Silver 1 |
+| [Baekjoon](https://www.acmicpc.net/problem/2482)  | 색상환                   | [Java](Baekjoon/BJ2482_색상환.java)                | 다이나믹 프로그래밍                   | Gold 4   |
 
 <br>
 

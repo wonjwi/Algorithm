@@ -14,18 +14,15 @@
 - `Programmers` : **17**문제
 - `SWExpert` : **48**문제
 
-## 이번 주 진행 상황 (총 4문제)
+## 이번 주 진행 상황 (총 0문제)
 
-### Week 21
+### Week 22
 
-_2021. 07. 05 ~ 2021. 07. 11_
+_2021. 07. 12 ~ 2021. 07. 18_
 
-| 사이트                                            | 문제                     | 풀이                                               | 알고리즘                              | 난이도   |
-| ------------------------------------------------- | ------------------------ | -------------------------------------------------- | ------------------------------------- | -------- |
-| [Baekjoon](https://www.acmicpc.net/problem/1389)  | 케빈 베이컨의 6단계 법칙 | [Java](Baekjoon/BJ1389_케빈베이컨의6단계법칙.java) | 그래프, 플로이드 와샬, 너비 우선 탐색 | Silver 1 |
-| [Baekjoon](https://www.acmicpc.net/problem/1720)  | 타일 코드                | [Java](Baekjoon/BJ1720_타일코드.java)              | 다이나믹 프로그래밍                   | Gold 5   |
-| [Baekjoon](https://www.acmicpc.net/problem/21608) | 상어 초등학교            | [Java](Baekjoon/BJ21608_상어초등학교.java)         | 구현                                  | Silver 1 |
-| [Baekjoon](https://www.acmicpc.net/problem/2482)  | 색상환                   | [Java](Baekjoon/BJ2482_색상환.java)                | 다이나믹 프로그래밍                   | Gold 4   |
+| 사이트                                       | 문제 | 풀이                     | 알고리즘 | 난이도 |
+| -------------------------------------------- | ---- | ------------------------ | -------- | ------ |
+| [Baekjoon](https://www.acmicpc.net/problem/) |      | [Java](Baekjoon/BJ.java) |          |        |
 
 <br>
 
@@ -74,6 +71,21 @@ _2021. 07. 05 ~ 2021. 07. 11_
 - [Week 1](#Week-1) (2021. 02. 01 ~ 2021. 02. 07)
 
 <br>
+
+## July 2021
+
+##### [목록으로 돌아가기](#Solved-Algorithm-Problems)
+
+### Week 21
+
+_2021. 07. 05 ~ 2021. 07. 11_
+
+| 사이트                                            | 문제                     | 풀이                                               | 알고리즘                              | 난이도   |
+| ------------------------------------------------- | ------------------------ | -------------------------------------------------- | ------------------------------------- | -------- |
+| [Baekjoon](https://www.acmicpc.net/problem/1389)  | 케빈 베이컨의 6단계 법칙 | [Java](Baekjoon/BJ1389_케빈베이컨의6단계법칙.java) | 그래프, 플로이드 와샬, 너비 우선 탐색 | Silver 1 |
+| [Baekjoon](https://www.acmicpc.net/problem/1720)  | 타일 코드                | [Java](Baekjoon/BJ1720_타일코드.java)              | 다이나믹 프로그래밍                   | Gold 5   |
+| [Baekjoon](https://www.acmicpc.net/problem/21608) | 상어 초등학교            | [Java](Baekjoon/BJ21608_상어초등학교.java)         | 구현                                  | Silver 1 |
+| [Baekjoon](https://www.acmicpc.net/problem/2482)  | 색상환                   | [Java](Baekjoon/BJ2482_색상환.java)                | 다이나믹 프로그래밍                   | Gold 4   |
 
 ## June 2021
 

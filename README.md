@@ -6,24 +6,26 @@
 난이도에 관계없이 하루에 한 문제씩 꾸준히 풀기. 완료한 문제는 그날 그날 바로 commit 하기. <br/>
 **수적석천(水適石穿)** 이라고 물방울이 돌을 뚫는다는데, 돌 한 번 뚫어보자😎
 
-## 지금까지 푼 문제 수 (총 223문제)
+## 지금까지 푼 문제 수 (총 225문제)
 
-- `Baekjoon` : **151**문제
+- `Baekjoon` : **153**문제
 - `GoormLevel` : **2**문제
 - `JUNGOL` : **3**문제
 - `Programmers` : **19**문제
 - `SWExpert` : **48**문제
 
-## 이번 주 진행 상황 (총 2문제)
+## 이번 주 진행 상황 (총 4문제)
 
 ### Week 23
 
 _2021. 07. 19 ~ 2021. 07. 25_
 
-| 사이트                                                       | 문제             | 풀이                                      | 알고리즘            | 난이도  |
-| ------------------------------------------------------------ | ---------------- | ----------------------------------------- | ------------------- | ------- |
-| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/12971) | 스티커 모으기(2) | [Java](Programmers/PG_스티커모으기2.java) | 다이나믹 프로그래밍 | Level 3 |
-| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/42842) | 카펫             | [Java](Programmers/PG_완전탐색_카펫.java) | 브루트포스          | Level 2 |
+| 사이트                                                       | 문제             | 풀이                                        | 알고리즘            | 난이도  |
+| ------------------------------------------------------------ | ---------------- | ------------------------------------------- | ------------------- | ------- |
+| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/12971) | 스티커 모으기(2) | [Java](Programmers/PG_스티커모으기2.java)   | 다이나믹 프로그래밍 | Level 3 |
+| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/42842) | 카펫             | [Java](Programmers/PG_완전탐색_카펫.java)   | 브루트포스          | Level 2 |
+| [Baekjoon](https://www.acmicpc.net/problem/6198)             | 옥상 정원 꾸미기 | [Java](Baekjoon/BJ6198_옥상정원꾸미기.java) | 자료 구조, 스택     | Gold 5  |
+| [Baekjoon](https://www.acmicpc.net/problem/16235)            | 나무 재테크      | [Java](Baekjoon/BJ16235_나무재테크.java)    | 구현, 시뮬레이션    | Gold 4  |
 
 <br>
 

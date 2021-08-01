@@ -20,7 +20,7 @@ public class BJ2792_보석상자 {
 			right = Math.max(right, arr[i]);
 		}
 
-		// 최솟값을 찾을 때까지 탐색
+		// 이분 탐색 하면서 최솟값 찾기
 		while (left <= right) {
 			// 질투심이 mid가 되도록 만들기
 			mid = (left + right) / 2;
@@ -31,11 +31,12 @@ public class BJ2792_보석상자 {
 					sum++;
 				}
 			}
-
-			// 보석을 나눠줄 수 없다면 값 갱신
+			// 보석을 나눠줄 수 없는 경우
 			if (sum > N) {
 				left = mid + 1;
-			} else {
+			}
+			// 보석을 나눠줄 수 있는 경우
+			else {
 				right = mid - 1;
 				answer = mid;
 			}

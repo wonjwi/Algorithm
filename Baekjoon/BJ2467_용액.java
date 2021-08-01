@@ -35,8 +35,7 @@ public class BJ2467_용액 {
 			// 다음 탐색 위치 조정
 			if (tmp == 0) {
 				break;
-			}
-			else if (tmp < 0) {
+			} else if (tmp < 0) {
 				left++;
 			} else {
 				right--;
@@ -85,14 +84,14 @@ public class BJ2467_용액 {
 //					answer2 = mid;
 //				}
 //				
-//				if (tmp < 0) {
+//				if (tmp == 0) {
+//					break Loop;
+//				}
+//				else if (tmp < 0) {
 //					left = mid + 1;
 //				}
-//				else if (tmp > 0) {
-//					right = mid - 1;
-//				}
 //				else {
-//					break Loop;
+//					right = mid - 1;
 //				}
 //			}
 //		}

@@ -14,23 +14,26 @@
 - `Programmers` : **19**문제
 - `SWExpert` : **48**문제
 
-## 이번 주 진행 상황 (총 5문제)
+## 이번 주 진행 상황 (총 0문제)
 
-### Week 24
+### Week 25
 
-_2021. 07. 26 ~ 2021. 08. 01_
+_2021. 08. 02 ~ 2021. 08. 08_
 
 | 사이트                                           | 문제                      | 풀이                                              | 알고리즘                                     | 난이도   |
 | ------------------------------------------------ | ------------------------- | ------------------------------------------------- | -------------------------------------------- | -------- |
-| [Baekjoon](https://www.acmicpc.net/problem/1941) | 소문난 칠공주             | [Java](Baekjoon/BJ1941_소문난칠공주.java)         | 브루트포스, 깊이 우선 탐색, 백트래킹, 그래프 | Gold 3   |
-| [Baekjoon](https://www.acmicpc.net/problem/4485) | 녹색 옷 입은 애가 젤다지? | [Java](Baekjoon/BJ4485_녹색옷입은애가젤다지.java) | 그래프, 다익스트라, 넓이 우선 탐색           | Gold 4   |
-| [Baekjoon](https://www.acmicpc.net/problem/2792) | 보석 상자                 | [Java](Baekjoon/BJ2792_보석상자.java)             | 이분 탐색                                    | Silver 3 |
-| [Baekjoon](https://www.acmicpc.net/problem/1421) | 나무꾼 이다솜             | [Java](Baekjoon/BJ1421_나무꾼이다솜.java)         | 구현, 브루트포스                             | Silver 2 |
-| [Baekjoon](https://www.acmicpc.net/problem/2467) | 용액                      | [Java](Baekjoon/BJ2467_용액.java)                 | 이분 탐색, 두 포인터                         | Gold 5   |
 
 <br>
 
 # Solved Algorithm Problems
+
+### August 2021
+
+- [Week 29](#Week-29) (2021. 08. 30 ~ 2021. 09. 05)
+- [Week 28](#Week-28) (2021. 08. 23 ~ 2021. 08. 29)
+- [Week 27](#Week-27) (2021. 08. 16 ~ 2021. 08. 22)
+- [Week 26](#Week-26) (2021. 08. 09 ~ 2021. 08. 15)
+- [Week 25](#Week-25) (2021. 08. 02 ~ 2021. 08. 08)
 
 ### July 2021
 
@@ -79,6 +82,18 @@ _2021. 07. 26 ~ 2021. 08. 01_
 ## July 2021
 
 ##### [목록으로 돌아가기](#Solved-Algorithm-Problems)
+
+### Week 24
+
+_2021. 07. 26 ~ 2021. 08. 01_
+
+| 사이트                                           | 문제                      | 풀이                                              | 알고리즘                                     | 난이도   |
+| ------------------------------------------------ | ------------------------- | ------------------------------------------------- | -------------------------------------------- | -------- |
+| [Baekjoon](https://www.acmicpc.net/problem/1941) | 소문난 칠공주             | [Java](Baekjoon/BJ1941_소문난칠공주.java)         | 브루트포스, 깊이 우선 탐색, 백트래킹, 그래프 | Gold 3   |
+| [Baekjoon](https://www.acmicpc.net/problem/4485) | 녹색 옷 입은 애가 젤다지? | [Java](Baekjoon/BJ4485_녹색옷입은애가젤다지.java) | 그래프, 다익스트라, 넓이 우선 탐색           | Gold 4   |
+| [Baekjoon](https://www.acmicpc.net/problem/2792) | 보석 상자                 | [Java](Baekjoon/BJ2792_보석상자.java)             | 이분 탐색                                    | Silver 3 |
+| [Baekjoon](https://www.acmicpc.net/problem/1421) | 나무꾼 이다솜             | [Java](Baekjoon/BJ1421_나무꾼이다솜.java)         | 구현, 브루트포스                             | Silver 2 |
+| [Baekjoon](https://www.acmicpc.net/problem/2467) | 용액                      | [Java](Baekjoon/BJ2467_용액.java)                 | 이분 탐색, 두 포인터                         | Gold 5   |
 
 ### Week 23
 

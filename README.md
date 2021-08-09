@@ -6,25 +6,26 @@
 난이도에 관계없이 하루에 한 문제씩 꾸준히 풀기. 완료한 문제는 그날 그날 바로 commit 하기. <br/>
 **수적석천(水適石穿)** 이라고 물방울이 돌을 뚫는다는데, 돌 한 번 뚫어보자😎
 
-## 지금까지 푼 문제 수 (총 233문제)
+## 지금까지 푼 문제 수 (총 234문제)
 
-- `Baekjoon` : **161**문제
+- `Baekjoon` : **162**문제
 - `GoormLevel` : **2**문제
 - `JUNGOL` : **3**문제
 - `Programmers` : **19**문제
 - `SWExpert` : **48**문제
 
-## 이번 주 진행 상황 (총 3문제)
+## 이번 주 진행 상황 (총 4문제)
 
 ### Week 25
 
 _2021. 08. 02 ~ 2021. 08. 08_
 
-| 사이트                                            | 문제          | 풀이                                       | 알고리즘                               | 난이도   |
-| ------------------------------------------------- | ------------- | ------------------------------------------ | -------------------------------------- | -------- |
-| [Baekjoon](https://www.acmicpc.net/problem/3184)  | 양            | [Java](Baekjoon/BJ3184_양.java)            | 그래프, 너비 우선 탐색, 깊이 우선 탐색 | Silver 2 |
-| [Baekjoon](https://www.acmicpc.net/problem/3190)  | 뱀            | [Java](Baekjoon/BJ3190_뱀.java)            | 구현, 자료 구조, 시뮬레이션, 덱, 큐    | Gold 5   |
-| [Baekjoon](https://www.acmicpc.net/problem/16401) | 과자 나눠주기 | [Java](Baekjoon/BJ16401_과자나눠주기.java) | 이분 탐색                              | Silver 3 |
+| 사이트                                            | 문제             | 풀이                                         | 알고리즘                               | 난이도   |
+| ------------------------------------------------- | ---------------- | -------------------------------------------- | -------------------------------------- | -------- |
+| [Baekjoon](https://www.acmicpc.net/problem/3184)  | 양               | [Java](Baekjoon/BJ3184_양.java)              | 그래프, 너비 우선 탐색, 깊이 우선 탐색 | Silver 2 |
+| [Baekjoon](https://www.acmicpc.net/problem/3190)  | 뱀               | [Java](Baekjoon/BJ3190_뱀.java)              | 구현, 자료 구조, 시뮬레이션, 덱, 큐    | Gold 5   |
+| [Baekjoon](https://www.acmicpc.net/problem/16401) | 과자 나눠주기    | [Java](Baekjoon/BJ16401_과자나눠주기.java)   | 이분 탐색                              | Silver 3 |
+| [Baekjoon](https://www.acmicpc.net/problem/14621) | 나만 안되는 연애 | [Java](Baekjoon/BJ14621_나만안되는연애.java) | 그래프, 최소 신장 트리                 | Gold 3   |
 
 <br>
 

@@ -14,16 +14,14 @@
 - `Programmers` : **20**문제
 - `SWExpert` : **48**문제
 
-## 이번 주 진행 상황 (총 1문제)
+## 이번 주 진행 상황 (총 0문제)
 
-### Week 26
+### Week 28
 
-_2021. 08. 09 ~ 2021. 08. 15_
+_2021. 08. 30 ~ 2021. 09. 05_
 
-| 사이트                                                       | 문제     | 풀이                                        | 알고리즘            | 난이도  |
-| ------------------------------------------------------------ | -------- | ------------------------------------------- | ------------------- | ------- |
-| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/42586) | 기능개발 | [Java](Programmers/PG_스택큐_기능개발.java) | 자료 구조, 스택, 큐 | Level 2 |
-| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/42626) |          | [Java](Programmers/PG_힙_더맵게.java)       |                     | Level 2 |
+| 사이트 | 문제 | 풀이 | 알고리즘 | 난이도 |
+| ------ | ---- | ---- | -------- | ------ |
 
 <br>
 
@@ -31,9 +29,8 @@ _2021. 08. 09 ~ 2021. 08. 15_
 
 ### August 2021
 
-- [Week 29](#Week-29) (2021. 08. 30 ~ 2021. 09. 05)
-- [Week 28](#Week-28) (2021. 08. 23 ~ 2021. 08. 29)
-- [Week 27](#Week-27) (2021. 08. 16 ~ 2021. 08. 22)
+- [Week 28](#Week-28) (2021. 08. 30 ~ 2021. 09. 05)
+- [Week 27](#Week-27) (2021. 08. 23 ~ 2021. 08. 29)
 - [Week 26](#Week-26) (2021. 08. 09 ~ 2021. 08. 15)
 - [Week 25](#Week-25) (2021. 08. 02 ~ 2021. 08. 08)
 
@@ -81,9 +78,25 @@ _2021. 08. 09 ~ 2021. 08. 15_
 
 <br>
 
-## July 2021
+## August 2021
 
 ##### [목록으로 돌아가기](#Solved-Algorithm-Problems)
+
+### Week 27
+
+_2021. 08. 23 ~ 2021. 08. 29_
+
+| 사이트 | 문제 | 풀이 | 알고리즘 | 난이도 |
+| ------ | ---- | ---- | -------- | ------ |
+
+### Week 26
+
+_2021. 08. 09 ~ 2021. 08. 15_
+
+| 사이트                                                                  | 문제     | 풀이                                        | 알고리즘            | 난이도  |
+| ----------------------------------------------------------------------- | -------- | ------------------------------------------- | ------------------- | ------- |
+| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/42586) | 기능개발 | [Java](Programmers/PG_스택큐_기능개발.java) | 자료 구조, 스택, 큐 | Level 2 |
+| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/42626) |          | [Java](Programmers/PG_힙_더맵게.java)       |                     | Level 2 |
 
 ### Week 25
 
@@ -95,6 +108,10 @@ _2021. 08. 02 ~ 2021. 08. 08_
 | [Baekjoon](https://www.acmicpc.net/problem/3190)  | 뱀               | [Java](Baekjoon/BJ3190_뱀.java)              | 구현, 자료 구조, 시뮬레이션, 덱, 큐    | Gold 5   |
 | [Baekjoon](https://www.acmicpc.net/problem/16401) | 과자 나눠주기    | [Java](Baekjoon/BJ16401_과자나눠주기.java)   | 이분 탐색                              | Silver 3 |
 | [Baekjoon](https://www.acmicpc.net/problem/14621) | 나만 안되는 연애 | [Java](Baekjoon/BJ14621_나만안되는연애.java) | 그래프, 최소 신장 트리                 | Gold 3   |
+
+## July 2021
+
+##### [목록으로 돌아가기](#Solved-Algorithm-Problems)
 
 ### Week 24
 
@@ -112,12 +129,12 @@ _2021. 07. 26 ~ 2021. 08. 01_
 
 _2021. 07. 19 ~ 2021. 07. 25_
 
-| 사이트                                                       | 문제             | 풀이                                        | 알고리즘            | 난이도  |
-| ------------------------------------------------------------ | ---------------- | ------------------------------------------- | ------------------- | ------- |
+| 사이트                                                                  | 문제             | 풀이                                        | 알고리즘            | 난이도  |
+| ----------------------------------------------------------------------- | ---------------- | ------------------------------------------- | ------------------- | ------- |
 | [Programmers](https://programmers.co.kr/learn/courses/30/lessons/12971) | 스티커 모으기(2) | [Java](Programmers/PG_스티커모으기2.java)   | 다이나믹 프로그래밍 | Level 3 |
 | [Programmers](https://programmers.co.kr/learn/courses/30/lessons/42842) | 카펫             | [Java](Programmers/PG_완전탐색_카펫.java)   | 브루트포스          | Level 2 |
-| [Baekjoon](https://www.acmicpc.net/problem/6198)             | 옥상 정원 꾸미기 | [Java](Baekjoon/BJ6198_옥상정원꾸미기.java) | 자료 구조, 스택     | Gold 5  |
-| [Baekjoon](https://www.acmicpc.net/problem/16235)            | 나무 재테크      | [Java](Baekjoon/BJ16235_나무재테크.java)    | 구현, 시뮬레이션    | Gold 4  |
+| [Baekjoon](https://www.acmicpc.net/problem/6198)                        | 옥상 정원 꾸미기 | [Java](Baekjoon/BJ6198_옥상정원꾸미기.java) | 자료 구조, 스택     | Gold 5  |
+| [Baekjoon](https://www.acmicpc.net/problem/16235)                       | 나무 재테크      | [Java](Baekjoon/BJ16235_나무재테크.java)    | 구현, 시뮬레이션    | Gold 4  |
 
 ### Week 22
 

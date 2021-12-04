@@ -25,6 +25,7 @@ _2021. 11. 29 ~ 2021. 12. 05_
 | [Baekjoon](https://www.acmicpc.net/problem/2920) | 음계 | [Java](Baekjoon/BJ2920_음계.java) | 구현 | Bronze 2 |
 | [Baekjoon](https://www.acmicpc.net/problem/1157) | 단어 공부 | [Java](Baekjoon/BJ1157_단어공부.java) | 구현, 문자열 | Bronze 1 |
 | [Baekjoon](https://www.acmicpc.net/problem/2908) | 상수 | [Java](Baekjoon/BJ2908_상수.java) | 수학, 구현 | Bronze 2 |
+| [Baekjoon](https://www.acmicpc.net/problem/1085) | 상수 | [Java](Baekjoon/BJ1085_직사각형에서탈출.java) | 수학, 기하학 | Bronze 3 |
 
 <br>
 

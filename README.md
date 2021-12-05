@@ -6,9 +6,9 @@
 난이도에 관계없이 하루에 한 문제씩 꾸준히 풀기. 완료한 문제는 그날 그날 바로 commit 하기. <br/>
 **수적석천(水適石穿)** 이라고 물방울이 돌을 뚫는다는데, 돌 한 번 뚫어보자😎
 
-## 지금까지 푼 문제 수 (총 242문제)
+## 지금까지 푼 문제 수 (총 243문제)
 
-- `Baekjoon` : **169**문제
+- `Baekjoon` : **170**문제
 - `GoormLevel` : **2**문제
 - `JUNGOL` : **3**문제
 - `Programmers` : **20**문제
@@ -25,7 +25,8 @@ _2021. 11. 29 ~ 2021. 12. 05_
 | [Baekjoon](https://www.acmicpc.net/problem/2920) | 음계 | [Java](Baekjoon/BJ2920_음계.java) | 구현 | Bronze 2 |
 | [Baekjoon](https://www.acmicpc.net/problem/1157) | 단어 공부 | [Java](Baekjoon/BJ1157_단어공부.java) | 구현, 문자열 | Bronze 1 |
 | [Baekjoon](https://www.acmicpc.net/problem/2908) | 상수 | [Java](Baekjoon/BJ2908_상수.java) | 수학, 구현 | Bronze 2 |
-| [Baekjoon](https://www.acmicpc.net/problem/1085) | 상수 | [Java](Baekjoon/BJ1085_직사각형에서탈출.java) | 수학, 기하학 | Bronze 3 |
+| [Baekjoon](https://www.acmicpc.net/problem/1085) | 직사각형에서 탈출 | [Java](Baekjoon/BJ1085_직사각형에서탈출.java) | 수학, 기하학 | Bronze 3 |
+| [Baekjoon](https://www.acmicpc.net/problem/2798) | 블랙잭 | [Java](Baekjoon/BJ2798_블랙잭.java) | 브루트포스 | Bronze 2 |
 
 <br>
 

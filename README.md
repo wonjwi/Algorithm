@@ -24,7 +24,7 @@ _2021. 12. 06 ~ 2021. 12. 12_
 | ---- | --- | --- | ------ | ---- |
 | [Baekjoon](https://www.acmicpc.net/problem/1181) | 단어 정렬 | [Java](Baekjoon/BJ1181_단어정렬.java) | 정렬 | Silver 5 |
 | [Baekjoon](https://www.acmicpc.net/problem/1012) | 유기농 배추 | [Java](Baekjoon/BJ1012_유기농배추.java) | 깊이 우선 탐색 | Silver 2 |
-| [Baekjoon](https://www.acmicpc.net/problem/2163) | 초콜릿 자르기 | [Java](Baekjoon/BJ2163_초콜릿자르기.java) | 깊이 우선 탐색 | Bronze 3 |
+| [Baekjoon](https://www.acmicpc.net/problem/2163) | 초콜릿 자르기 | [Java](Baekjoon/BJ2163_초콜릿자르기.java) | 수학, 사칙연산 | Bronze 3 |
 
 <br>
 

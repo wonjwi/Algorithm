@@ -6,15 +6,15 @@
 난이도에 관계없이 하루에 한 문제씩 꾸준히 풀기. 완료한 문제는 그날 그날 바로 commit 하기. <br/>
 **수적석천(水適石穿)** 이라고 물방울이 돌을 뚫는다는데, 돌 한 번 뚫어보자😎
 
-## 지금까지 푼 문제 수 (총 246문제)
+## 지금까지 푼 문제 수 (총 247문제)
 
-- `Baekjoon` : **173**문제
+- `Baekjoon` : **174**문제
 - `GoormLevel` : **2**문제
 - `JUNGOL` : **3**문제
 - `Programmers` : **20**문제
 - `SWExpert` : **48**문제
 
-## 이번 주 진행 상황 (총 2문제)
+## 이번 주 진행 상황 (총 4문제)
 
 ### Week 30
 
@@ -25,6 +25,7 @@ _2021. 12. 06 ~ 2021. 12. 12_
 | [Baekjoon](https://www.acmicpc.net/problem/1181) | 단어 정렬 | [Java](Baekjoon/BJ1181_단어정렬.java) | 정렬 | Silver 5 |
 | [Baekjoon](https://www.acmicpc.net/problem/1012) | 유기농 배추 | [Java](Baekjoon/BJ1012_유기농배추.java) | 깊이 우선 탐색 | Silver 2 |
 | [Baekjoon](https://www.acmicpc.net/problem/2163) | 초콜릿 자르기 | [Java](Baekjoon/BJ2163_초콜릿자르기.java) | 수학, 사칙연산 | Bronze 3 |
+| [Baekjoon](https://www.acmicpc.net/problem/1260) | DFS와 BFS | [Java](Baekjoon/BJ1260_DFS와BFS.java) | 그래프, 깊이 우선 탐색, 너비 우선 탐색 | Silver 2 |
 
 <br>
 

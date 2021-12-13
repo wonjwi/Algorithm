@@ -6,29 +6,23 @@
 난이도에 관계없이 하루에 한 문제씩 꾸준히 풀기. 완료한 문제는 그날 그날 바로 commit 하기. <br/>
 **수적석천(水適石穿)** 이라고 물방울이 돌을 뚫는다는데, 돌 한 번 뚫어보자😎
 
-## 지금까지 푼 문제 수 (총 250문제)
+## 지금까지 푼 문제 수 (총 252문제)
 
-- `Baekjoon` : **177**문제
+- `Baekjoon` : **179**문제
 - `GoormLevel` : **2**문제
 - `JUNGOL` : **3**문제
 - `Programmers` : **20**문제
 - `SWExpert` : **48**문제
 
-## 이번 주 진행 상황 (총 7문제)
+## 이번 주 진행 상황 (총 1문제)
 
-### Week 30
+### Week 31
 
-_2021. 12. 06 ~ 2021. 12. 12_
+_2021. 12. 13 ~ 2021. 12. 19_
 
 | 사이트 | 문제 | 풀이 | 알고리즘 | 난이도 |
 | ---- | --- | --- | ------ | ---- |
-| [Baekjoon](https://www.acmicpc.net/problem/1181) | 단어 정렬 | [Java](Baekjoon/BJ1181_단어정렬.java) | 정렬 | Silver 5 |
-| [Baekjoon](https://www.acmicpc.net/problem/1012) | 유기농 배추 | [Java](Baekjoon/BJ1012_유기농배추.java) | 깊이 우선 탐색 | Silver 2 |
-| [Baekjoon](https://www.acmicpc.net/problem/2163) | 초콜릿 자르기 | [Java](Baekjoon/BJ2163_초콜릿자르기.java) | 수학, 사칙연산 | Bronze 3 |
-| [Baekjoon](https://www.acmicpc.net/problem/1260) | DFS와 BFS | [Java](Baekjoon/BJ1260_DFS와BFS.java) | 그래프, 깊이 우선 탐색, 너비 우선 탐색 | Silver 2 |
-| [Baekjoon](https://www.acmicpc.net/problem/2579) | 계단 오르기 | [Java](Baekjoon/BJ2579_계단오르기.java) | 다이나믹 프로그래밍 | Silver 3 |
-| [Baekjoon](https://www.acmicpc.net/problem/10989) | 수 정렬하기 3 | [Java](Baekjoon/BJ10989_수정렬하기3.java) | 정렬 | Silver 5 |
-| [Baekjoon](https://www.acmicpc.net/problem/11650) | 좌표 정렬하기 | [Java](Baekjoon/BJ11650_좌표정렬하기.java) | 정렬 | Silver 5 |
+| [Baekjoon](https://www.acmicpc.net/problem/1978) | 소수 찾기 | [Java](Baekjoon/BJ1978_소수찾기.java) | 수학, 정수론, 소수 판정 | Silver 4 |
 
 <br>
 
@@ -99,6 +93,21 @@ _2021. 12. 06 ~ 2021. 12. 12_
 ## December 2021
 
 ##### [목록으로 돌아가기](#Solved-Algorithm-Problems)
+
+### Week 30
+
+_2021. 12. 06 ~ 2021. 12. 12_
+
+| 사이트 | 문제 | 풀이 | 알고리즘 | 난이도 |
+| ---- | --- | --- | ------ | ---- |
+| [Baekjoon](https://www.acmicpc.net/problem/1181) | 단어 정렬 | [Java](Baekjoon/BJ1181_단어정렬.java) | 정렬 | Silver 5 |
+| [Baekjoon](https://www.acmicpc.net/problem/1012) | 유기농 배추 | [Java](Baekjoon/BJ1012_유기농배추.java) | 깊이 우선 탐색 | Silver 2 |
+| [Baekjoon](https://www.acmicpc.net/problem/2163) | 초콜릿 자르기 | [Java](Baekjoon/BJ2163_초콜릿자르기.java) | 수학, 사칙연산 | Bronze 3 |
+| [Baekjoon](https://www.acmicpc.net/problem/1260) | DFS와 BFS | [Java](Baekjoon/BJ1260_DFS와BFS.java) | 그래프, 깊이 우선 탐색, 너비 우선 탐색 | Silver 2 |
+| [Baekjoon](https://www.acmicpc.net/problem/2579) | 계단 오르기 | [Java](Baekjoon/BJ2579_계단오르기.java) | 다이나믹 프로그래밍 | Silver 3 |
+| [Baekjoon](https://www.acmicpc.net/problem/10989) | 수 정렬하기 3 | [Java](Baekjoon/BJ10989_수정렬하기3.java) | 정렬 | Silver 5 |
+| [Baekjoon](https://www.acmicpc.net/problem/11650) | 좌표 정렬하기 | [Java](Baekjoon/BJ11650_좌표정렬하기.java) | 정렬 | Silver 5 |
+| [Baekjoon](https://www.acmicpc.net/problem/4153) | 직각삼각형 | [Java](Baekjoon/BJ4153_직각삼각형.java) | 수학, 기하학 | Bronze 3 |
 
 ### Week 29
 

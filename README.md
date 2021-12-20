@@ -14,21 +14,14 @@
 - `Programmers` : **20**문제
 - `SWExpert` : **48**문제
 
-## 이번 주 진행 상황 (총 7문제)
+## 이번 주 진행 상황 (총 0문제)
 
-### Week 31
+### Week 32
 
-_2021. 12. 13 ~ 2021. 12. 19_
+_2021. 12. 20 ~ 2021. 12. 26_
 
 | 사이트 | 문제 | 풀이 | 알고리즘 | 난이도 |
 | ---- | --- | --- | ------ | ---- |
-| [Baekjoon](https://www.acmicpc.net/problem/1978) | 소수 찾기 | [Java](Baekjoon/BJ1978_소수찾기.java) | 수학, 정수론, 소수 판정 | Silver 4 |
-| [Baekjoon](https://www.acmicpc.net/problem/10828) | 스택 | [Java](Baekjoon/BJ10828_스택.java) | 자료 구조, 스택 | Silver 4 |
-| [Baekjoon](https://www.acmicpc.net/problem/11053) | 가장 긴 증가하는 부분 수열 | [Java](Baekjoon/BJ11053_가장긴증가하는부분수열.java) | 다이나믹 프로그래밍 | Silver 2 |
-| [Baekjoon](https://www.acmicpc.net/problem/1929) | 소수 구하기 | [Java](Baekjoon/BJ1929_소수구하기.java) | 수학, 정수론, 소수 판정 | Silver 2 |
-| [Baekjoon](https://www.acmicpc.net/problem/4949) | 균형잡힌 세상 | [Java](Baekjoon/BJ4949_균형잡힌세상.java) | 자료 구조, 문자열, 스택 | Silver 4 |
-| [Baekjoon](https://www.acmicpc.net/problem/9012) | 괄호 | [Java](Baekjoon/BJ9012_괄호.java) | 자료 구조, 문자열, 스택 | Silver 4 |
-| [Baekjoon](https://www.acmicpc.net/problem/10814) | 나이순 정렬 | [Java](Baekjoon/BJ10814_나이순정렬.java) | 정렬 | Silver 5 |
 
 <br>
 
@@ -99,6 +92,20 @@ _2021. 12. 13 ~ 2021. 12. 19_
 ## December 2021
 
 ##### [목록으로 돌아가기](#Solved-Algorithm-Problems)
+
+### Week 31
+
+_2021. 12. 13 ~ 2021. 12. 19_
+
+| 사이트 | 문제 | 풀이 | 알고리즘 | 난이도 |
+| ---- | --- | --- | ------ | ---- |
+| [Baekjoon](https://www.acmicpc.net/problem/1978) | 소수 찾기 | [Java](Baekjoon/BJ1978_소수찾기.java) | 수학, 정수론, 소수 판정 | Silver 4 |
+| [Baekjoon](https://www.acmicpc.net/problem/10828) | 스택 | [Java](Baekjoon/BJ10828_스택.java) | 자료 구조, 스택 | Silver 4 |
+| [Baekjoon](https://www.acmicpc.net/problem/11053) | 가장 긴 증가하는 부분 수열 | [Java](Baekjoon/BJ11053_가장긴증가하는부분수열.java) | 다이나믹 프로그래밍 | Silver 2 |
+| [Baekjoon](https://www.acmicpc.net/problem/1929) | 소수 구하기 | [Java](Baekjoon/BJ1929_소수구하기.java) | 수학, 정수론, 소수 판정 | Silver 2 |
+| [Baekjoon](https://www.acmicpc.net/problem/4949) | 균형잡힌 세상 | [Java](Baekjoon/BJ4949_균형잡힌세상.java) | 자료 구조, 문자열, 스택 | Silver 4 |
+| [Baekjoon](https://www.acmicpc.net/problem/9012) | 괄호 | [Java](Baekjoon/BJ9012_괄호.java) | 자료 구조, 문자열, 스택 | Silver 4 |
+| [Baekjoon](https://www.acmicpc.net/problem/10814) | 나이순 정렬 | [Java](Baekjoon/BJ10814_나이순정렬.java) | 정렬 | Silver 5 |
 
 ### Week 30
 

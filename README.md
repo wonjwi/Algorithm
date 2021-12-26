@@ -6,15 +6,15 @@
 난이도에 관계없이 하루에 한 문제씩 꾸준히 풀기. 완료한 문제는 그날 그날 바로 commit 하기. <br/>
 **수적석천(水適石穿)** 이라고 물방울이 돌을 뚫는다는데, 돌 한 번 뚫어보자😎
 
-## 지금까지 푼 문제 수 (총 264문제)
+## 지금까지 푼 문제 수 (총 265문제)
 
-- `Baekjoon` : **191**문제
+- `Baekjoon` : **192**문제
 - `GoormLevel` : **2**문제
 - `JUNGOL` : **3**문제
 - `Programmers` : **20**문제
 - `SWExpert` : **48**문제
 
-## 이번 주 진행 상황 (총 6문제)
+## 이번 주 진행 상황 (총 7문제)
 
 ### Week 32
 
@@ -28,6 +28,7 @@ _2021. 12. 20 ~ 2021. 12. 26_
 | [Baekjoon](https://www.acmicpc.net/problem/10866) | 덱 | [Java](Baekjoon/BJ10866_덱.java) | 자료 구조, 덱 | Silver 4 |
 | [Baekjoon](https://www.acmicpc.net/problem/2606) | 바이러스 | [Java](Baekjoon/BJ2606_바이러스.java) | 그래프, 너비 우선 탐색, 깊이 우선 탐색 | Silver 3 |
 | [Baekjoon](https://www.acmicpc.net/problem/1620) | 나는야 포켓몬 마스터 이다솜 | [Java](Baekjoon/BJ1620_나는야포켓몬마스터이다솜.java) | 자료 구조, 해시 | Silver 4 |
+| [Baekjoon](https://www.acmicpc.net/problem/1629) | 곱셈 | [Java](Baekjoon/BJ1629_곱셈.java) | 수학, 분할 정복 | Silver 1 |
 
 <br>
 

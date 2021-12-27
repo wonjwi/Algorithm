@@ -6,29 +6,23 @@
 난이도에 관계없이 하루에 한 문제씩 꾸준히 풀기. 완료한 문제는 그날 그날 바로 commit 하기. <br/>
 **수적석천(水適石穿)** 이라고 물방울이 돌을 뚫는다는데, 돌 한 번 뚫어보자😎
 
-## 지금까지 푼 문제 수 (총 265문제)
+## 지금까지 푼 문제 수 (총 266문제)
 
-- `Baekjoon` : **192**문제
+- `Baekjoon` : **193**문제
 - `GoormLevel` : **2**문제
 - `JUNGOL` : **3**문제
 - `Programmers` : **20**문제
 - `SWExpert` : **48**문제
 
-## 이번 주 진행 상황 (총 7문제)
+## 이번 주 진행 상황 (총 1문제)
 
-### Week 32
+### Week 33
 
-_2021. 12. 20 ~ 2021. 12. 26_
+_2021. 12. 27 ~ 2021. 01. 02_
 
 | 사이트 | 문제 | 풀이 | 알고리즘 | 난이도 |
 | ---- | --- | --- | ------ | ---- |
-| [Baekjoon](https://www.acmicpc.net/problem/2751) | 수 정렬하기 2 | [Java](Baekjoon/BJ2751_수정렬하기2.java) | 정렬 | Silver 5 |
-| [Baekjoon](https://www.acmicpc.net/problem/10845) | 큐 | [Java](Baekjoon/BJ10845_큐.java) | 자료 구조, 큐 | Silver 4 |
-| [Baekjoon](https://www.acmicpc.net/problem/17219) | 비밀번호 찾기 | [Java](Baekjoon/BJ17219_비밀번호찾기.java) | 자료 구조, 해시 | Silver 4 |
-| [Baekjoon](https://www.acmicpc.net/problem/10866) | 덱 | [Java](Baekjoon/BJ10866_덱.java) | 자료 구조, 덱 | Silver 4 |
-| [Baekjoon](https://www.acmicpc.net/problem/2606) | 바이러스 | [Java](Baekjoon/BJ2606_바이러스.java) | 그래프, 너비 우선 탐색, 깊이 우선 탐색 | Silver 3 |
-| [Baekjoon](https://www.acmicpc.net/problem/1620) | 나는야 포켓몬 마스터 이다솜 | [Java](Baekjoon/BJ1620_나는야포켓몬마스터이다솜.java) | 자료 구조, 해시 | Silver 4 |
-| [Baekjoon](https://www.acmicpc.net/problem/1629) | 곱셈 | [Java](Baekjoon/BJ1629_곱셈.java) | 수학, 분할 정복 | Silver 1 |
+| [Baekjoon](https://www.acmicpc.net/problem/10816) | 숫자 카드 2 | [Java](Baekjoon/BJ10816_숫자카드2.java) | 자료 구조, 정렬, 이분 탐색, 해시 | Silver 4 |
 
 <br>
 
@@ -99,6 +93,20 @@ _2021. 12. 20 ~ 2021. 12. 26_
 ## December 2021
 
 ##### [목록으로 돌아가기](#Solved-Algorithm-Problems)
+
+### Week 32
+
+_2021. 12. 20 ~ 2021. 12. 26_
+
+| 사이트 | 문제 | 풀이 | 알고리즘 | 난이도 |
+| ---- | --- | --- | ------ | ---- |
+| [Baekjoon](https://www.acmicpc.net/problem/2751) | 수 정렬하기 2 | [Java](Baekjoon/BJ2751_수정렬하기2.java) | 정렬 | Silver 5 |
+| [Baekjoon](https://www.acmicpc.net/problem/10845) | 큐 | [Java](Baekjoon/BJ10845_큐.java) | 자료 구조, 큐 | Silver 4 |
+| [Baekjoon](https://www.acmicpc.net/problem/17219) | 비밀번호 찾기 | [Java](Baekjoon/BJ17219_비밀번호찾기.java) | 자료 구조, 해시 | Silver 4 |
+| [Baekjoon](https://www.acmicpc.net/problem/10866) | 덱 | [Java](Baekjoon/BJ10866_덱.java) | 자료 구조, 덱 | Silver 4 |
+| [Baekjoon](https://www.acmicpc.net/problem/2606) | 바이러스 | [Java](Baekjoon/BJ2606_바이러스.java) | 그래프, 너비 우선 탐색, 깊이 우선 탐색 | Silver 3 |
+| [Baekjoon](https://www.acmicpc.net/problem/1620) | 나는야 포켓몬 마스터 이다솜 | [Java](Baekjoon/BJ1620_나는야포켓몬마스터이다솜.java) | 자료 구조, 해시 | Silver 4 |
+| [Baekjoon](https://www.acmicpc.net/problem/1629) | 곱셈 | [Java](Baekjoon/BJ1629_곱셈.java) | 수학, 분할 정복 | Silver 1 |
 
 ### Week 31
 

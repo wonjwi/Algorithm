@@ -25,8 +25,8 @@ _2021. 12. 27 ~ 2021. 01. 02_
 | [Baekjoon](https://www.acmicpc.net/problem/10816) | 숫자 카드 2 | [Java](Baekjoon/BJ10816_숫자카드2.java) | 자료 구조, 정렬, 이분 탐색, 해시 | Silver 4 |
 | [Baekjoon](https://www.acmicpc.net/problem/1920) | 수 찾기 | [Java](Baekjoon/BJ1920_수찾기.java) | 이분 탐색 | Silver 4 |
 | [Baekjoon](https://www.acmicpc.net/problem/1107) | 리모컨 | [Java](Baekjoon/BJ1107_리모컨.java) | 브루트포스 | Gold 5 |
-| [Baekjoon](https://www.acmicpc.net/problem/1697) | 숨바꼭질 | [Java](Baekjoon/BJ1697_숨바꼭질.java) | 브루트포스 | Silver 1 |
-| [Baekjoon](https://www.acmicpc.net/problem/1967) | 트리의 지름 | [Java](Baekjoon/BJ1967_트리의지름.java) | 브루트포스 | Gold 4 |
+| [Baekjoon](https://www.acmicpc.net/problem/1697) | 숨바꼭질 | [Java](Baekjoon/BJ1697_숨바꼭질.java) | 그래프, 너비 우선 탐색 | Silver 1 |
+| [Baekjoon](https://www.acmicpc.net/problem/1967) | 트리의 지름 | [Java](Baekjoon/BJ1967_트리의지름.java) | 그래프, 트리, 깊이 우선 탐색 | Gold 4 |
 
 <br>
 

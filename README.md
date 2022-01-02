@@ -6,15 +6,15 @@
 난이도에 관계없이 하루에 한 문제씩 꾸준히 풀기. 완료한 문제는 그날 그날 바로 commit 하기. <br/>
 **수적석천(水適石穿)** 이라고 물방울이 돌을 뚫는다는데, 돌 한 번 뚫어보자😎
 
-## 지금까지 푼 문제 수 (총 273문제)
+## 지금까지 푼 문제 수 (총 274문제)
 
-- `Baekjoon` : **200**문제
+- `Baekjoon` : **201**문제
 - `GoormLevel` : **2**문제
 - `JUNGOL` : **3**문제
 - `Programmers` : **20**문제
 - `SWExpert` : **48**문제
 
-## 이번 주 진행 상황 (총 8문제)
+## 이번 주 진행 상황 (총 9문제)
 
 ### Week 33
 
@@ -30,6 +30,7 @@ _2021. 12. 27 ~ 2021. 01. 02_
 | [Baekjoon](https://www.acmicpc.net/problem/24039) | 2021은 무엇이 특별할까? | [Java](Baekjoon/BJ24039_2021은무엇이특별할까.java) | 수학, 브루트포스, 정수론, 소수 판정 | Silver 5 |
 | [Baekjoon](https://www.acmicpc.net/problem/14652) | 나는 행복합니다\~ | [Java](Baekjoon/BJ14652_나는행복합니다.java) | 수학, 사칙연산 | Bronze 5 |
 | [Baekjoon](https://www.acmicpc.net/problem/11651) | 좌표 정렬하기 2 | [Java](Baekjoon/BJ11651_좌표정렬하기2.java) | 정렬 | Silver 5 |
+| [Baekjoon](https://www.acmicpc.net/problem/10773) | 제로 | [Java](Baekjoon/BJ10773_제로.java) | 구현, 자료 구조, 스택 | Silver 4 |
 
 <br>
 

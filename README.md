@@ -6,9 +6,9 @@
 난이도에 관계없이 하루에 한 문제씩 꾸준히 풀기. 완료한 문제는 그날 그날 바로 commit 하기. <br/>
 **수적석천(水適石穿)** 이라고 물방울이 돌을 뚫는다는데, 돌 한 번 뚫어보자😎
 
-## 지금까지 푼 문제 수 (총 278문제)
+## 지금까지 푼 문제 수 (총 279문제)
 
-- `Baekjoon` : **204**문제
+- `Baekjoon` : **205**문제
 - `GoormLevel` : **2**문제
 - `JUNGOL` : **3**문제
 - `Programmers` : **21**문제
@@ -26,6 +26,7 @@ _2022. 01. 03 ~ 2022. 01. 09_
 | [Baekjoon](https://www.acmicpc.net/problem/24040) | 예쁜 케이크 | [Java](Baekjoon/BJ24040_예쁜케이크.java) | 수학, 정수론 | Silver 2 |
 | [Baekjoon](https://www.acmicpc.net/problem/16198) | 에너지 모으기 | [Java](Baekjoon/BJ16198_에너지모으기.java) | 브루트포스, 백트래킹 | Silver 1 |
 | [Programmers](https://programmers.co.kr/learn/courses/30/lessons/77484) | 로또의 최고 순위와 최저 순위 | [JavaScript](Programmers/PG_로또의최고순위와최저순위.js) | 구현, 시뮬레이션 | Level 1 |
+| [Baekjoon](https://www.acmicpc.net/problem/5554) | 심부름 가는 길 | [Java](Baekjoon/BJ5554_심부름가는길.java) | 수학, 구현, 사칙연산 | Bronze 5 |
 
 <br>
 

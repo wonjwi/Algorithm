@@ -14,23 +14,14 @@
 - `Programmers` : **22**문제
 - `SWExpert` : **48**문제
 
-## 이번 주 진행 상황 (총 9문제)
+## 이번 주 진행 상황 (총 0문제)
 
-### Week 34
+### Week 35
 
-_2022. 01. 03 ~ 2022. 01. 09_
+_2022. 01. 10 ~ 2022. 01. 16_
 
 | 사이트 | 문제 | 풀이 | 알고리즘 | 난이도 |
 | ---- | --- | --- | ------ | ---- |
-| [Baekjoon](https://www.acmicpc.net/problem/2609) | 최대공약수와 최소공배수 | [Java](Baekjoon/BJ2609_최대공약수와최소공배수.java) | 수학, 정수론, 유클리드 호제법 | Silver 5 |
-| [Baekjoon](https://www.acmicpc.net/problem/24040) | 예쁜 케이크 | [Java](Baekjoon/BJ24040_예쁜케이크.java) | 수학, 정수론 | Silver 2 |
-| [Baekjoon](https://www.acmicpc.net/problem/16198) | 에너지 모으기 | [Java](Baekjoon/BJ16198_에너지모으기.java) | 브루트포스, 백트래킹 | Silver 1 |
-| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/77484) | 로또의 최고 순위와 최저 순위 | [JavaScript](Programmers/PG_로또의최고순위와최저순위.js) | 구현, 시뮬레이션 | Level 1 |
-| [Baekjoon](https://www.acmicpc.net/problem/5554) | 심부름 가는 길 | [Java](Baekjoon/BJ5554_심부름가는길.java) | 수학, 구현, 사칙연산 | Bronze 5 |
-| [Baekjoon](https://www.acmicpc.net/problem/1018) | 체스판 다시 칠하기 | [Java](Baekjoon/BJ1018_체스판다시칠하기.java) | 브루트포스 | Silver 5 |
-| [Baekjoon](https://www.acmicpc.net/problem/11062) | 카드 게임 | [Java](Baekjoon/BJ11062_카드게임.java) | 다이나믹 프로그래밍, 게임 이론 | Gold 3 |
-| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/72410) | 신규 아이디 추천 | [JavaScript](Programmers/PG_카카오_신규아이디추천.js) | 구현, 시뮬레이션 | Level 1 |
-| [Baekjoon](https://www.acmicpc.net/problem/16472) | 고냥이 | [Java](Baekjoon/BJ16472_고냥이.java) | 이분 탐색, 두 포인터 | Gold 4 |
 
 <br>
 
@@ -105,6 +96,26 @@ _2022. 01. 03 ~ 2022. 01. 09_
 - [Week 1](#Week-1) (2021. 02. 01 ~ 2021. 02. 07)
 
 <br>
+
+## January 2022
+
+##### [목록으로 돌아가기](#Solved-Algorithm-Problems)
+
+### Week 34
+
+_2022. 01. 03 ~ 2022. 01. 09_
+
+| 사이트 | 문제 | 풀이 | 알고리즘 | 난이도 |
+| ---- | --- | --- | ------ | ---- |
+| [Baekjoon](https://www.acmicpc.net/problem/2609) | 최대공약수와 최소공배수 | [Java](Baekjoon/BJ2609_최대공약수와최소공배수.java) | 수학, 정수론, 유클리드 호제법 | Silver 5 |
+| [Baekjoon](https://www.acmicpc.net/problem/24040) | 예쁜 케이크 | [Java](Baekjoon/BJ24040_예쁜케이크.java) | 수학, 정수론 | Silver 2 |
+| [Baekjoon](https://www.acmicpc.net/problem/16198) | 에너지 모으기 | [Java](Baekjoon/BJ16198_에너지모으기.java) | 브루트포스, 백트래킹 | Silver 1 |
+| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/77484) | 로또의 최고 순위와 최저 순위 | [JavaScript](Programmers/PG_로또의최고순위와최저순위.js) | 구현, 시뮬레이션 | Level 1 |
+| [Baekjoon](https://www.acmicpc.net/problem/5554) | 심부름 가는 길 | [Java](Baekjoon/BJ5554_심부름가는길.java) | 수학, 구현, 사칙연산 | Bronze 5 |
+| [Baekjoon](https://www.acmicpc.net/problem/1018) | 체스판 다시 칠하기 | [Java](Baekjoon/BJ1018_체스판다시칠하기.java) | 브루트포스 | Silver 5 |
+| [Baekjoon](https://www.acmicpc.net/problem/11062) | 카드 게임 | [Java](Baekjoon/BJ11062_카드게임.java) | 다이나믹 프로그래밍, 게임 이론 | Gold 3 |
+| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/72410) | 신규 아이디 추천 | [JavaScript](Programmers/PG_카카오_신규아이디추천.js) | 구현, 시뮬레이션 | Level 1 |
+| [Baekjoon](https://www.acmicpc.net/problem/16472) | 고냥이 | [Java](Baekjoon/BJ16472_고냥이.java) | 이분 탐색, 두 포인터 | Gold 4 |
 
 ## December 2021
 

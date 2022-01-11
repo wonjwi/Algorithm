@@ -6,15 +6,15 @@
 난이도에 관계없이 하루에 한 문제씩 꾸준히 풀기. 완료한 문제는 그날 그날 바로 commit 하기. <br/>
 **수적석천(水適石穿)** 이라고 물방울이 돌을 뚫는다는데, 돌 한 번 뚫어보자😎
 
-## 지금까지 푼 문제 수 (총 287문제)
+## 지금까지 푼 문제 수 (총 288문제)
 
-- `Baekjoon` : **211**문제
+- `Baekjoon` : **212**문제
 - `GoormLevel` : **2**문제
 - `JUNGOL` : **3**문제
 - `Programmers` : **23**문제
 - `SWExpert` : **48**문제
 
-## 이번 주 진행 상황 (총 4문제)
+## 이번 주 진행 상황 (총 5문제)
 
 ### Week 35
 
@@ -26,6 +26,7 @@ _2022. 01. 10 ~ 2022. 01. 16_
 | [Programmers](https://programmers.co.kr/learn/courses/30/lessons/81301) | 숫자 문자열과 영단어 | [JavaScript](Programmers/PG_카카오_숫자문자열과영단어.js) | 구현, 문자열 | Level 1 |
 | [Baekjoon](https://www.acmicpc.net/problem/1259) | 팰린드롬수 | [Java](Baekjoon/BJ1259_팰린드롬수.java) | 구현, 문자열 | Bronze 1 |
 | [Baekjoon](https://www.acmicpc.net/problem/10250) | ACM 호텔 | [Java](Baekjoon/BJ10250_ACM호텔.java) | 수학, 구현, 사칙연산 | Bronze 3 |
+| [Baekjoon](https://www.acmicpc.net/problem/11050) | 이항 계수 1 | [Java](Baekjoon/BJ11050_이항계수1.java) | 수학, 구현, 조합론 | Bronze 1 |
 
 <br>
 

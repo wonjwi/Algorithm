@@ -14,24 +14,14 @@
 - `Programmers` : **23**문제
 - `SWExpert` : **48**문제
 
-## 이번 주 진행 상황 (총 10문제)
+## 이번 주 진행 상황 (총 0문제)
 
-### Week 35
+### Week 36
 
-_2022. 01. 10 ~ 2022. 01. 16_
+_2022. 01. 17 ~ 2022. 01. 23_
 
 | 사이트 | 문제 | 풀이 | 알고리즘 | 난이도 |
 | ---- | --- | --- | ------ | ---- |
-| [Baekjoon](https://www.acmicpc.net/problem/17396) | 백도어 | [Java](Baekjoon/BJ17396_백도어.java) | 그래프, 다익스트라 | Gold 5 |
-| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/81301) | 숫자 문자열과 영단어 | [JavaScript](Programmers/PG_카카오_숫자문자열과영단어.js) | 구현, 문자열 | Level 1 |
-| [Baekjoon](https://www.acmicpc.net/problem/1259) | 팰린드롬수 | [Java](Baekjoon/BJ1259_팰린드롬수.java) | 구현, 문자열 | Bronze 1 |
-| [Baekjoon](https://www.acmicpc.net/problem/10250) | ACM 호텔 | [Java](Baekjoon/BJ10250_ACM호텔.java) | 수학, 구현, 사칙연산 | Bronze 3 |
-| [Baekjoon](https://www.acmicpc.net/problem/11050) | 이항 계수 1 | [Java](Baekjoon/BJ11050_이항계수1.java) | 수학, 구현, 조합론 | Bronze 1 |
-| [Baekjoon](https://www.acmicpc.net/problem/13015) | 별 찍기 - 23 | [Java](Baekjoon/BJ13015_별찍기23.java) | 구현 | Silver 5 |
-| [Baekjoon](https://www.acmicpc.net/problem/1874) | 스택 수열 | [Java](Baekjoon/BJ1874_스택수열.java) | 자료 구조, 스택 | Silver 3 |
-| [Baekjoon](https://www.acmicpc.net/problem/2775) | 부녀회장이 될테야 | [Java](Baekjoon/BJ2775_부녀회장이될테야.java) | 수학 | Bronze 2 |
-| [Baekjoon](https://www.acmicpc.net/problem/17503) | 맥주 축제 | [Java](Baekjoon/BJ17503_맥주축제.java) | 자료 구조, 정렬, 우선순위 큐 | Silver 2 |
-| [Baekjoon](https://www.acmicpc.net/problem/24268) | 2022는 무엇이 특별할까? | [Java](Baekjoon/BJ24268_2022는무엇이특별할까.java) | 수학, 브루트포스 | Silver 2 |
 
 <br>
 
@@ -124,6 +114,23 @@ _2022. 01. 10 ~ 2022. 01. 16_
 ## January 2022
 
 ##### [목록으로 돌아가기](#Solved-Algorithm-Problems)
+
+### Week 35
+
+_2022. 01. 10 ~ 2022. 01. 16_
+
+| 사이트 | 문제 | 풀이 | 알고리즘 | 난이도 |
+| ---- | --- | --- | ------ | ---- |
+| [Baekjoon](https://www.acmicpc.net/problem/17396) | 백도어 | [Java](Baekjoon/BJ17396_백도어.java) | 그래프, 다익스트라 | Gold 5 |
+| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/81301) | 숫자 문자열과 영단어 | [JavaScript](Programmers/PG_카카오_숫자문자열과영단어.js) | 구현, 문자열 | Level 1 |
+| [Baekjoon](https://www.acmicpc.net/problem/1259) | 팰린드롬수 | [Java](Baekjoon/BJ1259_팰린드롬수.java) | 구현, 문자열 | Bronze 1 |
+| [Baekjoon](https://www.acmicpc.net/problem/10250) | ACM 호텔 | [Java](Baekjoon/BJ10250_ACM호텔.java) | 수학, 구현, 사칙연산 | Bronze 3 |
+| [Baekjoon](https://www.acmicpc.net/problem/11050) | 이항 계수 1 | [Java](Baekjoon/BJ11050_이항계수1.java) | 수학, 구현, 조합론 | Bronze 1 |
+| [Baekjoon](https://www.acmicpc.net/problem/13015) | 별 찍기 - 23 | [Java](Baekjoon/BJ13015_별찍기23.java) | 구현 | Silver 5 |
+| [Baekjoon](https://www.acmicpc.net/problem/1874) | 스택 수열 | [Java](Baekjoon/BJ1874_스택수열.java) | 자료 구조, 스택 | Silver 3 |
+| [Baekjoon](https://www.acmicpc.net/problem/2775) | 부녀회장이 될테야 | [Java](Baekjoon/BJ2775_부녀회장이될테야.java) | 수학 | Bronze 2 |
+| [Baekjoon](https://www.acmicpc.net/problem/17503) | 맥주 축제 | [Java](Baekjoon/BJ17503_맥주축제.java) | 자료 구조, 정렬, 우선순위 큐 | Silver 2 |
+| [Baekjoon](https://www.acmicpc.net/problem/24268) | 2022는 무엇이 특별할까? | [Java](Baekjoon/BJ24268_2022는무엇이특별할까.java) | 수학, 브루트포스 | Silver 2 |
 
 ### Week 34
 

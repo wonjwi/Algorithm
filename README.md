@@ -6,15 +6,15 @@
 난이도에 관계없이 하루에 한 문제씩 꾸준히 풀기. 완료한 문제는 그날 그날 바로 commit 하기. <br/>
 **수적석천(水適石穿)** 이라고 물방울이 돌을 뚫는다는데, 돌 한 번 뚫어보자😎
 
-## 지금까지 푼 문제 수 (총 298문제)
+## 지금까지 푼 문제 수 (총 296문제)
 
-- `Baekjoon` : **222**문제
+- `Baekjoon` : **220**문제
 - `GoormLevel` : **2**문제
 - `JUNGOL` : **3**문제
 - `Programmers` : **23**문제
 - `SWExpert` : **48**문제
 
-## 이번 주 진행 상황 (총 5문제)
+## 이번 주 진행 상황 (총 6문제)
 
 ### Week 36
 
@@ -147,7 +147,6 @@ _2022. 01. 03 ~ 2022. 01. 09_
 | [Baekjoon](https://www.acmicpc.net/problem/24040) | 예쁜 케이크 | [Java](Baekjoon/BJ24040_예쁜케이크.java) | 수학, 정수론 | Silver 2 |
 | [Baekjoon](https://www.acmicpc.net/problem/16198) | 에너지 모으기 | [Java](Baekjoon/BJ16198_에너지모으기.java) | 브루트포스, 백트래킹 | Silver 1 |
 | [Programmers](https://programmers.co.kr/learn/courses/30/lessons/77484) | 로또의 최고 순위와 최저 순위 | [JavaScript](Programmers/PG_로또의최고순위와최저순위.js) | 구현, 시뮬레이션 | Level 1 |
-| [Baekjoon](https://www.acmicpc.net/problem/5554) | 심부름 가는 길 | [Java](Baekjoon/BJ5554_심부름가는길.java) | 수학, 구현, 사칙연산 | Bronze 5 |
 | [Baekjoon](https://www.acmicpc.net/problem/1018) | 체스판 다시 칠하기 | [Java](Baekjoon/BJ1018_체스판다시칠하기.java) | 브루트포스 | Silver 5 |
 | [Baekjoon](https://www.acmicpc.net/problem/11062) | 카드 게임 | [Java](Baekjoon/BJ11062_카드게임.java) | 다이나믹 프로그래밍, 게임 이론 | Gold 3 |
 | [Programmers](https://programmers.co.kr/learn/courses/30/lessons/72410) | 신규 아이디 추천 | [JavaScript](Programmers/PG_카카오_신규아이디추천.js) | 구현, 시뮬레이션 | Level 1 |
@@ -169,7 +168,6 @@ _2021. 12. 27 ~ 2022. 01. 02_
 | [Baekjoon](https://www.acmicpc.net/problem/1697) | 숨바꼭질 | [Java](Baekjoon/BJ1697_숨바꼭질.java) | 그래프, 너비 우선 탐색 | Silver 1 |
 | [Baekjoon](https://www.acmicpc.net/problem/1967) | 트리의 지름 | [Java](Baekjoon/BJ1967_트리의지름.java) | 그래프, 트리, 깊이 우선 탐색 | Gold 4 |
 | [Baekjoon](https://www.acmicpc.net/problem/24039) | 2021은 무엇이 특별할까? | [Java](Baekjoon/BJ24039_2021은무엇이특별할까.java) | 수학, 브루트포스, 정수론, 소수 판정 | Silver 5 |
-| [Baekjoon](https://www.acmicpc.net/problem/14652) | 나는 행복합니다\~ | [Java](Baekjoon/BJ14652_나는행복합니다.java) | 수학, 사칙연산 | Bronze 5 |
 | [Baekjoon](https://www.acmicpc.net/problem/11651) | 좌표 정렬하기 2 | [Java](Baekjoon/BJ11651_좌표정렬하기2.java) | 정렬 | Silver 5 |
 | [Baekjoon](https://www.acmicpc.net/problem/10773) | 제로 | [Java](Baekjoon/BJ10773_제로.java) | 구현, 자료 구조, 스택 | Silver 4 |
 

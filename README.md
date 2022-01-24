@@ -119,7 +119,7 @@ _2022. 01. 23 ~ 2022. 01. 29_
 
 ### Week 36
 
-_2022. 01. 17 ~ 2022. 01. 23_
+_2022. 01. 16 ~ 2022. 01. 22_
 
 | 사이트 | 문제 | 풀이 | 알고리즘 | 난이도 |
 | ---- | --- | --- | ------ | ---- |
@@ -134,7 +134,7 @@ _2022. 01. 17 ~ 2022. 01. 23_
 
 ### Week 35
 
-_2022. 01. 10 ~ 2022. 01. 16_
+_2022. 01. 09 ~ 2022. 01. 15_
 
 | 사이트 | 문제 | 풀이 | 알고리즘 | 난이도 |
 | ---- | --- | --- | ------ | ---- |
@@ -151,10 +151,11 @@ _2022. 01. 10 ~ 2022. 01. 16_
 
 ### Week 34
 
-_2022. 01. 03 ~ 2022. 01. 09_
+_2022. 01. 02 ~ 2022. 01. 08_
 
 | 사이트 | 문제 | 풀이 | 알고리즘 | 난이도 |
 | ---- | --- | --- | ------ | ---- |
+| [Baekjoon](https://www.acmicpc.net/problem/10773) | 제로 | [Java](Baekjoon/BJ10773_제로.java) | 구현, 자료 구조, 스택 | Silver 4 |
 | [Baekjoon](https://www.acmicpc.net/problem/2609) | 최대공약수와 최소공배수 | [Java](Baekjoon/BJ2609_최대공약수와최소공배수.java) | 수학, 정수론, 유클리드 호제법 | Silver 5 |
 | [Baekjoon](https://www.acmicpc.net/problem/24040) | 예쁜 케이크 | [Java](Baekjoon/BJ24040_예쁜케이크.java) | 수학, 정수론 | Silver 2 |
 | [Baekjoon](https://www.acmicpc.net/problem/16198) | 에너지 모으기 | [Java](Baekjoon/BJ16198_에너지모으기.java) | 브루트포스, 백트래킹 | Silver 1 |
@@ -170,10 +171,11 @@ _2022. 01. 03 ~ 2022. 01. 09_
 
 ### Week 33
 
-_2021. 12. 27 ~ 2022. 01. 02_
+_2021. 12. 26 ~ 2022. 01. 01_
 
 | 사이트 | 문제 | 풀이 | 알고리즘 | 난이도 |
 | ---- | --- | --- | ------ | ---- |
+| [Baekjoon](https://www.acmicpc.net/problem/1629) | 곱셈 | [Java](Baekjoon/BJ1629_곱셈.java) | 수학, 분할 정복 | Silver 1 |
 | [Baekjoon](https://www.acmicpc.net/problem/10816) | 숫자 카드 2 | [Java](Baekjoon/BJ10816_숫자카드2.java) | 자료 구조, 정렬, 이분 탐색, 해시 | Silver 4 |
 | [Baekjoon](https://www.acmicpc.net/problem/1920) | 수 찾기 | [Java](Baekjoon/BJ1920_수찾기.java) | 이분 탐색 | Silver 4 |
 | [Baekjoon](https://www.acmicpc.net/problem/1107) | 리모컨 | [Java](Baekjoon/BJ1107_리모컨.java) | 브루트포스 | Gold 5 |
@@ -181,42 +183,42 @@ _2021. 12. 27 ~ 2022. 01. 02_
 | [Baekjoon](https://www.acmicpc.net/problem/1967) | 트리의 지름 | [Java](Baekjoon/BJ1967_트리의지름.java) | 그래프, 트리, 깊이 우선 탐색 | Gold 4 |
 | [Baekjoon](https://www.acmicpc.net/problem/24039) | 2021은 무엇이 특별할까? | [Java](Baekjoon/BJ24039_2021은무엇이특별할까.java) | 수학, 브루트포스, 정수론, 소수 판정 | Silver 5 |
 | [Baekjoon](https://www.acmicpc.net/problem/11651) | 좌표 정렬하기 2 | [Java](Baekjoon/BJ11651_좌표정렬하기2.java) | 정렬 | Silver 5 |
-| [Baekjoon](https://www.acmicpc.net/problem/10773) | 제로 | [Java](Baekjoon/BJ10773_제로.java) | 구현, 자료 구조, 스택 | Silver 4 |
 
 ### Week 32
 
-_2021. 12. 20 ~ 2021. 12. 26_
+_2021. 12. 19 ~ 2021. 12. 25_
 
 | 사이트 | 문제 | 풀이 | 알고리즘 | 난이도 |
 | ---- | --- | --- | ------ | ---- |
+| [Baekjoon](https://www.acmicpc.net/problem/10814) | 나이순 정렬 | [Java](Baekjoon/BJ10814_나이순정렬.java) | 정렬 | Silver 5 |
 | [Baekjoon](https://www.acmicpc.net/problem/2751) | 수 정렬하기 2 | [Java](Baekjoon/BJ2751_수정렬하기2.java) | 정렬 | Silver 5 |
 | [Baekjoon](https://www.acmicpc.net/problem/10845) | 큐 | [Java](Baekjoon/BJ10845_큐.java) | 자료 구조, 큐 | Silver 4 |
 | [Baekjoon](https://www.acmicpc.net/problem/17219) | 비밀번호 찾기 | [Java](Baekjoon/BJ17219_비밀번호찾기.java) | 자료 구조, 해시 | Silver 4 |
 | [Baekjoon](https://www.acmicpc.net/problem/10866) | 덱 | [Java](Baekjoon/BJ10866_덱.java) | 자료 구조, 덱 | Silver 4 |
 | [Baekjoon](https://www.acmicpc.net/problem/2606) | 바이러스 | [Java](Baekjoon/BJ2606_바이러스.java) | 그래프, 너비 우선 탐색, 깊이 우선 탐색 | Silver 3 |
 | [Baekjoon](https://www.acmicpc.net/problem/1620) | 나는야 포켓몬 마스터 이다솜 | [Java](Baekjoon/BJ1620_나는야포켓몬마스터이다솜.java) | 자료 구조, 해시 | Silver 4 |
-| [Baekjoon](https://www.acmicpc.net/problem/1629) | 곱셈 | [Java](Baekjoon/BJ1629_곱셈.java) | 수학, 분할 정복 | Silver 1 |
 
 ### Week 31
 
-_2021. 12. 13 ~ 2021. 12. 19_
+_2021. 12. 12 ~ 2021. 12. 18_
 
 | 사이트 | 문제 | 풀이 | 알고리즘 | 난이도 |
 | ---- | --- | --- | ------ | ---- |
+| [Baekjoon](https://www.acmicpc.net/problem/4153) | 직각삼각형 | [Java](Baekjoon/BJ4153_직각삼각형.java) | 수학, 기하학 | Bronze 3 |
 | [Baekjoon](https://www.acmicpc.net/problem/1978) | 소수 찾기 | [Java](Baekjoon/BJ1978_소수찾기.java) | 수학, 정수론, 소수 판정 | Silver 4 |
 | [Baekjoon](https://www.acmicpc.net/problem/10828) | 스택 | [Java](Baekjoon/BJ10828_스택.java) | 자료 구조, 스택 | Silver 4 |
 | [Baekjoon](https://www.acmicpc.net/problem/11053) | 가장 긴 증가하는 부분 수열 | [Java](Baekjoon/BJ11053_가장긴증가하는부분수열.java) | 다이나믹 프로그래밍 | Silver 2 |
 | [Baekjoon](https://www.acmicpc.net/problem/1929) | 소수 구하기 | [Java](Baekjoon/BJ1929_소수구하기.java) | 수학, 정수론, 소수 판정 | Silver 2 |
 | [Baekjoon](https://www.acmicpc.net/problem/4949) | 균형잡힌 세상 | [Java](Baekjoon/BJ4949_균형잡힌세상.java) | 자료 구조, 문자열, 스택 | Silver 4 |
 | [Baekjoon](https://www.acmicpc.net/problem/9012) | 괄호 | [Java](Baekjoon/BJ9012_괄호.java) | 자료 구조, 문자열, 스택 | Silver 4 |
-| [Baekjoon](https://www.acmicpc.net/problem/10814) | 나이순 정렬 | [Java](Baekjoon/BJ10814_나이순정렬.java) | 정렬 | Silver 5 |
 
 ### Week 30
 
-_2021. 12. 06 ~ 2021. 12. 12_
+_2021. 12. 05 ~ 2021. 12. 11_
 
 | 사이트 | 문제 | 풀이 | 알고리즘 | 난이도 |
 | ---- | --- | --- | ------ | ---- |
+| [Baekjoon](https://www.acmicpc.net/problem/2798) | 블랙잭 | [Java](Baekjoon/BJ2798_블랙잭.java) | 브루트포스 | Bronze 2 |
 | [Baekjoon](https://www.acmicpc.net/problem/1181) | 단어 정렬 | [Java](Baekjoon/BJ1181_단어정렬.java) | 정렬 | Silver 5 |
 | [Baekjoon](https://www.acmicpc.net/problem/1012) | 유기농 배추 | [Java](Baekjoon/BJ1012_유기농배추.java) | 깊이 우선 탐색 | Silver 2 |
 | [Baekjoon](https://www.acmicpc.net/problem/2163) | 초콜릿 자르기 | [Java](Baekjoon/BJ2163_초콜릿자르기.java) | 수학, 사칙연산 | Bronze 3 |
@@ -224,11 +226,10 @@ _2021. 12. 06 ~ 2021. 12. 12_
 | [Baekjoon](https://www.acmicpc.net/problem/2579) | 계단 오르기 | [Java](Baekjoon/BJ2579_계단오르기.java) | 다이나믹 프로그래밍 | Silver 3 |
 | [Baekjoon](https://www.acmicpc.net/problem/10989) | 수 정렬하기 3 | [Java](Baekjoon/BJ10989_수정렬하기3.java) | 정렬 | Silver 5 |
 | [Baekjoon](https://www.acmicpc.net/problem/11650) | 좌표 정렬하기 | [Java](Baekjoon/BJ11650_좌표정렬하기.java) | 정렬 | Silver 5 |
-| [Baekjoon](https://www.acmicpc.net/problem/4153) | 직각삼각형 | [Java](Baekjoon/BJ4153_직각삼각형.java) | 수학, 기하학 | Bronze 3 |
 
 ### Week 29
 
-_2021. 12. 01 ~ 2021. 12. 05_
+_2021. 12. 01 ~ 2021. 12. 04_
 
 | 사이트 | 문제 | 풀이 | 알고리즘 | 난이도 |
 | ---- | --- | --- | ------ | ---- |
@@ -236,7 +237,6 @@ _2021. 12. 01 ~ 2021. 12. 05_
 | [Baekjoon](https://www.acmicpc.net/problem/1157) | 단어 공부 | [Java](Baekjoon/BJ1157_단어공부.java) | 구현, 문자열 | Bronze 1 |
 | [Baekjoon](https://www.acmicpc.net/problem/2908) | 상수 | [Java](Baekjoon/BJ2908_상수.java) | 수학, 구현 | Bronze 2 |
 | [Baekjoon](https://www.acmicpc.net/problem/1085) | 직사각형에서 탈출 | [Java](Baekjoon/BJ1085_직사각형에서탈출.java) | 수학, 기하학 | Bronze 3 |
-| [Baekjoon](https://www.acmicpc.net/problem/2798) | 블랙잭 | [Java](Baekjoon/BJ2798_블랙잭.java) | 브루트포스 | Bronze 2 |
 
 ## September 2021
 

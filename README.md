@@ -6,15 +6,15 @@
 난이도에 관계없이 하루에 한 문제씩 꾸준히 풀기. 완료한 문제는 그날 그날 바로 commit 하기. <br/>
 **수적석천(水適石穿)** 이라고 물방울이 돌을 뚫는다는데, 돌 한 번 뚫어보자😎
 
-## 지금까지 푼 문제 수 (총 306문제)
+## 지금까지 푼 문제 수 (총 307문제)
 
-- `Baekjoon` : **230**문제
+- `Baekjoon` : **231**문제
 - `GoormLevel` : **2**문제
 - `JUNGOL` : **3**문제
 - `Programmers` : **23**문제
 - `SWExpert` : **48**문제
 
-## 이번 주 진행 상황 (총 7문제)
+## 이번 주 진행 상황 (총 8문제)
 
 ### Week 37
 
@@ -29,6 +29,7 @@ _2022. 01. 23 ~ 2022. 01. 29_
 | [Baekjoon](https://www.acmicpc.net/problem/2448) | 별 찍기 - 11 | [Java](Baekjoon/BJ2448_별찍기11.java) | 분할 정복, 재귀 | Gold 4 |
 | [Baekjoon](https://www.acmicpc.net/problem/10993) | 별 찍기 - 18 | [Java](Baekjoon/BJ10993_별찍기18.java) | 구현, 재귀 | Gold 4 |
 | [Baekjoon](https://www.acmicpc.net/problem/1913) | 달팽이 | [Java](Baekjoon/BJ1913_달팽이.java) | 구현 | Silver 4 |
+| [Baekjoon](https://www.acmicpc.net/problem/1005) | ACM Craft | [Java](Baekjoon/BJ1005_ACMCraft.java) | 다이나믹 프로그래밍, 그래프, 위상 정렬 | Gold 3 |
 
 <br>
 

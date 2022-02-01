@@ -6,12 +6,12 @@
 난이도에 관계없이 하루에 한 문제씩 꾸준히 풀기. 완료한 문제는 그날 그날 바로 commit 하기. <br/>
 **수적석천(水適石穿)** 이라고 물방울이 돌을 뚫는다는데, 돌 한 번 뚫어보자😎
 
-## 지금까지 푼 문제 수 (총 310문제)
+## 지금까지 푼 문제 수 (총 313문제)
 
 - `Baekjoon` : **234**문제
 - `GoormLevel` : **2**문제
 - `JUNGOL` : **3**문제
-- `Programmers` : **23**문제
+- `Programmers` : **26**문제
 - `SWExpert` : **48**문제
 
 ## 이번 주 진행 상황 (총 3문제)
@@ -265,6 +265,9 @@ _2021. 09. 06 ~ 2021. 09. 12_
 | 사이트 | 문제 | 풀이 | 알고리즘 | 난이도 |
 | ---- | --- | --- | ------ | ---- |
 | [Baekjoon](https://www.acmicpc.net/problem/2675) | 문자열 반복 | [Java](Baekjoon/BJ2675_문자열반복.java) | 구현, 문자열 | Bronze 2 |
+| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/92334) | 신고 결과 받기 | [Java](Programmers/PG_카카오_신고결과받기.java) | 자료 구조, 해시 | Level 1 |
+| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/92335) | k진수에서 소수 개수 구하기 | [Java](Programmers/PG_카카오_k진수에서소수개수구하기.java) | 수학, 구현, 소수 판정 | Level 2 |
+| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/92341) | 주차 요금 계산 | [Java](Programmers/PG_카카오_주차요금계산.java) | 구현, 문자열, 자료 구조 | Level 2 |
 
 ### Week 27
 

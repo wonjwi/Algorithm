@@ -14,19 +14,14 @@
 - `Programmers` : **26**문제
 - `SWExpert` : **48**문제
 
-## 이번 주 진행 상황 (총 6문제)
+## 이번 주 진행 상황 (총 1문제)
 
-### Week 38
+### Week 39
 
-_2022. 01. 30 ~ 2022. 02. 05_
+_2022. 02. 06 ~ 2022. 02. 12_
 
 | 사이트 | 문제 | 풀이 | 알고리즘 | 난이도 |
 | ---- | --- | --- | ------ | ---- |
-| [Baekjoon](https://www.acmicpc.net/problem/1654) | 랜선 자르기 | [Java](Baekjoon/BJ1654_랜선자르기.java) | 이분 탐색, 매개 변수 탐색 | Silver 3 |
-| [Baekjoon](https://www.acmicpc.net/problem/1197) | 최소 스패닝 트리 | [Java](Baekjoon/BJ1197_최소스패닝트리.java) | 이분 탐색, 매개 변수 탐색 | Gold 4 |
-| [Baekjoon](https://www.acmicpc.net/problem/2252) | 줄 세우기 | [Java](Baekjoon/BJ2252_줄세우기.java) | 그래프, 위상 정렬 | Gold 3 |
-| [Baekjoon](https://www.acmicpc.net/problem/13460) | 구슬 탈출 2 | [Java](Baekjoon/BJ13460_구슬탈출2.java) | 구현, 그래프, 너비 우선 탐색 | Gold 1 |
-| [Baekjoon](https://www.acmicpc.net/problem/10808) | 알파벳 개수 | [Java](Baekjoon/BJ10808_알파벳개수.java) | 구현, 문자열 | Bronze 2 |
 | [Baekjoon](https://www.acmicpc.net/problem/12100) | 2048 (Easy) | [Java](Baekjoon/BJ12100_2048.java) | 구현, 브루트포스, 시뮬레이션, 백트래킹 | Gold 2 |
 
 <br>
@@ -120,6 +115,18 @@ _2022. 01. 30 ~ 2022. 02. 05_
 ## January 2022
 
 ##### [목록으로 돌아가기](#Solved-Algorithm-Problems)
+
+### Week 38
+
+_2022. 01. 30 ~ 2022. 02. 05_
+
+| 사이트 | 문제 | 풀이 | 알고리즘 | 난이도 |
+| ---- | --- | --- | ------ | ---- |
+| [Baekjoon](https://www.acmicpc.net/problem/1654) | 랜선 자르기 | [Java](Baekjoon/BJ1654_랜선자르기.java) | 이분 탐색, 매개 변수 탐색 | Silver 3 |
+| [Baekjoon](https://www.acmicpc.net/problem/1197) | 최소 스패닝 트리 | [Java](Baekjoon/BJ1197_최소스패닝트리.java) | 이분 탐색, 매개 변수 탐색 | Gold 4 |
+| [Baekjoon](https://www.acmicpc.net/problem/2252) | 줄 세우기 | [Java](Baekjoon/BJ2252_줄세우기.java) | 그래프, 위상 정렬 | Gold 3 |
+| [Baekjoon](https://www.acmicpc.net/problem/13460) | 구슬 탈출 2 | [Java](Baekjoon/BJ13460_구슬탈출2.java) | 구현, 그래프, 너비 우선 탐색 | Gold 1 |
+| [Baekjoon](https://www.acmicpc.net/problem/10808) | 알파벳 개수 | [Java](Baekjoon/BJ10808_알파벳개수.java) | 구현, 문자열 | Bronze 2 |
 
 ### Week 37
 

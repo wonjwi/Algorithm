@@ -6,29 +6,23 @@
 난이도에 관계없이 하루에 한 문제씩 꾸준히 풀기. 완료한 문제는 그날 그날 바로 commit 하기. <br/>
 **수적석천(水適石穿)** 이라고 물방울이 돌을 뚫는다는데, 돌 한 번 뚫어보자😎
 
-## 지금까지 푼 문제 수 (총 322문제)
+## 지금까지 푼 문제 수 (총 323문제)
 
-- `Baekjoon` : **243**문제
+- `Baekjoon` : **244**문제
 - `GoormLevel` : **2**문제
 - `JUNGOL` : **3**문제
 - `Programmers` : **26**문제
 - `SWExpert` : **48**문제
 
-## 이번 주 진행 상황 (총 7문제)
+## 이번 주 진행 상황 (총 1문제)
 
-### Week 39
+### Week 40
 
-_2022. 02. 06 ~ 2022. 02. 12_
+_2022. 02. 13 ~ 2022. 02. 19_
 
 | 사이트 | 문제 | 풀이 | 알고리즘 | 난이도 |
 | ---- | --- | --- | ------ | ---- |
-| [Baekjoon](https://www.acmicpc.net/problem/12100) | 2048 (Easy) | [Java](Baekjoon/BJ12100_2048.java) | 구현, 브루트포스, 시뮬레이션, 백트래킹 | Gold 2 |
-| [Baekjoon](https://www.acmicpc.net/problem/2805) | 나무 자르기 | [Java](Baekjoon/BJ2805_나무자르기.java) | 이분 탐색, 매개 변수 탐색 | Silver 3 |
-| [Baekjoon](https://www.acmicpc.net/problem/7568) | 덩치 | [Java](Baekjoon/BJ7568_덩치.java) | 구현, 브루트포스 | Silver 5 |
-| [Baekjoon](https://www.acmicpc.net/problem/2108) | 통계학 | [Java](Baekjoon/BJ2108_통계학.java) | 구현, 정렬 | Silver 4 |
-| [Baekjoon](https://www.acmicpc.net/problem/2231) | 분해합 | [Java](Baekjoon/BJ2231_분해합.java) | 브루트포스 | Bronze 2 |
-| [Baekjoon](https://www.acmicpc.net/problem/18111) | 마인크래프트 | [Java](Baekjoon/BJ18111_마인크래프트.java) | 구현, 브루트포스 | Silver 2 |
-| [Baekjoon](https://www.acmicpc.net/problem/15829) | Hashing | [Java](Baekjoon/BJ15829_Hashing.java) | 문자열, 해싱 | Bronze 2 |
+| [Baekjoon](https://www.acmicpc.net/problem/5014) | 스타트링크 | [Java](Baekjoon/BJ5014_스타트링크.java) | 그래프, 너비 우선 탐색 | Gold 5 |
 
 <br>
 
@@ -117,6 +111,24 @@ _2022. 02. 06 ~ 2022. 02. 12_
 - [Week 1](#Week-1) (2021. 02. 01 ~ 2021. 02. 07)
 
 <br>
+
+## February 2022
+
+##### [목록으로 돌아가기](#Solved-Algorithm-Problems)
+
+### Week 39
+
+_2022. 02. 06 ~ 2022. 02. 12_
+
+| 사이트 | 문제 | 풀이 | 알고리즘 | 난이도 |
+| ---- | --- | --- | ------ | ---- |
+| [Baekjoon](https://www.acmicpc.net/problem/12100) | 2048 (Easy) | [Java](Baekjoon/BJ12100_2048.java) | 구현, 브루트포스, 시뮬레이션, 백트래킹 | Gold 2 |
+| [Baekjoon](https://www.acmicpc.net/problem/2805) | 나무 자르기 | [Java](Baekjoon/BJ2805_나무자르기.java) | 이분 탐색, 매개 변수 탐색 | Silver 3 |
+| [Baekjoon](https://www.acmicpc.net/problem/7568) | 덩치 | [Java](Baekjoon/BJ7568_덩치.java) | 구현, 브루트포스 | Silver 5 |
+| [Baekjoon](https://www.acmicpc.net/problem/2108) | 통계학 | [Java](Baekjoon/BJ2108_통계학.java) | 구현, 정렬 | Silver 4 |
+| [Baekjoon](https://www.acmicpc.net/problem/2231) | 분해합 | [Java](Baekjoon/BJ2231_분해합.java) | 브루트포스 | Bronze 2 |
+| [Baekjoon](https://www.acmicpc.net/problem/18111) | 마인크래프트 | [Java](Baekjoon/BJ18111_마인크래프트.java) | 구현, 브루트포스 | Silver 2 |
+| [Baekjoon](https://www.acmicpc.net/problem/15829) | Hashing | [Java](Baekjoon/BJ15829_Hashing.java) | 문자열, 해싱 | Bronze 2 |
 
 ## January 2022
 

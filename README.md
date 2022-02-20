@@ -14,21 +14,14 @@
 - `Programmers` : **26**문제
 - `SWExpert` : **48**문제
 
-## 이번 주 진행 상황 (총 7문제)
+## 이번 주 진행 상황 (총 0문제)
 
-### Week 40
+### Week 41
 
-_2022. 02. 13 ~ 2022. 02. 19_
+_2022. 02. 20 ~ 2022. 02. 26_
 
 | 사이트 | 문제 | 풀이 | 알고리즘 | 난이도 |
 | ---- | --- | --- | ------ | ---- |
-| [Baekjoon](https://www.acmicpc.net/problem/5014) | 스타트링크 | [Java](Baekjoon/BJ5014_스타트링크.java) | 그래프, 너비 우선 탐색 | Gold 5 |
-| [Baekjoon](https://www.acmicpc.net/problem/9095) | 1, 2, 3 더하기 | [Java](Baekjoon/BJ9095_123더하기.java) | 다이나믹 프로그래밍 | Silver 3 |
-| [Baekjoon](https://www.acmicpc.net/problem/1927) | 최소 힙 | [Java](Baekjoon/BJ1927_최소힙.java) | 자료 구조, 우선순위 큐 | Silver 2 |
-| [Baekjoon](https://www.acmicpc.net/problem/11279) | 최대 힙 | [Java](Baekjoon/BJ11279_최대힙.java) | 자료 구조, 우선순위 큐 | Silver 2 |
-| [Baekjoon](https://www.acmicpc.net/problem/11723) | 집합 | [Java](Baekjoon/BJ11723_집합.java) | 구현, 비트마스킹 | Silver 5 |
-| [Baekjoon](https://www.acmicpc.net/problem/11726) | 2×n 타일링 | [Java](Baekjoon/BJ11726_2xn타일링.java) | 다이나믹 프로그래밍 | Silver 3 |
-| [Baekjoon](https://www.acmicpc.net/problem/11727) | 2×n 타일링 2 | [Java](Baekjoon/BJ11727_2xn타일링2.java) | 다이나믹 프로그래밍 | Silver 3 |
 
 <br>
 
@@ -121,6 +114,20 @@ _2022. 02. 13 ~ 2022. 02. 19_
 ## February 2022
 
 ##### [목록으로 돌아가기](#Solved-Algorithm-Problems)
+
+### Week 40
+
+_2022. 02. 13 ~ 2022. 02. 19_
+
+| 사이트 | 문제 | 풀이 | 알고리즘 | 난이도 |
+| ---- | --- | --- | ------ | ---- |
+| [Baekjoon](https://www.acmicpc.net/problem/5014) | 스타트링크 | [Java](Baekjoon/BJ5014_스타트링크.java) | 그래프, 너비 우선 탐색 | Gold 5 |
+| [Baekjoon](https://www.acmicpc.net/problem/9095) | 1, 2, 3 더하기 | [Java](Baekjoon/BJ9095_123더하기.java) | 다이나믹 프로그래밍 | Silver 3 |
+| [Baekjoon](https://www.acmicpc.net/problem/1927) | 최소 힙 | [Java](Baekjoon/BJ1927_최소힙.java) | 자료 구조, 우선순위 큐 | Silver 2 |
+| [Baekjoon](https://www.acmicpc.net/problem/11279) | 최대 힙 | [Java](Baekjoon/BJ11279_최대힙.java) | 자료 구조, 우선순위 큐 | Silver 2 |
+| [Baekjoon](https://www.acmicpc.net/problem/11723) | 집합 | [Java](Baekjoon/BJ11723_집합.java) | 구현, 비트마스킹 | Silver 5 |
+| [Baekjoon](https://www.acmicpc.net/problem/11726) | 2×n 타일링 | [Java](Baekjoon/BJ11726_2xn타일링.java) | 다이나믹 프로그래밍 | Silver 3 |
+| [Baekjoon](https://www.acmicpc.net/problem/11727) | 2×n 타일링 2 | [Java](Baekjoon/BJ11727_2xn타일링2.java) | 다이나믹 프로그래밍 | Silver 3 |
 
 ### Week 39
 

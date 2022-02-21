@@ -6,15 +6,15 @@
 난이도에 관계없이 하루에 한 문제씩 꾸준히 풀기. 완료한 문제는 그날 그날 바로 commit 하기. <br/>
 **수적석천(水適石穿)** 이라고 물방울이 돌을 뚫는다는데, 돌 한 번 뚫어보자😎
 
-## 지금까지 푼 문제 수 (총 331문제)
+## 지금까지 푼 문제 수 (총 332문제)
 
-- `Baekjoon` : **252**문제
+- `Baekjoon` : **253**문제
 - `GoormLevel` : **2**문제
 - `JUNGOL` : **3**문제
 - `Programmers` : **26**문제
 - `SWExpert` : **48**문제
 
-## 이번 주 진행 상황 (총 2문제)
+## 이번 주 진행 상황 (총 3문제)
 
 ### Week 41
 
@@ -24,6 +24,7 @@ _2022. 02. 20 ~ 2022. 02. 26_
 | ---- | --- | --- | ------ | ---- |
 | [Baekjoon](https://www.acmicpc.net/problem/11047) | 동전 0 | [Java](Baekjoon/BJ11047_동전0.java) | 그리디 | Silver 3 |
 | [Baekjoon](https://www.acmicpc.net/problem/1373) | 2진수 8진수 | [Java](Baekjoon/BJ1373_2진수8진수.java) | 수학, 문자열 | Bronze 2 |
+| [Baekjoon](https://www.acmicpc.net/problem/1212) | 8진수 2진수 | [Java](Baekjoon/BJ1212_8진수2진수.java) | 수학, 문자열 | Bronze 3 |
 
 <br>
 

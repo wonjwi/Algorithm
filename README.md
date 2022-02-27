@@ -14,21 +14,14 @@
 - `Programmers` : **26**문제
 - `SWExpert` : **48**문제
 
-## 이번 주 진행 상황 (총 7문제)
+## 이번 주 진행 상황 (총 0문제)
 
-### Week 41
+### Week 42
 
-_2022. 02. 20 ~ 2022. 02. 26_
+_2022. 02. 27 ~ 2022. 03. 05_
 
 | 사이트 | 문제 | 풀이 | 알고리즘 | 난이도 |
 | ---- | --- | --- | ------ | ---- |
-| [Baekjoon](https://www.acmicpc.net/problem/11047) | 동전 0 | [Java](Baekjoon/BJ11047_동전0.java) | 그리디 | Silver 3 |
-| [Baekjoon](https://www.acmicpc.net/problem/1373) | 2진수 8진수 | [Java](Baekjoon/BJ1373_2진수8진수.java) | 수학, 문자열 | Bronze 2 |
-| [Baekjoon](https://www.acmicpc.net/problem/1212) | 8진수 2진수 | [Java](Baekjoon/BJ1212_8진수2진수.java) | 수학, 구현, 문자열 | Bronze 3 |
-| [Baekjoon](https://www.acmicpc.net/problem/1934) | 최소공배수 | [Java](Baekjoon/BJ1934_최소공배수.java) | 수학, 정수론, 유클리드 호제법 | Silver 5 |
-| [Baekjoon](https://www.acmicpc.net/problem/18870) | 좌표 압축 | [Java](Baekjoon/BJ18870_좌표압축.java) | 정렬, 좌표 압축 | Silver 2 |
-| [Baekjoon](https://www.acmicpc.net/problem/2468) | 안전 영역 | [Java](Baekjoon/BJ2468_안전영역.java) | 그래프, 브루트포스, 너비 우선 탐색 | Silver 1 |
-| [Baekjoon](https://www.acmicpc.net/problem/2667) | 단지번호붙이기 | [Java](Baekjoon/BJ2667_단지번호붙이기.java) | 그래프, 너비 우선 탐색 | Silver 1 |
 
 <br>
 
@@ -121,6 +114,20 @@ _2022. 02. 20 ~ 2022. 02. 26_
 ## February 2022
 
 ##### [목록으로 돌아가기](#Solved-Algorithm-Problems)
+
+### Week 41
+
+_2022. 02. 20 ~ 2022. 02. 26_
+
+| 사이트 | 문제 | 풀이 | 알고리즘 | 난이도 |
+| ---- | --- | --- | ------ | ---- |
+| [Baekjoon](https://www.acmicpc.net/problem/11047) | 동전 0 | [Java](Baekjoon/BJ11047_동전0.java) | 그리디 | Silver 3 |
+| [Baekjoon](https://www.acmicpc.net/problem/1373) | 2진수 8진수 | [Java](Baekjoon/BJ1373_2진수8진수.java) | 수학, 문자열 | Bronze 2 |
+| [Baekjoon](https://www.acmicpc.net/problem/1212) | 8진수 2진수 | [Java](Baekjoon/BJ1212_8진수2진수.java) | 수학, 구현, 문자열 | Bronze 3 |
+| [Baekjoon](https://www.acmicpc.net/problem/1934) | 최소공배수 | [Java](Baekjoon/BJ1934_최소공배수.java) | 수학, 정수론, 유클리드 호제법 | Silver 5 |
+| [Baekjoon](https://www.acmicpc.net/problem/18870) | 좌표 압축 | [Java](Baekjoon/BJ18870_좌표압축.java) | 정렬, 좌표 압축 | Silver 2 |
+| [Baekjoon](https://www.acmicpc.net/problem/2468) | 안전 영역 | [Java](Baekjoon/BJ2468_안전영역.java) | 그래프, 브루트포스, 너비 우선 탐색 | Silver 1 |
+| [Baekjoon](https://www.acmicpc.net/problem/2667) | 단지번호붙이기 | [Java](Baekjoon/BJ2667_단지번호붙이기.java) | 그래프, 너비 우선 탐색 | Silver 1 |
 
 ### Week 40
 

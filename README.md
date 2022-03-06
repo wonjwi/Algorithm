@@ -6,27 +6,23 @@
 난이도에 관계없이 하루에 한 문제씩 꾸준히 풀기. 완료한 문제는 그날 그날 바로 commit 하기. <br/>
 **수적석천(水適石穿)** 이라고 물방울이 돌을 뚫는다는데, 돌 한 번 뚫어보자😎
 
-## 지금까지 푼 문제 수 (총 341문제)
+## 지금까지 푼 문제 수 (총 342문제)
 
-- `Baekjoon` : **262**문제
+- `Baekjoon` : **263**문제
 - `GoormLevel` : **2**문제
 - `JUNGOL` : **3**문제
 - `Programmers` : **26**문제
 - `SWExpert` : **48**문제
 
-## 이번 주 진행 상황 (총 5문제)
+## 이번 주 진행 상황 (총 1문제)
 
-### Week 42
+### Week 43
 
-_2022. 02. 27 ~ 2022. 03. 05_
+_2022. 03. 06 ~ 2022. 03. 12_
 
 | 사이트 | 문제 | 풀이 | 알고리즘 | 난이도 |
 | ---- | --- | --- | ------ | ---- |
-| [Baekjoon](https://www.acmicpc.net/problem/2644) | 촌수계산 | [Java](Baekjoon/BJ2644_촌수계산.java) | 그래프, 너비 우선 탐색, 깊이 우선 탐색 | Silver 2 |
-| [Baekjoon](https://www.acmicpc.net/problem/9663) | N-Queen | [Java](Baekjoon/BJ9663_N-Queen.java) | 브루트포스, 백트래킹 | Gold 5 |
-| [Baekjoon](https://www.acmicpc.net/problem/7562) | 나이트의 이동 | [Java](Baekjoon/BJ7562_나이트의이동.java) | 그래프, 너비 우선 탐색 | Silver 2 |
-| [Baekjoon](https://www.acmicpc.net/problem/10867) | 중복 빼고 정렬하기 | [Java](Baekjoon/BJ10867_중복빼고정렬하기.java) | 정렬 | Silver 5 |
-| [Baekjoon](https://www.acmicpc.net/problem/10819) | 차이를 최대로 | [Java](Baekjoon/BJ10819_차이를최대로.java) | 브루트포스, 백트래킹 | Silver 2 |
+| [Baekjoon](https://www.acmicpc.net/problem/10815) | 숫자 카드 | [Java](Baekjoon/BJ10815_숫자카드.java) | 정렬, 이분 탐색 | Silver 4 |
 
 <br>
 
@@ -119,6 +115,18 @@ _2022. 02. 27 ~ 2022. 03. 05_
 ## February 2022
 
 ##### [목록으로 돌아가기](#Solved-Algorithm-Problems)
+
+### Week 42
+
+_2022. 02. 27 ~ 2022. 03. 05_
+
+| 사이트 | 문제 | 풀이 | 알고리즘 | 난이도 |
+| ---- | --- | --- | ------ | ---- |
+| [Baekjoon](https://www.acmicpc.net/problem/2644) | 촌수계산 | [Java](Baekjoon/BJ2644_촌수계산.java) | 그래프, 너비 우선 탐색, 깊이 우선 탐색 | Silver 2 |
+| [Baekjoon](https://www.acmicpc.net/problem/9663) | N-Queen | [Java](Baekjoon/BJ9663_N-Queen.java) | 브루트포스, 백트래킹 | Gold 5 |
+| [Baekjoon](https://www.acmicpc.net/problem/7562) | 나이트의 이동 | [Java](Baekjoon/BJ7562_나이트의이동.java) | 그래프, 너비 우선 탐색 | Silver 2 |
+| [Baekjoon](https://www.acmicpc.net/problem/10867) | 중복 빼고 정렬하기 | [Java](Baekjoon/BJ10867_중복빼고정렬하기.java) | 정렬 | Silver 5 |
+| [Baekjoon](https://www.acmicpc.net/problem/10819) | 차이를 최대로 | [Java](Baekjoon/BJ10819_차이를최대로.java) | 브루트포스, 백트래킹 | Silver 2 |
 
 ### Week 41
 

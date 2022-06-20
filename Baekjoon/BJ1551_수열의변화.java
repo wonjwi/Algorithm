@@ -7,35 +7,30 @@ public class Main {
 
 	public static void main(String[] args) throws IOException {
 		BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
-		StringTokenizer st = null;
 		StringBuilder sb = new StringBuilder();
+		StringTokenizer st = new StringTokenizer(in.readLine());
 
-		int M = Integer.parseInt(in.readLine());
-		long sum = 0, xor = 0;
+		int N = Integer.parseInt(st.nextToken());
+		int K = Integer.parseInt(st.nextToken());
+		int num[] = new int[N];
 
-		for (int i = 0; i < M; i++) {
-			st = new StringTokenizer(in.readLine());
+		st = new StringTokenizer(in.readLine(), ",");
 
-			char c = st.nextToken().charAt(0);
-			int x = st.hasMoreTokens() ? Integer.parseInt(st.nextToken()) : 0;
+		for (int i = 0; i < N; i++) {
+			num[i] = Integer.parseInt(st.nextToken());
+		}
 
-			switch (c) {
-			case '1':
-				sum += x;
-				xor ^= x;
-				break;
-			case '2':
-				sum -= x;
-				xor ^= x;
-				break;
-			case '3':
-				sb.append(sum).append("\n");
-				break;
-			case '4':
-				sb.append(xor).append("\n");
-				break;
+		for (int k = 0; k < K; k++) {
+			for (int i = 1; i < N - k; i++) {
+				num[i - 1] = num[i] - num[i - 1];
 			}
 		}
+
+		for (int i = 0; i < N - K; i++) {
+			sb.append(num[i]).append(",");
+		}
+		sb.setLength(sb.length() - 1);
+
 		System.out.println(sb.toString());
 	}
 

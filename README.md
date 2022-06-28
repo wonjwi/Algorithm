@@ -6,25 +6,23 @@
 난이도에 관계없이 하루에 한 문제씩 꾸준히 풀기. 완료한 문제는 그날 그날 바로 commit 하기. <br/>
 **수적석천(水適石穿)** 이라고 물방울이 돌을 뚫는다는데, 돌 한 번 뚫어보자😎
 
-## 지금까지 푼 문제 수 (총 346문제)
+## 지금까지 푼 문제 수 (총 347문제)
 
-- `Baekjoon` : **267**문제
+- `Baekjoon` : **268**문제
 - `GoormLevel` : **2**문제
 - `JUNGOL` : **3**문제
 - `Programmers` : **26**문제
 - `SWExpert` : **48**문제
 
-## 이번 주 진행 상황 (총 3문제)
+## 이번 주 진행 상황 (총 1문제)
 
-### Week 44
+### Week 45
 
-_2022. 06. 19 ~ 2022. 06. 25_
+_2022. 06. 26 ~ 2022. 07. 02_
 
 | 사이트 | 문제 | 풀이 | 알고리즘 | 난이도 |
 | ---- | --- | --- | ------ | ---- |
-| [Baekjoon](https://www.acmicpc.net/problem/1551) | 수열의 변화 | [Java](Baekjoon/BJ1551_수열의변화.java) | 수학, 구현, 문자열 | Bronze 1 |
-| [Baekjoon](https://www.acmicpc.net/problem/18917) | 수열과 쿼리 38 | [Java](Baekjoon/BJ18917_수열과쿼리38.java) | 수학, 구현 | Silver 3 |
-| [Baekjoon](https://www.acmicpc.net/problem/2630) | 색종이 만들기 | [Java](Baekjoon/BJ2630_색종이만들기.java) | 분할 정복, 재귀 | Silver 2 |
+| [Baekjoon](https://www.acmicpc.net/problem/9251) | 수열의 변화 | [Java](Baekjoon/BJ9251_LCS.java) | 다이나믹 프로그래밍, 문자열 | Gold 5 |
 
 <br>
 
@@ -115,6 +113,20 @@ _2022. 06. 19 ~ 2022. 06. 25_
 - [Week 1](#Week-1) (2021. 02. 01 ~ 2021. 02. 07)
 
 <br>
+
+## June 2022
+
+##### [목록으로 돌아가기](#Solved-Algorithm-Problems)
+
+### Week 44
+
+_2022. 06. 19 ~ 2022. 06. 25_
+
+| 사이트 | 문제 | 풀이 | 알고리즘 | 난이도 |
+| ---- | --- | --- | ------ | ---- |
+| [Baekjoon](https://www.acmicpc.net/problem/1551) | 수열의 변화 | [Java](Baekjoon/BJ1551_수열의변화.java) | 수학, 구현, 문자열 | Bronze 1 |
+| [Baekjoon](https://www.acmicpc.net/problem/18917) | 수열과 쿼리 38 | [Java](Baekjoon/BJ18917_수열과쿼리38.java) | 수학, 구현 | Silver 3 |
+| [Baekjoon](https://www.acmicpc.net/problem/2630) | 색종이 만들기 | [Java](Baekjoon/BJ2630_색종이만들기.java) | 분할 정복, 재귀 | Silver 2 |
 
 ## March 2022
 
